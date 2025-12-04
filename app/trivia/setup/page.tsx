@@ -1,8 +1,11 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState, Suspense } from 'react'
 import ProtectedRoute from '@/components/ProtectedRoute'
 import { useRouter, useSearchParams } from 'next/navigation'
+
+// Force dynamic rendering for this page
+export const dynamic = 'force-dynamic'
 
 interface Stage {
   id: number
