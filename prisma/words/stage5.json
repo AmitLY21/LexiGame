@@ -1,0 +1,1232 @@
+[
+  {
+    "enWord": "income",
+    "heTranslation": "הכנסה",
+    "exampleSentence": "Her monthly income is stable."
+  },
+  {
+    "enWord": "sales",
+    "heTranslation": "מכירות",
+    "exampleSentence": "Sales went up this month."
+  },
+  {
+    "enWord": "turnover",
+    "heTranslation": "מחזור",
+    "exampleSentence": "Annual turnover reached one million dollars."
+  },
+  {
+    "enWord": "discount",
+    "heTranslation": "הנחה",
+    "exampleSentence": "The customer received a 10% discount."
+  },
+  {
+    "enWord": "fee",
+    "heTranslation": "עמלה / דמי שירות",
+    "exampleSentence": "There is a monthly service fee."
+  },
+  {
+    "enWord": "charge",
+    "heTranslation": "חיוב",
+    "exampleSentence": "The credit card charge was too high."
+  },
+  {
+    "enWord": "balance",
+    "heTranslation": "יתרה",
+    "exampleSentence": "My account balance is low."
+  },
+  {
+    "enWord": "deposit",
+    "heTranslation": "פיקדון / להפקיד",
+    "exampleSentence": "We deposit money into the bank account."
+  },
+  {
+    "enWord": "withdrawal",
+    "heTranslation": "משיכה",
+    "exampleSentence": "There was a cash withdrawal yesterday."
+  },
+  {
+    "enWord": "transaction",
+    "heTranslation": "עסקה",
+    "exampleSentence": "Each transaction must be recorded."
+  },
+  {
+    "enWord": "refund",
+    "heTranslation": "החזר",
+    "exampleSentence": "The customer received a refund."
+  },
+  {
+    "enWord": "wage",
+    "heTranslation": "שכר",
+    "exampleSentence": "The hourly wage is fair."
+  },
+  {
+    "enWord": "commission",
+    "heTranslation": "עמלה",
+    "exampleSentence": "Sales staff earn commission on each sale."
+  },
+  {
+    "enWord": "in summary",
+    "heTranslation": "לסיכום",
+    "exampleSentence": "In summary, the project was a success."
+  },
+  {
+    "enWord": "in conclusion",
+    "heTranslation": "לסיכום",
+    "exampleSentence": "In conclusion, we should invest more in marketing."
+  },
+  {
+    "enWord": "in general",
+    "heTranslation": "באופן כללי",
+    "exampleSentence": "In general, our customers are satisfied."
+  },
+  {
+    "enWord": "as usual",
+    "heTranslation": "כרגיל",
+    "exampleSentence": "As usual, month-end is very busy."
+  },
+  {
+    "enWord": "onboarding",
+    "heTranslation": "קליטה",
+    "exampleSentence": "The onboarding process takes two weeks."
+  },
+  {
+    "enWord": "workshop",
+    "heTranslation": "סדנה",
+    "exampleSentence": "We organized a workshop on communication."
+  },
+  {
+    "enWord": "seminar",
+    "heTranslation": "סמינר",
+    "exampleSentence": "I attended a business seminar last month."
+  },
+  {
+    "enWord": "conference",
+    "heTranslation": "כנס",
+    "exampleSentence": "The annual conference is in March."
+  },
+  {
+    "enWord": "networking",
+    "heTranslation": "יצירת קשרים",
+    "exampleSentence": "Networking is important for career growth."
+  },
+  {
+    "enWord": "postpone",
+    "heTranslation": "לדחות",
+    "exampleSentence": "We had to postpone the meeting."
+  },
+  {
+    "enWord": "reschedule",
+    "heTranslation": "לקבוע מחדש",
+    "exampleSentence": "Can we reschedule to next week?"
+  },
+  {
+    "enWord": "confirm",
+    "heTranslation": "לאשר",
+    "exampleSentence": "Please confirm your attendance."
+  },
+  {
+    "enWord": "remind",
+    "heTranslation": "להזכיר",
+    "exampleSentence": "Remind me to call the client tomorrow."
+  },
+  {
+    "enWord": "notify",
+    "heTranslation": "להודיע",
+    "exampleSentence": "I will notify you when it is ready."
+  },
+  {
+    "enWord": "inform",
+    "heTranslation": "ליידע",
+    "exampleSentence": "Please inform the team about the change."
+  },
+  {
+    "enWord": "update",
+    "heTranslation": "לעדכן",
+    "exampleSentence": "I will update you on the progress."
+  },
+  {
+    "enWord": "brief",
+    "heTranslation": "לסכם",
+    "exampleSentence": "Let me brief you on the situation."
+  },
+  {
+    "enWord": "debrief",
+    "heTranslation": "לסכם לאחר מעשה",
+    "exampleSentence": "We will debrief after the meeting."
+  },
+  {
+    "enWord": "summarize",
+    "heTranslation": "לסכם",
+    "exampleSentence": "Can you summarize the main points?"
+  },
+  {
+    "enWord": "highlight",
+    "heTranslation": "להדגיש",
+    "exampleSentence": "I want to highlight this issue."
+  },
+  {
+    "enWord": "emphasize",
+    "heTranslation": "להדגיש",
+    "exampleSentence": "I need to emphasize the importance."
+  },
+  {
+    "enWord": "clarify",
+    "heTranslation": "להבהיר",
+    "exampleSentence": "Let me clarify what I meant."
+  },
+  {
+    "enWord": "specify",
+    "heTranslation": "לפרט",
+    "exampleSentence": "Please specify the exact requirements."
+  },
+  {
+    "enWord": "detail",
+    "heTranslation": "לפרט",
+    "exampleSentence": "I will detail the plan in the email."
+  },
+  {
+    "enWord": "elaborate",
+    "heTranslation": "להרחיב",
+    "exampleSentence": "Can you elaborate on that point?"
+  },
+  {
+    "enWord": "expand",
+    "heTranslation": "להרחיב",
+    "exampleSentence": "I want to expand our business."
+  },
+  {
+    "enWord": "narrow down",
+    "heTranslation": "לצמצם",
+    "exampleSentence": "We need to narrow down the options."
+  },
+  {
+    "enWord": "prioritize",
+    "heTranslation": "לתעדף",
+    "exampleSentence": "We must prioritize urgent tasks."
+  },
+  {
+    "enWord": "delegate",
+    "heTranslation": "להאציל",
+    "exampleSentence": "I will delegate this task to you."
+  },
+  {
+    "enWord": "assign",
+    "heTranslation": "להקצות",
+    "exampleSentence": "I will assign you to this project."
+  },
+  {
+    "enWord": "allocate",
+    "heTranslation": "להקצות",
+    "exampleSentence": "We need to allocate more resources."
+  },
+  {
+    "enWord": "distribute",
+    "heTranslation": "לחלק",
+    "exampleSentence": "I will distribute the workload."
+  },
+  {
+    "enWord": "coordinate",
+    "heTranslation": "לתאם",
+    "exampleSentence": "I will coordinate with other departments."
+  },
+  {
+    "enWord": "collaborate",
+    "heTranslation": "לשתף פעולה",
+    "exampleSentence": "We collaborate with external partners."
+  },
+  {
+    "enWord": "cooperate",
+    "heTranslation": "לשתף פעולה",
+    "exampleSentence": "We need to cooperate on this project."
+  },
+  {
+    "enWord": "negotiate",
+    "heTranslation": "לנהל משא ומתן",
+    "exampleSentence": "We will negotiate the contract terms."
+  },
+  {
+    "enWord": "compromise",
+    "heTranslation": "פשרה",
+    "exampleSentence": "We reached a compromise on the price."
+  },
+  {
+    "enWord": "resolve",
+    "heTranslation": "לפתור",
+    "exampleSentence": "We need to resolve this conflict."
+  },
+  {
+    "enWord": "settle",
+    "heTranslation": "להסדיר",
+    "exampleSentence": "We settled the dispute amicably."
+  },
+  {
+    "enWord": "mediate",
+    "heTranslation": "למתווך",
+    "exampleSentence": "A third party will mediate the discussion."
+  },
+  {
+    "enWord": "facilitate",
+    "heTranslation": "לסייע",
+    "exampleSentence": "I will facilitate the meeting."
+  },
+  {
+    "enWord": "enable",
+    "heTranslation": "לאפשר",
+    "exampleSentence": "This will enable us to work faster."
+  },
+  {
+    "enWord": "empower",
+    "heTranslation": "להעצים",
+    "exampleSentence": "We want to empower our employees."
+  },
+  {
+    "enWord": "motivate",
+    "heTranslation": "להניע",
+    "exampleSentence": "Good leadership motivates the team."
+  },
+  {
+    "enWord": "inspire",
+    "heTranslation": "להוות השראה",
+    "exampleSentence": "Her success inspires others."
+  },
+  {
+    "enWord": "currency",
+    "heTranslation": "מטבע",
+    "exampleSentence": "The local currency is the Shekel."
+  },
+  {
+    "enWord": "banknote",
+    "heTranslation": "שטר",
+    "exampleSentence": "He gave me a 50 dollar banknote."
+  },
+  {
+    "enWord": "coin",
+    "heTranslation": "מטבע",
+    "exampleSentence": "I have a few coins in my pocket."
+  },
+  {
+    "enWord": "petty cash",
+    "heTranslation": "קופה קטנה",
+    "exampleSentence": "Use petty cash for small expenses."
+  },
+  {
+    "enWord": "funds",
+    "heTranslation": "כספים",
+    "exampleSentence": "We need more funds for the project."
+  },
+  {
+    "enWord": "wealth",
+    "heTranslation": "עושר",
+    "exampleSentence": "He accumulated great wealth."
+  },
+  {
+    "enWord": "fortune",
+    "heTranslation": "הון",
+    "exampleSentence": "She inherited a fortune."
+  },
+  {
+    "enWord": "debt",
+    "heTranslation": "חוב",
+    "exampleSentence": "They are in deep debt."
+  },
+  {
+    "enWord": "credit",
+    "heTranslation": "אשראי",
+    "exampleSentence": "We bought it on credit."
+  },
+  {
+    "enWord": "mortgage",
+    "heTranslation": "משכנתא",
+    "exampleSentence": "The mortgage payments are high."
+  },
+  {
+    "enWord": "overdraft",
+    "heTranslation": "משיכת יתר",
+    "exampleSentence": "I have an overdraft limit."
+  },
+  {
+    "enWord": "interest",
+    "heTranslation": "ריבית",
+    "exampleSentence": "The interest rate is 5%."
+  },
+  {
+    "enWord": "principal",
+    "heTranslation": "קרן",
+    "exampleSentence": "We paid back the principal."
+  },
+  {
+    "enWord": "rate",
+    "heTranslation": "שיעור",
+    "exampleSentence": "The exchange rate changed."
+  },
+  {
+    "enWord": "percentage",
+    "heTranslation": "אחוז",
+    "exampleSentence": "What percentage do you take?"
+  },
+  {
+    "enWord": "appreciation",
+    "heTranslation": "ייסוף / עליית ערך",
+    "exampleSentence": "The appreciation of the dollar helped us."
+  },
+  {
+    "enWord": "value",
+    "heTranslation": "ערך",
+    "exampleSentence": "What is the value of this house?"
+  },
+  {
+    "enWord": "levy",
+    "heTranslation": "היטל",
+    "exampleSentence": "The government imposed a levy."
+  },
+  {
+    "enWord": "duty",
+    "heTranslation": "מכס / חובה",
+    "exampleSentence": "Import duty is expensive."
+  },
+  {
+    "enWord": "income tax",
+    "heTranslation": "מס הכנסה",
+    "exampleSentence": "Income tax is deducted automatically."
+  },
+  {
+    "enWord": "corporate tax",
+    "heTranslation": "מס חברות",
+    "exampleSentence": "Corporate tax decreased."
+  },
+  {
+    "enWord": "property tax",
+    "heTranslation": "מס רכוש",
+    "exampleSentence": "We paid the property tax."
+  },
+  {
+    "enWord": "banking",
+    "heTranslation": "בנקאות",
+    "exampleSentence": "Online banking is convenient."
+  },
+  {
+    "enWord": "teller",
+    "heTranslation": "כספר",
+    "exampleSentence": "The teller counted the money."
+  },
+  {
+    "enWord": "branch",
+    "heTranslation": "סניף",
+    "exampleSentence": "Visit your local branch."
+  },
+  {
+    "enWord": "atm",
+    "heTranslation": "כספומט",
+    "exampleSentence": "I need to find an ATM."
+  },
+  {
+    "enWord": "savings",
+    "heTranslation": "חסכונות",
+    "exampleSentence": "I keep my savings here."
+  },
+  {
+    "enWord": "statement",
+    "heTranslation": "דפי חשבון",
+    "exampleSentence": "Check your monthly statement."
+  },
+  {
+    "enWord": "remittance",
+    "heTranslation": "העברת כספים",
+    "exampleSentence": "He sent a remittance home."
+  },
+  {
+    "enWord": "wire transfer",
+    "heTranslation": "העברה בנקאית",
+    "exampleSentence": "We paid by wire transfer."
+  },
+  {
+    "enWord": "direct debit",
+    "heTranslation": "הוראת קבע",
+    "exampleSentence": "Pay bills by direct debit."
+  },
+  {
+    "enWord": "cheque",
+    "heTranslation": "המחאה",
+    "exampleSentence": "He wrote a cheque."
+  },
+  {
+    "enWord": "payee",
+    "heTranslation": "מוטב",
+    "exampleSentence": "Write the name of the payee."
+  },
+  {
+    "enWord": "payer",
+    "heTranslation": "משלם",
+    "exampleSentence": "The payer must sign."
+  },
+  {
+    "enWord": "settlement",
+    "heTranslation": "יישוב / פירעון",
+    "exampleSentence": "We reached a settlement."
+  },
+  {
+    "enWord": "exchange",
+    "heTranslation": "חליפין",
+    "exampleSentence": "Stock exchange is open."
+  },
+  {
+    "enWord": "convert",
+    "heTranslation": "להמיר",
+    "exampleSentence": "Convert dollars to shekels."
+  },
+  {
+    "enWord": "conversion",
+    "heTranslation": "המרה",
+    "exampleSentence": "Conversion rates vary."
+  },
+  {
+    "enWord": "investment",
+    "heTranslation": "השקעה",
+    "exampleSentence": "Real estate is a good investment."
+  },
+  {
+    "enWord": "portfolio",
+    "heTranslation": "תיק השקעות",
+    "exampleSentence": "Diversify your portfolio."
+  },
+  {
+    "enWord": "checking account",
+    "heTranslation": "חשבון עובר ושב",
+    "exampleSentence": "Open a checking account."
+  },
+  {
+    "enWord": "savings account",
+    "heTranslation": "חשבון חיסכון",
+    "exampleSentence": "Transfer to savings account."
+  },
+  {
+    "enWord": "joint account",
+    "heTranslation": "חשבון משותף",
+    "exampleSentence": "We have a joint account."
+  },
+  {
+    "enWord": "current account",
+    "heTranslation": "חשבון עו\"ש",
+    "exampleSentence": "Current account balance."
+  },
+  {
+    "enWord": "fixed deposit",
+    "heTranslation": "פיקדון קבוע",
+    "exampleSentence": "Fixed deposit interest."
+  },
+  {
+    "enWord": "term deposit",
+    "heTranslation": "פיקדון לטווח",
+    "exampleSentence": "Term deposit maturity."
+  },
+  {
+    "enWord": "debit card",
+    "heTranslation": "כרטיס חיוב",
+    "exampleSentence": "Use your debit card."
+  },
+  {
+    "enWord": "PIN",
+    "heTranslation": "קוד אישי",
+    "exampleSentence": "Enter your PIN."
+  },
+  {
+    "enWord": "password",
+    "heTranslation": "סיסמה",
+    "exampleSentence": "Change your password."
+  },
+  {
+    "enWord": "online banking",
+    "heTranslation": "בנקאות מקוונת",
+    "exampleSentence": "Use online banking."
+  },
+  {
+    "enWord": "mobile banking",
+    "heTranslation": "בנקאות סלולרית",
+    "exampleSentence": "Download mobile banking app."
+  },
+  {
+    "enWord": "bank manager",
+    "heTranslation": "מנהל בנק",
+    "exampleSentence": "Talk to the bank manager."
+  },
+  {
+    "enWord": "loan officer",
+    "heTranslation": "קצין הלוואות",
+    "exampleSentence": "Meet the loan officer."
+  },
+  {
+    "enWord": "financial adviser",
+    "heTranslation": "יועץ פיננסי",
+    "exampleSentence": "Consult a financial adviser."
+  },
+  {
+    "enWord": "credit rating",
+    "heTranslation": "דירוג אשראי",
+    "exampleSentence": "Check your credit rating."
+  },
+  {
+    "enWord": "credit score",
+    "heTranslation": "ציון אשראי",
+    "exampleSentence": "Improve your credit score."
+  },
+  {
+    "enWord": "credit limit",
+    "heTranslation": "מסגרת אשראי",
+    "exampleSentence": "Increase credit limit."
+  },
+  {
+    "enWord": "credit history",
+    "heTranslation": "היסטוריית אשראי",
+    "exampleSentence": "Good credit history."
+  },
+  {
+    "enWord": "default",
+    "heTranslation": "מחדל",
+    "exampleSentence": "Default on loan."
+  },
+  {
+    "enWord": "repayment",
+    "heTranslation": "פירעון",
+    "exampleSentence": "Loan repayment schedule."
+  },
+  {
+    "enWord": "installment",
+    "heTranslation": "תשלום",
+    "exampleSentence": "Pay in installments."
+  },
+  {
+    "enWord": "down payment",
+    "heTranslation": "מקדמה",
+    "exampleSentence": "Make a down payment."
+  },
+  {
+    "enWord": "deposit slip",
+    "heTranslation": "תלוש פיקדון",
+    "exampleSentence": "Fill out the deposit slip."
+  },
+  {
+    "enWord": "withdrawal slip",
+    "heTranslation": "תלוש משיכה",
+    "exampleSentence": "Submit withdrawal slip."
+  },
+  {
+    "enWord": "bank draft",
+    "heTranslation": "שטר בנקאי",
+    "exampleSentence": "Issue a bank draft."
+  },
+  {
+    "enWord": "cashier cheque",
+    "heTranslation": "המחאה בנקאית",
+    "exampleSentence": "Request cashier cheque."
+  },
+  {
+    "enWord": "bounced cheque",
+    "heTranslation": "המחאה חוזרת",
+    "exampleSentence": "The cheque bounced."
+  },
+  {
+    "enWord": "stop payment",
+    "heTranslation": "עצירת תשלום",
+    "exampleSentence": "Stop payment on cheque."
+  },
+  {
+    "enWord": "standing order",
+    "heTranslation": "הוראת קבע",
+    "exampleSentence": "Set up standing order."
+  },
+  {
+    "enWord": "automatic payment",
+    "heTranslation": "תשלום אוטומטי",
+    "exampleSentence": "Enable automatic payment."
+  },
+  {
+    "enWord": "recurring payment",
+    "heTranslation": "תשלום חוזר",
+    "exampleSentence": "Cancel recurring payment."
+  },
+  {
+    "enWord": "money order",
+    "heTranslation": "המחאה דוארית",
+    "exampleSentence": "Buy a money order."
+  },
+  {
+    "enWord": "traveler cheque",
+    "heTranslation": "צ'ק נוסעים",
+    "exampleSentence": "Cash traveler cheque."
+  },
+  {
+    "enWord": "foreign exchange",
+    "heTranslation": "מט\"ח",
+    "exampleSentence": "Foreign exchange rates."
+  },
+  {
+    "enWord": "forex",
+    "heTranslation": "מט\"ח",
+    "exampleSentence": "Forex trading."
+  },
+  {
+    "enWord": "exchange bureau",
+    "heTranslation": "משרד החלפה",
+    "exampleSentence": "Find an exchange bureau."
+  },
+  {
+    "enWord": "currency fluctuation",
+    "heTranslation": "תנודת מטבע",
+    "exampleSentence": "Currency fluctuation risk."
+  },
+  {
+    "enWord": "devaluation",
+    "heTranslation": "פיחות",
+    "exampleSentence": "Currency devaluation."
+  },
+  {
+    "enWord": "revaluation",
+    "heTranslation": "ייסוף",
+    "exampleSentence": "Currency revaluation."
+  },
+  {
+    "enWord": "inflation rate",
+    "heTranslation": "שיעור אינפלציה",
+    "exampleSentence": "High inflation rate."
+  },
+  {
+    "enWord": "deflation rate",
+    "heTranslation": "שיעור דפלציה",
+    "exampleSentence": "Rare deflation rate."
+  },
+  {
+    "enWord": "purchasing power",
+    "heTranslation": "כוח קנייה",
+    "exampleSentence": "Purchasing power decreased."
+  },
+  {
+    "enWord": "cost of living",
+    "heTranslation": "יוקר המחיה",
+    "exampleSentence": "Cost of living adjustment."
+  },
+  {
+    "enWord": "financial institution",
+    "heTranslation": "מוסד פיננסי",
+    "exampleSentence": "Regulated financial institution."
+  },
+  {
+    "enWord": "commercial bank",
+    "heTranslation": "בנק מסחרי",
+    "exampleSentence": "Commercial bank services."
+  },
+  {
+    "enWord": "investment bank",
+    "heTranslation": "בנק השקעות",
+    "exampleSentence": "Investment bank advisory."
+  },
+  {
+    "enWord": "central bank",
+    "heTranslation": "בנק מרכזי",
+    "exampleSentence": "Central bank policy."
+  },
+  {
+    "enWord": "reserve bank",
+    "heTranslation": "בנק רזרבות",
+    "exampleSentence": "Reserve bank requirements."
+  },
+  {
+    "enWord": "credit union",
+    "heTranslation": "איגוד אשראי",
+    "exampleSentence": "Join a credit union."
+  },
+  {
+    "enWord": "building society",
+    "heTranslation": "אגודת שיכון",
+    "exampleSentence": "Building society mortgage."
+  },
+  {
+    "enWord": "finance company",
+    "heTranslation": "חברת מימון",
+    "exampleSentence": "Finance company loan."
+  },
+  {
+    "enWord": "microfinance",
+    "heTranslation": "מימון זעיר",
+    "exampleSentence": "Microfinance institution."
+  },
+  {
+    "enWord": "payday loan",
+    "heTranslation": "הלוואת יום תשלום",
+    "exampleSentence": "Avoid payday loans."
+  },
+  {
+    "enWord": "personal loan",
+    "heTranslation": "הלוואה אישית",
+    "exampleSentence": "Apply for personal loan."
+  },
+  {
+    "enWord": "business loan",
+    "heTranslation": "הלוואה עסקית",
+    "exampleSentence": "Business loan approval."
+  },
+  {
+    "enWord": "car loan",
+    "heTranslation": "הלוואת רכב",
+    "exampleSentence": "Car loan terms."
+  },
+  {
+    "enWord": "home loan",
+    "heTranslation": "הלוואת דיור",
+    "exampleSentence": "Home loan application."
+  },
+  {
+    "enWord": "student loan",
+    "heTranslation": "הלוואת סטודנט",
+    "exampleSentence": "Student loan debt."
+  },
+  {
+    "enWord": "secured loan",
+    "heTranslation": "הלוואה מובטחת",
+    "exampleSentence": "Secured loan collateral."
+  },
+  {
+    "enWord": "unsecured loan",
+    "heTranslation": "הלוואה לא מובטחת",
+    "exampleSentence": "Unsecured loan rate."
+  },
+  {
+    "enWord": "collateral",
+    "heTranslation": "ערובה",
+    "exampleSentence": "Provide collateral."
+  },
+  {
+    "enWord": "guarantor",
+    "heTranslation": "ערב",
+    "exampleSentence": "Need a guarantor."
+  },
+  {
+    "enWord": "co-signer",
+    "heTranslation": "חותם שותף",
+    "exampleSentence": "Find a co-signer."
+  },
+  {
+    "enWord": "prime rate",
+    "heTranslation": "ריבית בסיס",
+    "exampleSentence": "Prime rate increase."
+  },
+  {
+    "enWord": "variable rate",
+    "heTranslation": "ריבית משתנה",
+    "exampleSentence": "Variable rate mortgage."
+  },
+  {
+    "enWord": "fixed rate",
+    "heTranslation": "ריבית קבועה",
+    "exampleSentence": "Fixed rate loan."
+  },
+  {
+    "enWord": "compound interest",
+    "heTranslation": "ריבית דריבית",
+    "exampleSentence": "Compound interest calculation."
+  },
+  {
+    "enWord": "simple interest",
+    "heTranslation": "ריבית פשוטה",
+    "exampleSentence": "Simple interest formula."
+  },
+  {
+    "enWord": "accrued interest",
+    "heTranslation": "ריבית שנצברה",
+    "exampleSentence": "Accrued interest amount."
+  },
+  {
+    "enWord": "usury",
+    "heTranslation": "ריבית מופרזת",
+    "exampleSentence": "Usury laws."
+  },
+  {
+    "enWord": "penalty",
+    "heTranslation": "קנס",
+    "exampleSentence": "Late payment penalty."
+  },
+  {
+    "enWord": "fine",
+    "heTranslation": "קנס",
+    "exampleSentence": "Traffic fine."
+  },
+  {
+    "enWord": "forfeit",
+    "heTranslation": "חילוט",
+    "exampleSentence": "Forfeit deposit."
+  },
+  {
+    "enWord": "confiscation",
+    "heTranslation": "הפקעה",
+    "exampleSentence": "Asset confiscation."
+  },
+  {
+    "enWord": "seizure",
+    "heTranslation": "תפיסה",
+    "exampleSentence": "Property seizure."
+  },
+  {
+    "enWord": "foreclosure",
+    "heTranslation": "עיקול",
+    "exampleSentence": "Mortgage foreclosure."
+  },
+  {
+    "enWord": "bankruptcy",
+    "heTranslation": "פשיטת רגל",
+    "exampleSentence": "File for bankruptcy."
+  },
+  {
+    "enWord": "insolvency",
+    "heTranslation": "חדלות פירעון",
+    "exampleSentence": "Declare insolvency."
+  },
+  {
+    "enWord": "liquidation",
+    "heTranslation": "פירוק",
+    "exampleSentence": "Company liquidation."
+  },
+  {
+    "enWord": "restructuring",
+    "heTranslation": "ארגון מחדש",
+    "exampleSentence": "Debt restructuring."
+  },
+  {
+    "enWord": "refinancing",
+    "heTranslation": "מימון מחדש",
+    "exampleSentence": "Mortgage refinancing."
+  },
+  {
+    "enWord": "consolidation",
+    "heTranslation": "איחוד",
+    "exampleSentence": "Debt consolidation."
+  },
+  {
+    "enWord": "amortization schedule",
+    "heTranslation": "לוח פירעון",
+    "exampleSentence": "Review amortization schedule."
+  },
+  {
+    "enWord": "maturity date",
+    "heTranslation": "תאריך פרעון",
+    "exampleSentence": "Bond maturity date."
+  },
+  {
+    "enWord": "grace period",
+    "heTranslation": "תקופת חסד",
+    "exampleSentence": "Grace period ends soon."
+  },
+  {
+    "enWord": "deferment",
+    "heTranslation": "דחייה",
+    "exampleSentence": "Loan deferment option."
+  },
+  {
+    "enWord": "forbearance",
+    "heTranslation": "ארכה",
+    "exampleSentence": "Request forbearance."
+  },
+  {
+    "enWord": "write-off",
+    "heTranslation": "מחיקה",
+    "exampleSentence": "Bad debt write-off."
+  },
+  {
+    "enWord": "reserve",
+    "heTranslation": "רזרבה",
+    "exampleSentence": "Cash reserve requirement."
+  },
+  {
+    "enWord": "liquidity",
+    "heTranslation": "נזילות",
+    "exampleSentence": "Maintain liquidity."
+  },
+  {
+    "enWord": "solvency",
+    "heTranslation": "כושר פירעון",
+    "exampleSentence": "Company solvency."
+  },
+  {
+    "enWord": "asset",
+    "heTranslation": "נכס",
+    "exampleSentence": "Liquid asset."
+  },
+  {
+    "enWord": "tangible asset",
+    "heTranslation": "נכס מוחשי",
+    "exampleSentence": "Tangible asset value."
+  },
+  {
+    "enWord": "intangible asset",
+    "heTranslation": "נכס בלתי מוחשי",
+    "exampleSentence": "Intangible asset valuation."
+  },
+  {
+    "enWord": "fixed asset",
+    "heTranslation": "נכס קבוע",
+    "exampleSentence": "Fixed asset register."
+  },
+  {
+    "enWord": "current asset",
+    "heTranslation": "נכס שוטף",
+    "exampleSentence": "Current asset ratio."
+  },
+  {
+    "enWord": "real estate",
+    "heTranslation": "נדל\"ן",
+    "exampleSentence": "Real estate investment."
+  },
+  {
+    "enWord": "property",
+    "heTranslation": "נכס / רכוש",
+    "exampleSentence": "Commercial property."
+  },
+  {
+    "enWord": "estate",
+    "heTranslation": "עזבון",
+    "exampleSentence": "Estate planning."
+  },
+  {
+    "enWord": "inheritance",
+    "heTranslation": "ירושה",
+    "exampleSentence": "Inheritance tax."
+  },
+  {
+    "enWord": "bequest",
+    "heTranslation": "צוואה",
+    "exampleSentence": "Leave a bequest."
+  },
+  {
+    "enWord": "legacy",
+    "heTranslation": "עזבון / מורשת",
+    "exampleSentence": "Family legacy."
+  },
+  {
+    "enWord": "trust",
+    "heTranslation": "נאמנות",
+    "exampleSentence": "Family trust."
+  },
+  {
+    "enWord": "trustee",
+    "heTranslation": "נאמן",
+    "exampleSentence": "Appoint a trustee."
+  },
+  {
+    "enWord": "beneficiary",
+    "heTranslation": "מוטב",
+    "exampleSentence": "Name a beneficiary."
+  },
+  {
+    "enWord": "endowment",
+    "heTranslation": "קרן",
+    "exampleSentence": "University endowment."
+  },
+  {
+    "enWord": "grant",
+    "heTranslation": "מענק",
+    "exampleSentence": "Government grant."
+  },
+  {
+    "enWord": "subsidy",
+    "heTranslation": "סובסידיה",
+    "exampleSentence": "Housing subsidy."
+  },
+  {
+    "enWord": "allowance",
+    "heTranslation": "קצבה",
+    "exampleSentence": "Monthly allowance."
+  },
+  {
+    "enWord": "stipend",
+    "heTranslation": "מלגה",
+    "exampleSentence": "Research stipend."
+  },
+  {
+    "enWord": "scholarship",
+    "heTranslation": "מלגת לימודים",
+    "exampleSentence": "Merit scholarship."
+  },
+  {
+    "enWord": "fellowship",
+    "heTranslation": "מלגת מחקר",
+    "exampleSentence": "Graduate fellowship."
+  },
+  {
+    "enWord": "bursary",
+    "heTranslation": "מלגה",
+    "exampleSentence": "Financial need bursary."
+  },
+  {
+    "enWord": "pension",
+    "heTranslation": "פנסיה",
+    "exampleSentence": "Retirement pension."
+  },
+  {
+    "enWord": "annuity",
+    "heTranslation": "קצבה",
+    "exampleSentence": "Life annuity."
+  },
+  {
+    "enWord": "dividend",
+    "heTranslation": "דיבידנד",
+    "exampleSentence": "Quarterly dividend."
+  },
+  {
+    "enWord": "interest payment",
+    "heTranslation": "תשלום ריבית",
+    "exampleSentence": "Bond interest payment."
+  },
+  {
+    "enWord": "coupon payment",
+    "heTranslation": "תשלום קופון",
+    "exampleSentence": "Coupon payment date."
+  },
+  {
+    "enWord": "yield",
+    "heTranslation": "תשואה",
+    "exampleSentence": "High yield bond."
+  },
+  {
+    "enWord": "capital gain",
+    "heTranslation": "רווח הון",
+    "exampleSentence": "Long-term capital gain."
+  },
+  {
+    "enWord": "capital loss",
+    "heTranslation": "הפסד הון",
+    "exampleSentence": "Capital loss offset."
+  },
+  {
+    "enWord": "profit margin",
+    "heTranslation": "מרווח רווח",
+    "exampleSentence": "Net profit margin."
+  },
+  {
+    "enWord": "break-even",
+    "heTranslation": "נקודת אפס",
+    "exampleSentence": "Reach break-even point."
+  },
+  {
+    "enWord": "cash flow",
+    "heTranslation": "תזרים מזומנים",
+    "exampleSentence": "Positive cash flow."
+  },
+  {
+    "enWord": "working capital",
+    "heTranslation": "הון חוזר",
+    "exampleSentence": "Working capital needs."
+  },
+  {
+    "enWord": "equity capital",
+    "heTranslation": "הון עצמי",
+    "exampleSentence": "Raise equity capital."
+  },
+  {
+    "enWord": "debt capital",
+    "heTranslation": "הון זר",
+    "exampleSentence": "Debt capital structure."
+  },
+  {
+    "enWord": "capital structure",
+    "heTranslation": "מבנה הון",
+    "exampleSentence": "Optimize capital structure."
+  },
+  {
+    "enWord": "leverage ratio",
+    "heTranslation": "יחס מינוף",
+    "exampleSentence": "High leverage ratio."
+  },
+  {
+    "enWord": "debt-to-equity",
+    "heTranslation": "חוב להון",
+    "exampleSentence": "Debt-to-equity ratio."
+  },
+  {
+    "enWord": "gearing",
+    "heTranslation": "מינוף",
+    "exampleSentence": "Company gearing."
+  },
+  {
+    "enWord": "financial leverage",
+    "heTranslation": "מינוף פיננסי",
+    "exampleSentence": "Use financial leverage."
+  },
+  {
+    "enWord": "operating leverage",
+    "heTranslation": "מינוף תפעולי",
+    "exampleSentence": "Operating leverage effect."
+  },
+  {
+    "enWord": "financial planning",
+    "heTranslation": "תכנון פיננסי",
+    "exampleSentence": "Personal financial planning."
+  },
+  {
+    "enWord": "budgeting",
+    "heTranslation": "תקצוב",
+    "exampleSentence": "Zero-based budgeting."
+  },
+  {
+    "enWord": "forecasting",
+    "heTranslation": "חיזוי",
+    "exampleSentence": "Financial forecasting."
+  },
+  {
+    "enWord": "projection",
+    "heTranslation": "תחזית",
+    "exampleSentence": "Revenue projection."
+  },
+  {
+    "enWord": "valuation",
+    "heTranslation": "הערכת שווי",
+    "exampleSentence": "Company valuation."
+  },
+  {
+    "enWord": "appraisal",
+    "heTranslation": "שמאות",
+    "exampleSentence": "Property appraisal."
+  },
+  {
+    "enWord": "assessment",
+    "heTranslation": "הערכה",
+    "exampleSentence": "Tax assessment."
+  },
+  {
+    "enWord": "audit",
+    "heTranslation": "ביקורת",
+    "exampleSentence": "Financial audit."
+  },
+  {
+    "enWord": "inspection",
+    "heTranslation": "בדיקה",
+    "exampleSentence": "Compliance inspection."
+  },
+  {
+    "enWord": "verification",
+    "heTranslation": "אימות",
+    "exampleSentence": "Identity verification."
+  },
+  {
+    "enWord": "authentication",
+    "heTranslation": "אימות",
+    "exampleSentence": "Two-factor authentication."
+  },
+  {
+    "enWord": "approval",
+    "heTranslation": "אישור",
+    "exampleSentence": "Loan approval."
+  },
+  {
+    "enWord": "clearance",
+    "heTranslation": "אישור",
+    "exampleSentence": "Customs clearance."
+  },
+  {
+    "enWord": "processing",
+    "heTranslation": "עיבוד",
+    "exampleSentence": "Payment processing."
+  },
+  {
+    "enWord": "reconciliation",
+    "heTranslation": "התאמה",
+    "exampleSentence": "Bank reconciliation."
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "enWord": "depreciation",
+    "heTranslation": "פחת",
+    "exampleSentence": "Depreciation reduces the value of fixed assets."
+  },
+  {
+    "enWord": "amortization",
+    "heTranslation": "הפחתה / אמורטיזציה",
+    "exampleSentence": "We record amortization of intangible assets."
+  },
+  {
+    "enWord": "accrual",
+    "heTranslation": "צבירה חשבונאית",
+    "exampleSentence": "Accrual accounting records income when it is earned."
+  },
+  {
+    "enWord": "prepaid expense",
+    "heTranslation": "הוצאה מראש",
+    "exampleSentence": "Rent is sometimes a prepaid expense."
+  },
+  {
+    "enWord": "accounts payable",
+    "heTranslation": "ספקים / חשבונות לתשלום",
+    "exampleSentence": "We paid our accounts payable on time."
+  },
+  {
+    "enWord": "accounts receivable",
+    "heTranslation": "יתרות לקוחות / חייבים",
+    "exampleSentence": "Accounts receivable increased last month."
+  },
+  {
+    "enWord": "debit",
+    "heTranslation": "חובה",
+    "exampleSentence": "Post this amount to the debit side."
+  },
+  {
+    "enWord": "ledger",
+    "heTranslation": "ספר ראשי",
+    "exampleSentence": "All transactions go into the ledger."
+  },
+  {
+    "enWord": "journal",
+    "heTranslation": "יומן",
+    "exampleSentence": "We record entries in the journal."
+  },
+  {
+    "enWord": "trial balance",
+    "heTranslation": "מאזן בוחן",
+    "exampleSentence": "The trial balance must be checked."
+  },
+  {
+    "enWord": "balance sheet",
+    "heTranslation": "מאזן",
+    "exampleSentence": "The balance sheet shows assets and liabilities."
+  },
+  {
+    "enWord": "income statement",
+    "heTranslation": "דו״ח רווח והפסד",
+    "exampleSentence": "The income statement shows profit."
+  },
+  {
+    "enWord": "cash flow statement",
+    "heTranslation": "דו״ח תזרים מזומנים",
+    "exampleSentence": "The cash flow statement explains money movement."
+  },
+  {
+    "enWord": "auditor",
+    "heTranslation": "מבקר / רואה חשבון מבקר",
+    "exampleSentence": "The auditor asked for more documents."
+  },
+  {
+    "enWord": "inventory count",
+    "heTranslation": "ספירת מלאי",
+    "exampleSentence": "Inventory count takes place once a year."
+  },
+  {
+    "enWord": "payroll taxes",
+    "heTranslation": "מיסי שכר",
+    "exampleSentence": "Payroll taxes are paid every month."
+  },
+  {
+    "enWord": "VAT (value-added tax)",
+    "heTranslation": "מע״מ",
+    "exampleSentence": "We must report VAT every month."
+  },
+  {
+    "enWord": "withholding tax",
+    "heTranslation": "מס במקור",
+    "exampleSentence": "The payment includes withholding tax."
+  },
+  {
+    "enWord": "chart of accounts",
+    "heTranslation": "תרשים חשבונות",
+    "exampleSentence": "We added a new code to the chart of accounts."
+  },
+  {
+    "enWord": "fiscal year",
+    "heTranslation": "שנת מס / שנת כספים",
+    "exampleSentence": "Our fiscal year ends in December."
+  },
+  {
+    "enWord": "closing entries",
+    "heTranslation": "פקודות סגירה",
+    "exampleSentence": "We post closing entries at year-end."
+  },
+  {
+    "enWord": "adjusting entry",
+    "heTranslation": "פקודת התאמה",
+    "exampleSentence": "We post adjusting entries at month-end."
+  },
+  {
+    "enWord": "reversing entry",
+    "heTranslation": "פקודת היפוך",
+    "exampleSentence": "Reversing entries simplify the process."
+  },
+  {
+    "enWord": "accrued revenue",
+    "heTranslation": "הכנסה נצברת",
+    "exampleSentence": "We record accrued revenue at period-end."
+  },
+  {
+    "enWord": "accrued expense",
+    "heTranslation": "הוצאה נצברת",
+    "exampleSentence": "Accrued expenses must be recorded."
+  },
+  {
+    "enWord": "deferred revenue",
+    "heTranslation": "הכנסה נדחית",
+    "exampleSentence": "Deferred revenue is a liability."
+  },
+  {
+    "enWord": "deferred expense",
+    "heTranslation": "הוצאה נדחית",
+    "exampleSentence": "Deferred expenses are prepaid."
+  },
+  {
+    "enWord": "unearned revenue",
+    "heTranslation": "הכנסה שלא נצברה",
+    "exampleSentence": "Unearned revenue is a liability."
+  },
+  {
+    "enWord": "bad debt",
+    "heTranslation": "חוב אבוד",
+    "exampleSentence": "We wrote off bad debt this quarter."
+  },
+  {
+    "enWord": "allowance for doubtful accounts",
+    "heTranslation": "הפרשה לחובות מסופקים",
+    "exampleSentence": "We maintain an allowance for doubtful accounts."
+  },
+  {
+    "enWord": "aging analysis",
+    "heTranslation": "ניתוח גילאים",
+    "exampleSentence": "The aging analysis shows collection status."
+  },
+  {
+    "enWord": "collection period",
+    "heTranslation": "תקופת גביה",
+    "exampleSentence": "The collection period is 45 days."
+  },
+  {
+    "enWord": "payment terms",
+    "heTranslation": "תנאי תשלום",
+    "exampleSentence": "Our payment terms are net 30."
+  },
+  {
+    "enWord": "credit check",
+    "heTranslation": "בדיקת אשראי",
+    "exampleSentence": "We do a credit check for new customers."
+  },
+  {
+    "enWord": "creditworthiness",
+    "heTranslation": "כשירות אשראי",
+    "exampleSentence": "We assess creditworthiness before approval."
+  },
+  {
+    "enWord": "lien",
+    "heTranslation": "עיקול",
+    "exampleSentence": "The bank has a lien on the asset."
+  },
+  {
+    "enWord": "lease",
+    "heTranslation": "השכרה",
+    "exampleSentence": "We lease our office space."
+  },
+  {
+    "enWord": "lessor",
+    "heTranslation": "משכיר",
+    "exampleSentence": "The lessor owns the property."
+  },
+  {
+    "enWord": "lessee",
+    "heTranslation": "שוכר",
+    "exampleSentence": "We are the lessee."
+  },
+  {
+    "enWord": "rental income",
+    "heTranslation": "הכנסה משכירות",
+    "exampleSentence": "Rental income is recorded monthly."
+  },
+  {
+    "enWord": "rental expense",
+    "heTranslation": "הוצאה לשכירות",
+    "exampleSentence": "Rental expense is a fixed cost."
+  },
+  {
+    "enWord": "leasehold",
+    "heTranslation": "זכות שכירות",
+    "exampleSentence": "We have a leasehold on the property."
+  },
+  {
+    "enWord": "freehold",
+    "heTranslation": "בעלות מלאה",
+    "exampleSentence": "We own the freehold of the building."
+  },
+  {
+    "enWord": "advance",
+    "heTranslation": "מקדמה",
+    "exampleSentence": "The customer paid an advance."
+  },
+  {
+    "enWord": "retainer",
+    "heTranslation": "דמי שמירה",
+    "exampleSentence": "We pay a monthly retainer."
+  },
+  {
+    "enWord": "retention",
+    "heTranslation": "שימור",
+    "exampleSentence": "Customer retention is our priority."
+  },
+  {
+    "enWord": "churn rate",
+    "heTranslation": "שיעור נטישה",
+    "exampleSentence": "The churn rate decreased this quarter."
+  },
+  {
+    "enWord": "lifetime value",
+    "heTranslation": "שווי חיי לקוח",
+    "exampleSentence": "We calculate customer lifetime value."
+  },
+  {
+    "enWord": "acquisition cost",
+    "heTranslation": "עלות רכישה",
+    "exampleSentence": "Customer acquisition cost is high."
+  },
+  {
+    "enWord": "conversion rate",
+    "heTranslation": "שיעור המרה",
+    "exampleSentence": "The conversion rate improved."
+  },
+  {
+    "enWord": "win rate",
+    "heTranslation": "שיעור זכייה",
+    "exampleSentence": "Our win rate is 30%."
+  },
+  {
+    "enWord": "pipeline",
+    "heTranslation": "צינור מכירות",
+    "exampleSentence": "The sales pipeline is strong."
+  },
+  {
+    "enWord": "forecast accuracy",
+    "heTranslation": "דיוק תחזית",
+    "exampleSentence": "We improved forecast accuracy."
+  },
+  {
+    "enWord": "variance analysis",
+    "heTranslation": "ניתוח סטיות",
+    "exampleSentence": "Variance analysis shows budget differences."
+  },
+  {
+    "enWord": "budget vs actual",
+    "heTranslation": "תקציב מול ביצוע",
+    "exampleSentence": "We compare budget vs actual monthly."
+  },
+  {
+    "enWord": "rolling forecast",
+    "heTranslation": "תחזית מתגלגלת",
+    "exampleSentence": "We use a rolling forecast."
+  },
+  {
+    "enWord": "zero-based budgeting",
+    "heTranslation": "תקצוב מאפס",
+    "exampleSentence": "We adopted zero-based budgeting."
+  },
+  {
+    "enWord": "activity-based costing",
+    "heTranslation": "תמחיר מבוסס פעילות",
+    "exampleSentence": "We use activity-based costing."
+  },
+  {
+    "enWord": "standard costing",
+    "heTranslation": "תמחיר תקני",
+    "exampleSentence": "Standard costing helps control costs."
+  },
+  {
+    "enWord": "job costing",
+    "heTranslation": "תמחיר לפי הזמנה",
+    "exampleSentence": "We use job costing for projects."
+  },
+  {
+    "enWord": "process costing",
+    "heTranslation": "תמחיר תהליכי",
+    "exampleSentence": "Process costing suits manufacturing."
+  },
+  {
+    "enWord": "cost center",
+    "heTranslation": "מרכז עלות",
+    "exampleSentence": "Each department is a cost center."
+  },
+  {
+    "enWord": "profit center",
+    "heTranslation": "מרכז רווח",
+    "exampleSentence": "The division is a profit center."
+  },
+  {
+    "enWord": "investment center",
+    "heTranslation": "מרכז השקעה",
+    "exampleSentence": "The subsidiary is an investment center."
+  },
+  {
+    "enWord": "bookkeeping",
+    "heTranslation": "הנהלת חשבונות",
+    "exampleSentence": "She does the bookkeeping."
+  },
+  {
+    "enWord": "double entry",
+    "heTranslation": "כתיבה כפולה",
+    "exampleSentence": "Double entry ensures balance."
+  },
+  {
+    "enWord": "entry",
+    "heTranslation": "רישום",
+    "exampleSentence": "Make a journal entry."
+  },
+  {
+    "enWord": "equity statement",
+    "heTranslation": "דוח שינויים בהון",
+    "exampleSentence": "Update the equity statement."
+  },
+  {
+    "enWord": "assets",
+    "heTranslation": "נכסים",
+    "exampleSentence": "Assets equal liabilities plus equity."
+  },
+  {
+    "enWord": "liabilities",
+    "heTranslation": "התחייבויות",
+    "exampleSentence": "Reduce our liabilities."
+  },
+  {
+    "enWord": "expenses",
+    "heTranslation": "הוצאות",
+    "exampleSentence": "Control your expenses."
+  },
+  {
+    "enWord": "gains",
+    "heTranslation": "רווחים",
+    "exampleSentence": "Capital gains are taxed."
+  },
+  {
+    "enWord": "losses",
+    "heTranslation": "הפסדים",
+    "exampleSentence": "We minimized losses."
+  },
+  {
+    "enWord": "deferral",
+    "heTranslation": "דחייה",
+    "exampleSentence": "Deferral of taxes."
+  },
+  {
+    "enWord": "prepaid",
+    "heTranslation": "מראש",
+    "exampleSentence": "Prepaid insurance."
+  },
+  {
+    "enWord": "unearned",
+    "heTranslation": "לא נצבר",
+    "exampleSentence": "Unearned revenue."
+  },
+  {
+    "enWord": "receivable",
+    "heTranslation": "לקבל",
+    "exampleSentence": "Accounts receivable."
+  },
+  {
+    "enWord": "payable",
+    "heTranslation": "לשלם",
+    "exampleSentence": "Accounts payable."
+  },
+  {
+    "enWord": "cost of goods sold",
+    "heTranslation": "עלות המכר",
+    "exampleSentence": "COGS increased."
+  },
+  {
+    "enWord": "gross margin",
+    "heTranslation": "רווח גולמי",
+    "exampleSentence": "Gross margin is 40%."
+  },
+  {
+    "enWord": "operating income",
+    "heTranslation": "רווח תפעולי",
+    "exampleSentence": "Operating income is stable."
+  },
+  {
+    "enWord": "net income",
+    "heTranslation": "רווח נקי",
+    "exampleSentence": "Net income is the bottom line."
+  },
+  {
+    "enWord": "earnings per share",
+    "heTranslation": "רווח למניה",
+    "exampleSentence": "EPS is a key metric."
+  },
+  {
+    "enWord": "material",
+    "heTranslation": "מהותי",
+    "exampleSentence": "A material error."
+  },
+  {
+    "enWord": "misstatement",
+    "heTranslation": "הצגה מוטעית",
+    "exampleSentence": "Avoid misstatements."
+  },
+  {
+    "enWord": "fraud",
+    "heTranslation": "הונאה",
+    "exampleSentence": "Detect financial fraud."
+  },
+  {
+    "enWord": "internal control",
+    "heTranslation": "בקרה פנימית",
+    "exampleSentence": "Strengthen internal control."
+  },
+  {
+    "enWord": "IFRS",
+    "heTranslation": "תקינה בינלאומית",
+    "exampleSentence": "We report under IFRS."
+  },
+  {
+    "enWord": "GAAP",
+    "heTranslation": "כללי חשבונאות מקובלים",
+    "exampleSentence": "US GAAP rules."
+  },
+  {
+    "enWord": "fair value",
+    "heTranslation": "שווי הוגן",
+    "exampleSentence": "Measured at fair value."
+  },
+  {
+    "enWord": "historical cost",
+    "heTranslation": "עלות היסטורית",
+    "exampleSentence": "Recorded at historical cost."
+  },
+  {
+    "enWord": "matching principle",
+    "heTranslation": "עקרון ההקבלה",
+    "exampleSentence": "Follow the matching principle."
+  },
+  {
+    "enWord": "going concern",
+    "heTranslation": "עסק חי",
+    "exampleSentence": "Going concern assumption."
+  },
+  {
+    "enWord": "disclosure",
+    "heTranslation": "גילוי",
+    "exampleSentence": "Full disclosure is required."
+  },
+  {
+    "enWord": "financial statements",
+    "heTranslation": "דוחות כספיים",
+    "exampleSentence": "Annual financial statements."
+  },
+  {
+    "enWord": "general ledger",
+    "heTranslation": "ספר חשבונות ראשי",
+    "exampleSentence": "Post to general ledger."
+  },
+  {
+    "enWord": "subsidiary ledger",
+    "heTranslation": "ספר עזר",
+    "exampleSentence": "Maintain subsidiary ledger."
+  },
+  {
+    "enWord": "account number",
+    "heTranslation": "מספר חשבון",
+    "exampleSentence": "Enter account number."
+  },
+  {
+    "enWord": "posting",
+    "heTranslation": "רישום",
+    "exampleSentence": "Daily posting routine."
+  },
+  {
+    "enWord": "closing",
+    "heTranslation": "סגירה",
+    "exampleSentence": "Month-end closing."
+  },
+  {
+    "enWord": "period end",
+    "heTranslation": "סוף תקופה",
+    "exampleSentence": "Period end procedures."
+  },
+  {
+    "enWord": "accounting period",
+    "heTranslation": "תקופת חשבונאות",
+    "exampleSentence": "Quarterly accounting period."
+  },
+  {
+    "enWord": "interim report",
+    "heTranslation": "דוח ביניים",
+    "exampleSentence": "Quarterly interim report."
+  },
+  {
+    "enWord": "annual report",
+    "heTranslation": "דוח שנתי",
+    "exampleSentence": "Publish annual report."
+  },
+  {
+    "enWord": "footnotes",
+    "heTranslation": "הערות שוליים",
+    "exampleSentence": "Read the footnotes."
+  },
+  {
+    "enWord": "notes to financials",
+    "heTranslation": "הערות לדוחות",
+    "exampleSentence": "Important notes to financial statements."
+  },
+  {
+    "enWord": "supplementary info",
+    "heTranslation": "מידע משלים",
+    "exampleSentence": "Supplementary information provided."
+  },
+  {
+    "enWord": "consolidated statements",
+    "heTranslation": "דוחות מאוחדים",
+    "exampleSentence": "Consolidated financial statements."
+  },
+  {
+    "enWord": "parent company",
+    "heTranslation": "חברה אם",
+    "exampleSentence": "Parent company financials."
+  },
+  {
+    "enWord": "subsidiary",
+    "heTranslation": "חברה בת",
+    "exampleSentence": "Foreign subsidiary."
+  },
+  {
+    "enWord": "intercompany",
+    "heTranslation": "בין-חברתי",
+    "exampleSentence": "Eliminate intercompany transactions."
+  },
+  {
+    "enWord": "elimination",
+    "heTranslation": "ביטול",
+    "exampleSentence": "Consolidation eliminations."
+  },
+  {
+    "enWord": "minority interest",
+    "heTranslation": "זכות מיעוט",
+    "exampleSentence": "Minority interest adjustment."
+  },
+  {
+    "enWord": "goodwill",
+    "heTranslation": "מוניטין",
+    "exampleSentence": "Goodwill impairment test."
+  },
+  {
+    "enWord": "intangible assets",
+    "heTranslation": "נכסים בלתי מוחשיים",
+    "exampleSentence": "Amortize intangible assets."
+  },
+  {
+    "enWord": "tangible assets",
+    "heTranslation": "נכסים מוחשיים",
+    "exampleSentence": "Tangible asset valuation."
+  },
+  {
+    "enWord": "plant property equipment",
+    "heTranslation": "רכוש קבוע",
+    "exampleSentence": "PP&E schedule."
+  },
+  {
+    "enWord": "land",
+    "heTranslation": "קרקע",
+    "exampleSentence": "Land is not depreciated."
+  },
+  {
+    "enWord": "building",
+    "heTranslation": "בניין",
+    "exampleSentence": "Building depreciation."
+  },
+  {
+    "enWord": "machinery",
+    "heTranslation": "מכונות",
+    "exampleSentence": "Machinery maintenance."
+  },
+  {
+    "enWord": "vehicle",
+    "heTranslation": "רכב",
+    "exampleSentence": "Company vehicles."
+  },
+  {
+    "enWord": "furniture",
+    "heTranslation": "ריהוט",
+    "exampleSentence": "Office furniture."
+  },
+  {
+    "enWord": "fixtures",
+    "heTranslation": "אביזרים",
+    "exampleSentence": "Fixtures and fittings."
+  },
+  {
+    "enWord": "accumulated depreciation",
+    "heTranslation": "פחת שנצבר",
+    "exampleSentence": "Accumulated depreciation balance."
+  },
+  {
+    "enWord": "net book value",
+    "heTranslation": "ערך בספרים נטו",
+    "exampleSentence": "Calculate net book value."
+  },
+  {
+    "enWord": "salvage value",
+    "heTranslation": "ערך גרוטאות",
+    "exampleSentence": "Estimate salvage value."
+  },
+  {
+    "enWord": "useful life",
+    "heTranslation": "חיי שימוש",
+    "exampleSentence": "Estimated useful life."
+  },
+  {
+    "enWord": "straight-line",
+    "heTranslation": "שיטת קו ישר",
+    "exampleSentence": "Straight-line depreciation method."
+  },
+  {
+    "enWord": "declining balance",
+    "heTranslation": "יתרה יורדת",
+    "exampleSentence": "Declining balance method."
+  },
+  {
+    "enWord": "units of production",
+    "heTranslation": "יחידות ייצור",
+    "exampleSentence": "Units of production method."
+  },
+  {
+    "enWord": "impairment",
+    "heTranslation": "ירידת ערך",
+    "exampleSentence": "Asset impairment loss."
+  },
+  {
+    "enWord": "write-down",
+    "heTranslation": "הורדת ערך",
+    "exampleSentence": "Inventory write-down."
+  },
+  {
+    "enWord": "bad debts",
+    "heTranslation": "חובות אבודים",
+    "exampleSentence": "Write off bad debts."
+  },
+  {
+    "enWord": "doubtful accounts",
+    "heTranslation": "חשבונות מפוקפקים",
+    "exampleSentence": "Provision for doubtful accounts."
+  },
+  {
+    "enWord": "aging schedule",
+    "heTranslation": "לוח התיישנות",
+    "exampleSentence": "Accounts receivable aging schedule."
+  },
+  {
+    "enWord": "collection",
+    "heTranslation": "גביה",
+    "exampleSentence": "Debt collection efforts."
+  },
+  {
+    "enWord": "trade discount",
+    "heTranslation": "הנחה מסחרית",
+    "exampleSentence": "Standard trade discount."
+  },
+  {
+    "enWord": "cash discount",
+    "heTranslation": "הנחת מזומן",
+    "exampleSentence": "Cash discount offered."
+  },
+  {
+    "enWord": "purchase discount",
+    "heTranslation": "הנחת רכישה",
+    "exampleSentence": "Take purchase discount."
+  },
+  {
+    "enWord": "sales discount",
+    "heTranslation": "הנחת מכירה",
+    "exampleSentence": "Grant sales discount."
+  },
+  {
+    "enWord": "allowance for return",
+    "heTranslation": "הקלה להחזרה",
+    "exampleSentence": "Sales allowances."
+  },
+  {
+    "enWord": "freight",
+    "heTranslation": "הובלה",
+    "exampleSentence": "Freight charges."
+  },
+  {
+    "enWord": "FOB",
+    "heTranslation": "פרנקו על הסיפון",
+    "exampleSentence": "FOB shipping point."
+  },
+  {
+    "enWord": "CIF",
+    "heTranslation": "עלות ביטוח והובלה",
+    "exampleSentence": "CIF terms."
+  },
+  {
+    "enWord": "perpetual inventory",
+    "heTranslation": "מלאי רציף",
+    "exampleSentence": "Perpetual inventory system."
+  },
+  {
+    "enWord": "periodic inventory",
+    "heTranslation": "מלאי תקופתי",
+    "exampleSentence": "Periodic inventory system."
+  },
+  {
+    "enWord": "FIFO",
+    "heTranslation": "ראשון נכנס ראשון יוצא",
+    "exampleSentence": "FIFO method."
+  },
+  {
+    "enWord": "LIFO",
+    "heTranslation": "אחרון נכנס ראשון יוצא",
+    "exampleSentence": "LIFO method."
+  },
+  {
+    "enWord": "weighted average",
+    "heTranslation": "ממוצע משוקלל",
+    "exampleSentence": "Weighted average cost."
+  },
+  {
+    "enWord": "lower of cost or market",
+    "heTranslation": "נמוך מבין עלות לשוק",
+    "exampleSentence": "LCM rule."
+  },
+  {
+    "enWord": "obsolescence",
+    "heTranslation": "התיישנות",
+    "exampleSentence": "Inventory obsolescence."
+  },
+  {
+    "enWord": "shrinkage",
+    "heTranslation": "הצטמקות",
+    "exampleSentence": "Inventory shrinkage."
+  },
+  {
+    "enWord": "stocktaking",
+    "heTranslation": "ספירת מלאי",
+    "exampleSentence": "Annual stocktaking."
+  },
+  {
+    "enWord": "physical count",
+    "heTranslation": "ספירה פיזית",
+    "exampleSentence": "Physical count verification."
+  },
+  {
+    "enWord": "direct cost",
+    "heTranslation": "עלות ישירה",
+    "exampleSentence": "Direct cost allocation."
+  },
+  {
+    "enWord": "indirect cost",
+    "heTranslation": "עלות עקיפה",
+    "exampleSentence": "Indirect cost distribution."
+  },
+  {
+    "enWord": "semi-variable",
+    "heTranslation": "חצי-משתנה",
+    "exampleSentence": "Semi-variable costs."
+  },
+  {
+    "enWord": "step cost",
+    "heTranslation": "עלות מדרגה",
+    "exampleSentence": "Step cost behavior."
+  },
+  {
+    "enWord": "marginal cost",
+    "heTranslation": "עלות שולית",
+    "exampleSentence": "Marginal cost analysis."
+  },
+  {
+    "enWord": "absorption costing",
+    "heTranslation": "עלות ספיגה",
+    "exampleSentence": "Absorption costing method."
+  },
+  {
+    "enWord": "variable costing",
+    "heTranslation": "עלות משתנה",
+    "exampleSentence": "Variable costing approach."
+  },
+  {
+    "enWord": "actual costing",
+    "heTranslation": "עלות בפועל",
+    "exampleSentence": "Actual costing results."
+  },
+  {
+    "enWord": "job order costing",
+    "heTranslation": "עלות הזמנה",
+    "exampleSentence": "Job order costing system."
+  },
+  {
+    "enWord": "cost driver",
+    "heTranslation": "מניע עלות",
+    "exampleSentence": "Identify cost drivers."
+  },
+  {
+    "enWord": "cost pool",
+    "heTranslation": "מאגר עלויות",
+    "exampleSentence": "Overhead cost pool."
+  },
+  {
+    "enWord": "allocation base",
+    "heTranslation": "בסיס הקצאה",
+    "exampleSentence": "Choose allocation base."
+  },
+  {
+    "enWord": "breakeven point",
+    "heTranslation": "נקודת אפס",
+    "exampleSentence": "Calculate breakeven point."
+  },
+  {
+    "enWord": "contribution margin",
+    "heTranslation": "תרומה לכיסוי",
+    "exampleSentence": "Contribution margin ratio."
+  },
+  {
+    "enWord": "CVP analysis",
+    "heTranslation": "ניתוח CVP",
+    "exampleSentence": "Cost-volume-profit analysis."
+  },
+  {
+    "enWord": "margin of safety",
+    "heTranslation": "מרווח ביטחון",
+    "exampleSentence": "High margin of safety."
+  },
+  {
+    "enWord": "master budget",
+    "heTranslation": "תקציב מאסטר",
+    "exampleSentence": "Prepare master budget."
+  },
+  {
+    "enWord": "operating budget",
+    "heTranslation": "תקציב תפעולי",
+    "exampleSentence": "Operating budget review."
+  },
+  {
+    "enWord": "financial budget",
+    "heTranslation": "תקציב פיננסי",
+    "exampleSentence": "Financial budget preparation."
+  },
+  {
+    "enWord": "cash budget",
+    "heTranslation": "תקציב מזומנים",
+    "exampleSentence": "Monthly cash budget."
+  },
+  {
+    "enWord": "capital budget",
+    "heTranslation": "תקציב הון",
+    "exampleSentence": "Capital budget approval."
+  },
+  {
+    "enWord": "flexible budget",
+    "heTranslation": "תקציב גמיש",
+    "exampleSentence": "Flexible budget variance."
+  },
+  {
+    "enWord": "static budget",
+    "heTranslation": "תקציב סטטי",
+    "exampleSentence": "Static budget assumption."
+  },
+  {
+    "enWord": "zero-based budget",
+    "heTranslation": "תקציב אפס",
+    "exampleSentence": "Zero-based budgeting approach."
+  },
+  {
+    "enWord": "favorable variance",
+    "heTranslation": "שונות חיובית",
+    "exampleSentence": "Favorable cost variance."
+  },
+  {
+    "enWord": "unfavorable variance",
+    "heTranslation": "שונות שלילית",
+    "exampleSentence": "Unfavorable variance explanation."
+  },
+  {
+    "enWord": "price variance",
+    "heTranslation": "שונות מחיר",
+    "exampleSentence": "Material price variance."
+  },
+  {
+    "enWord": "quantity variance",
+    "heTranslation": "שונות כמות",
+    "exampleSentence": "Quantity variance analysis."
+  },
+  {
+    "enWord": "efficiency variance",
+    "heTranslation": "שונות יעילות",
+    "exampleSentence": "Labor efficiency variance."
+  },
+  {
+    "enWord": "volume variance",
+    "heTranslation": "שונות נפח",
+    "exampleSentence": "Sales volume variance."
+  },
+  {
+    "enWord": "responsibility accounting",
+    "heTranslation": "חשבונאות באחריות",
+    "exampleSentence": "Responsibility accounting system."
+  },
+  {
+    "enWord": "transfer pricing",
+    "heTranslation": "תמחור העברות",
+    "exampleSentence": "Transfer pricing policy."
+  },
+  {
+    "enWord": "segment reporting",
+    "heTranslation": "דיווח מגזרי",
+    "exampleSentence": "Segment reporting requirements."
+  },
+  {
+    "enWord": "ROI",
+    "heTranslation": "תשואה על השקעה",
+    "exampleSentence": "Calculate ROI."
+  },
+  {
+    "enWord": "ROE",
+    "heTranslation": "תשואה על הון",
+    "exampleSentence": "ROE ratio."
+  },
+  {
+    "enWord": "ROA",
+    "heTranslation": "תשואה על נכסים",
+    "exampleSentence": "ROA calculation."
+  },
+  {
+    "enWord": "liquidity ratios",
+    "heTranslation": "יחסי נזילות",
+    "exampleSentence": "Analyze liquidity ratios."
+  },
+  {
+    "enWord": "acid test",
+    "heTranslation": "מבחן חומצה",
+    "exampleSentence": "Pass the acid test."
+  },
+  {
+    "enWord": "activity ratios",
+    "heTranslation": "יחסי פעילות",
+    "exampleSentence": "Activity ratios analysis."
+  },
+  {
+    "enWord": "turnover ratio",
+    "heTranslation": "יחס מחזור",
+    "exampleSentence": "Inventory turnover ratio."
+  },
+  {
+    "enWord": "leverage ratios",
+    "heTranslation": "יחסי מינוף",
+    "exampleSentence": "Financial leverage ratios."
+  },
+  {
+    "enWord": "debt-to-assets",
+    "heTranslation": "חוב לנכסים",
+    "exampleSentence": "Debt-to-assets ratio."
+  },
+  {
+    "enWord": "times interest earned",
+    "heTranslation": "כיסוי ריבית",
+    "exampleSentence": "Times interest earned ratio."
+  },
+  {
+    "enWord": "profitability ratios",
+    "heTranslation": "יחסי רווחיות",
+    "exampleSentence": "Key profitability ratios."
+  },
+  {
+    "enWord": "gross profit margin",
+    "heTranslation": "שולי רווח גולמי",
+    "exampleSentence": "Gross profit margin percentage."
+  },
+  {
+    "enWord": "operating profit margin",
+    "heTranslation": "שולי רווח תפעולי",
+    "exampleSentence": "Operating profit margin trend."
+  },
+  {
+    "enWord": "net profit margin",
+    "heTranslation": "שולי רווח נקי",
+    "exampleSentence": "Net profit margin target."
+  },
+  {
+    "enWord": "return on sales",
+    "heTranslation": "תשואה על מכירות",
+    "exampleSentence": "Return on sales ratio."
+  },
+  {
+    "enWord": "market ratios",
+    "heTranslation": "יחסי שוק",
+    "exampleSentence": "Stock market ratios."
+  },
+  {
+    "enWord": "P/E ratio",
+    "heTranslation": "יחס מחיר לרווח",
+    "exampleSentence": "High P/E ratio."
+  },
+  {
+    "enWord": "price-to-book",
+    "heTranslation": "מחיר לערך בספרים",
+    "exampleSentence": "Price-to-book value."
+  },
+  {
+    "enWord": "dividend yield",
+    "heTranslation": "תשואת דיבידנד",
+    "exampleSentence": "Attractive dividend yield."
+  },
+  {
+    "enWord": "payout ratio",
+    "heTranslation": "יחס חלוקה",
+    "exampleSentence": "Dividend payout ratio."
+  },
+  {
+    "enWord": "book value per share",
+    "heTranslation": "ערך בספרים למניה",
+    "exampleSentence": "Calculate book value per share."
+  },
+  {
+    "enWord": "market value",
+    "heTranslation": "שווי שוק",
+    "exampleSentence": "Current market value."
+  },
+  {
+    "enWord": "market capitalization",
+    "heTranslation": "שווי שוק",
+    "exampleSentence": "Company market capitalization."
+  },
+  {
+    "enWord": "enterprise value",
+    "heTranslation": "ערך ארגוני",
+    "exampleSentence": "Enterprise value calculation."
+  },
+  {
+    "enWord": "EBITDA",
+    "heTranslation": "רווח לפני ריבית מס פחת והפחתות",
+    "exampleSentence": "Adjusted EBITDA."
+  },
+  {
+    "enWord": "EBIT",
+    "heTranslation": "רווח לפני ריבית ומס",
+    "exampleSentence": "EBIT margin."
+  },
+  {
+    "enWord": "pro forma",
+    "heTranslation": "פרו פורמה",
+    "exampleSentence": "Pro forma financials."
+  },
+  {
+    "enWord": "non-GAAP",
+    "heTranslation": "לא-GAAP",
+    "exampleSentence": "Non-GAAP measures."
+  },
+  {
+    "enWord": "adjusted earnings",
+    "heTranslation": "רווחים מותאמים",
+    "exampleSentence": "Adjusted earnings figure."
+  },
+  {
+    "enWord": "normalized income",
+    "heTranslation": "הכנסה מנורמלת",
+    "exampleSentence": "Normalized income statement."
+  },
+  {
+    "enWord": "one-time charge",
+    "heTranslation": "חיוב חד-פעמי",
+    "exampleSentence": "One-time restructuring charge."
+  },
+  {
+    "enWord": "extraordinary item",
+    "heTranslation": "פריט חריג",
+    "exampleSentence": "Extraordinary items disclosure."
+  },
+  {
+    "enWord": "discontinued operations",
+    "heTranslation": "פעילות מופסקת",
+    "exampleSentence": "Discontinued operations reported separately."
+  },
+  {
+    "enWord": "retained earnings",
+    "heTranslation": "רווח עודף",
+    "exampleSentence": "Retained earnings balance."
+  },
+  {
+    "enWord": "dividends declared",
+    "heTranslation": "דיבידנדים שהוכרזו",
+    "exampleSentence": "Dividends declared this year."
+  },
+  {
+    "enWord": "treasury stock",
+    "heTranslation": "מניות באוצר",
+    "exampleSentence": "Treasury stock repurchase."
+  },
+  {
+    "enWord": "paid-in capital",
+    "heTranslation": "הון נפרע",
+    "exampleSentence": "Additional paid-in capital."
+  },
+  {
+    "enWord": "common stock",
+    "heTranslation": "מניות רגילות",
+    "exampleSentence": "Common stock issued."
+  },
+  {
+    "enWord": "preferred stock",
+    "heTranslation": "מניות מועדפות",
+    "exampleSentence": "Preferred stock dividends."
+  },
+  {
+    "enWord": "par value",
+    "heTranslation": "ערך נקוב",
+    "exampleSentence": "Par value of shares."
+  },
+  {
+    "enWord": "issued shares",
+    "heTranslation": "מניות שהונפקו",
+    "exampleSentence": "Total issued shares."
+  },
+  {
+    "enWord": "outstanding shares",
+    "heTranslation": "מניות במחזור",
+    "exampleSentence": "Outstanding shares count."
+  },
+  {
+    "enWord": "authorized shares",
+    "heTranslation": "מניות מורשות",
+    "exampleSentence": "Authorized share capital."
+  }
+]

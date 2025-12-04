@@ -1,0 +1,1477 @@
+[
+  {
+    "enWord": "important",
+    "heTranslation": "חשוב",
+    "exampleSentence": "This is very important."
+  },
+  {
+    "enWord": "necessary",
+    "heTranslation": "נחוץ",
+    "exampleSentence": "It is necessary to study."
+  },
+  {
+    "enWord": "possible",
+    "heTranslation": "אפשרי",
+    "exampleSentence": "Is it possible?"
+  },
+  {
+    "enWord": "impossible",
+    "heTranslation": "בלתי אפשרי",
+    "exampleSentence": "That seems impossible."
+  },
+  {
+    "enWord": "probable",
+    "heTranslation": "סביר",
+    "exampleSentence": "It is probable that it will rain."
+  },
+  {
+    "enWord": "certain",
+    "heTranslation": "בטוח",
+    "exampleSentence": "I am certain about this."
+  },
+  {
+    "enWord": "uncertain",
+    "heTranslation": "לא בטוח",
+    "exampleSentence": "I am uncertain about the answer."
+  },
+  {
+    "enWord": "confident",
+    "heTranslation": "בטוח בעצמו",
+    "exampleSentence": "I am confident in my abilities."
+  },
+  {
+    "enWord": "nervous",
+    "heTranslation": "עצבני",
+    "exampleSentence": "I feel nervous before exams."
+  },
+  {
+    "enWord": "excited",
+    "heTranslation": "נרגש",
+    "exampleSentence": "I am excited about the trip."
+  },
+  {
+    "enWord": "surprised",
+    "heTranslation": "מופתע",
+    "exampleSentence": "I was surprised by the news."
+  },
+  {
+    "enWord": "disappointed",
+    "heTranslation": "מאוכזב",
+    "exampleSentence": "I am disappointed with the result."
+  },
+  {
+    "enWord": "worried",
+    "heTranslation": "מודאג",
+    "exampleSentence": "I am worried about you."
+  },
+  {
+    "enWord": "calm",
+    "heTranslation": "רגוע",
+    "exampleSentence": "Stay calm and think."
+  },
+  {
+    "enWord": "angry",
+    "heTranslation": "כועס",
+    "exampleSentence": "Why are you angry?"
+  },
+  {
+    "enWord": "afraid",
+    "heTranslation": "מפחד",
+    "exampleSentence": "I am afraid of heights."
+  },
+  {
+    "enWord": "brave",
+    "heTranslation": "אמיץ",
+    "exampleSentence": "You are very brave."
+  },
+  {
+    "enWord": "proud",
+    "heTranslation": "גאה",
+    "exampleSentence": "I am proud of you."
+  },
+  {
+    "enWord": "ashamed",
+    "heTranslation": "מבויש",
+    "exampleSentence": "I am ashamed of my behavior."
+  },
+  {
+    "enWord": "embarrassed",
+    "heTranslation": "מובך",
+    "exampleSentence": "I felt embarrassed."
+  },
+  {
+    "enWord": "lonely",
+    "heTranslation": "בודד",
+    "exampleSentence": "I feel lonely sometimes."
+  },
+  {
+    "enWord": "alone",
+    "heTranslation": "לבד",
+    "exampleSentence": "I prefer to be alone."
+  },
+  {
+    "enWord": "different",
+    "heTranslation": "שונה",
+    "exampleSentence": "We have different opinions."
+  },
+  {
+    "enWord": "same",
+    "heTranslation": "אותו דבר",
+    "exampleSentence": "We have the same idea."
+  },
+  {
+    "enWord": "similar",
+    "heTranslation": "דומה",
+    "exampleSentence": "These are similar problems."
+  },
+  {
+    "enWord": "various",
+    "heTranslation": "שונים",
+    "exampleSentence": "There are various options."
+  },
+  {
+    "enWord": "several",
+    "heTranslation": "כמה",
+    "exampleSentence": "I have several questions."
+  },
+  {
+    "enWord": "many",
+    "heTranslation": "הרבה",
+    "exampleSentence": "There are many people here."
+  },
+  {
+    "enWord": "few",
+    "heTranslation": "מעט",
+    "exampleSentence": "I have few friends."
+  },
+  {
+    "enWord": "enough",
+    "heTranslation": "מספיק",
+    "exampleSentence": "That is enough."
+  },
+  {
+    "enWord": "too much",
+    "heTranslation": "יותר מדי",
+    "exampleSentence": "That is too much."
+  },
+  {
+    "enWord": "too little",
+    "heTranslation": "פחות מדי",
+    "exampleSentence": "That is too little."
+  },
+  {
+    "enWord": "more",
+    "heTranslation": "יותר",
+    "exampleSentence": "I want more time."
+  },
+  {
+    "enWord": "less",
+    "heTranslation": "פחות",
+    "exampleSentence": "I need less stress."
+  },
+  {
+    "enWord": "most",
+    "heTranslation": "רוב",
+    "exampleSentence": "Most people agree."
+  },
+  {
+    "enWord": "least",
+    "heTranslation": "הכי פחות",
+    "exampleSentence": "This is the least expensive."
+  },
+  {
+    "enWord": "better",
+    "heTranslation": "טוב יותר",
+    "exampleSentence": "This is better."
+  },
+  {
+    "enWord": "worse",
+    "heTranslation": "גרוע יותר",
+    "exampleSentence": "That is worse."
+  },
+  {
+    "enWord": "best",
+    "heTranslation": "הכי טוב",
+    "exampleSentence": "This is the best option."
+  },
+  {
+    "enWord": "worst",
+    "heTranslation": "הכי גרוע",
+    "exampleSentence": "That was the worst day."
+  },
+  {
+    "enWord": "excellent",
+    "heTranslation": "מצוין",
+    "exampleSentence": "Your work is excellent."
+  },
+  {
+    "enWord": "terrible",
+    "heTranslation": "נורא",
+    "exampleSentence": "The weather is terrible."
+  },
+  {
+    "enWord": "wonderful",
+    "heTranslation": "נפלא",
+    "exampleSentence": "What a wonderful day!"
+  },
+  {
+    "enWord": "awful",
+    "heTranslation": "נורא",
+    "exampleSentence": "The food was awful."
+  },
+  {
+    "enWord": "perfect",
+    "heTranslation": "מושלם",
+    "exampleSentence": "This is perfect!"
+  },
+  {
+    "enWord": "complete",
+    "heTranslation": "מלא",
+    "exampleSentence": "This is a complete answer."
+  },
+  {
+    "enWord": "incomplete",
+    "heTranslation": "לא מלא",
+    "exampleSentence": "The form is incomplete."
+  },
+  {
+    "enWord": "office hours",
+    "heTranslation": "שעות משרד",
+    "exampleSentence": "Our office hours are from nine to six."
+  },
+  {
+    "enWord": "team",
+    "heTranslation": "צוות",
+    "exampleSentence": "Our team is small but strong."
+  },
+  {
+    "enWord": "manager",
+    "heTranslation": "מנהל",
+    "exampleSentence": "My manager is very supportive."
+  },
+  {
+    "enWord": "project",
+    "heTranslation": "פרויקט",
+    "exampleSentence": "This project is very important."
+  },
+  {
+    "enWord": "task",
+    "heTranslation": "משימה",
+    "exampleSentence": "This is your main task today."
+  },
+  {
+    "enWord": "deadline",
+    "heTranslation": "דדליין",
+    "exampleSentence": "The deadline is next Monday."
+  },
+  {
+    "enWord": "report",
+    "heTranslation": "דו״ח",
+    "exampleSentence": "I finished the monthly report."
+  },
+  {
+    "enWord": "budget",
+    "heTranslation": "תקציב",
+    "exampleSentence": "We have a small budget this year."
+  },
+  {
+    "enWord": "price list",
+    "heTranslation": "מחירון",
+    "exampleSentence": "Please send me the price list."
+  },
+  {
+    "enWord": "contract",
+    "heTranslation": "חוזה",
+    "exampleSentence": "We signed the contract yesterday."
+  },
+  {
+    "enWord": "agreement",
+    "heTranslation": "הסכם",
+    "exampleSentence": "They reached an agreement."
+  },
+  {
+    "enWord": "offer",
+    "heTranslation": "הצעה",
+    "exampleSentence": "We sent a new offer to the client."
+  },
+  {
+    "enWord": "account",
+    "heTranslation": "חשבון",
+    "exampleSentence": "I checked my bank account."
+  },
+  {
+    "enWord": "bank account",
+    "heTranslation": "חשבון בנק",
+    "exampleSentence": "My salary goes to this bank account."
+  },
+  {
+    "enWord": "tax",
+    "heTranslation": "מס",
+    "exampleSentence": "We have to pay tax this month."
+  },
+  {
+    "enWord": "rent",
+    "heTranslation": "שכר דירה",
+    "exampleSentence": "The office rent is very high."
+  },
+  {
+    "enWord": "loan",
+    "heTranslation": "הלוואה",
+    "exampleSentence": "They took a loan from the bank."
+  },
+  {
+    "enWord": "bonus",
+    "heTranslation": "בונוס",
+    "exampleSentence": "We got a bonus at the end of the year."
+  },
+  {
+    "enWord": "receipt",
+    "heTranslation": "קבלה",
+    "exampleSentence": "Ask for a receipt after you pay."
+  },
+  {
+    "enWord": "invoice",
+    "heTranslation": "חשבונית",
+    "exampleSentence": "The supplier sent the invoice."
+  },
+  {
+    "enWord": "payment",
+    "heTranslation": "תשלום",
+    "exampleSentence": "The payment is due tomorrow."
+  },
+  {
+    "enWord": "order number",
+    "heTranslation": "מספר הזמנה",
+    "exampleSentence": "What is the order number?"
+  },
+  {
+    "enWord": "supplier",
+    "heTranslation": "ספק",
+    "exampleSentence": "We changed our main supplier."
+  },
+  {
+    "enWord": "customer service",
+    "heTranslation": "שירות לקוחות",
+    "exampleSentence": "Customer service is very polite."
+  },
+  {
+    "enWord": "therefore",
+    "heTranslation": "לכן",
+    "exampleSentence": "The numbers are wrong; therefore, we must fix them."
+  },
+  {
+    "enWord": "although",
+    "heTranslation": "למרות ש־",
+    "exampleSentence": "Although it is late, we will continue."
+  },
+  {
+    "enWord": "though",
+    "heTranslation": "אף על פי ש־",
+    "exampleSentence": "Though it was difficult, we succeeded."
+  },
+  {
+    "enWord": "while",
+    "heTranslation": "בעוד ש־ / בזמן ש־",
+    "exampleSentence": "He spoke while she took notes."
+  },
+  {
+    "enWord": "if",
+    "heTranslation": "אם",
+    "exampleSentence": "If you need help, ask me."
+  },
+  {
+    "enWord": "unless",
+    "heTranslation": "אלא אם כן",
+    "exampleSentence": "We will not start unless everyone is here."
+  },
+  {
+    "enWord": "because of",
+    "heTranslation": "בגלל",
+    "exampleSentence": "The meeting is late because of traffic."
+  },
+  {
+    "enWord": "in order to",
+    "heTranslation": "כדי",
+    "exampleSentence": "We work hard in order to meet the deadline."
+  },
+  {
+    "enWord": "as soon as",
+    "heTranslation": "ברגע ש־",
+    "exampleSentence": "Call me as soon as you can."
+  },
+  {
+    "enWord": "even though",
+    "heTranslation": "למרות ש־",
+    "exampleSentence": "Even though it was raining, we went out."
+  },
+  {
+    "enWord": "on the one hand",
+    "heTranslation": "מצד אחד",
+    "exampleSentence": "On the one hand, the office is small."
+  },
+  {
+    "enWord": "on the other hand",
+    "heTranslation": "מצד שני",
+    "exampleSentence": "On the other hand, the location is great."
+  },
+  {
+    "enWord": "for example",
+    "heTranslation": "לדוגמה",
+    "exampleSentence": "We sell many products, for example phones and laptops."
+  },
+  {
+    "enWord": "such as",
+    "heTranslation": "כמו / כגון",
+    "exampleSentence": "We use tools such as Excel and PowerPoint."
+  },
+  {
+    "enWord": "in addition",
+    "heTranslation": "בנוסף",
+    "exampleSentence": "In addition, we need a new printer."
+  },
+  {
+    "enWord": "also",
+    "heTranslation": "גם",
+    "exampleSentence": "She is a developer and also a team lead."
+  },
+  {
+    "enWord": "both",
+    "heTranslation": "שניהם",
+    "exampleSentence": "Both options are good."
+  },
+  {
+    "enWord": "either",
+    "heTranslation": "או זה או זה",
+    "exampleSentence": "You can either call or email me."
+  },
+  {
+    "enWord": "neither",
+    "heTranslation": "לא זה ולא זה",
+    "exampleSentence": "Neither option is cheap."
+  },
+  {
+    "enWord": "each",
+    "heTranslation": "כל אחד",
+    "exampleSentence": "Each employee has a laptop."
+  },
+  {
+    "enWord": "every",
+    "heTranslation": "כל",
+    "exampleSentence": "Every Monday we have a meeting."
+  },
+  {
+    "enWord": "all",
+    "heTranslation": "כל",
+    "exampleSentence": "All invoices are paid."
+  },
+  {
+    "enWord": "any",
+    "heTranslation": "כל / שום",
+    "exampleSentence": "Do you have any questions?"
+  },
+  {
+    "enWord": "some",
+    "heTranslation": "כמה / קצת",
+    "exampleSentence": "We need some more time."
+  },
+  {
+    "enWord": "none",
+    "heTranslation": "אף אחד",
+    "exampleSentence": "None of the reports are ready."
+  },
+  {
+    "enWord": "between",
+    "heTranslation": "בין",
+    "exampleSentence": "We sit between the two managers."
+  },
+  {
+    "enWord": "among",
+    "heTranslation": "בין / בקרב",
+    "exampleSentence": "He is popular among the team."
+  },
+  {
+    "enWord": "relevant",
+    "heTranslation": "רלוונטי",
+    "exampleSentence": "Is this information relevant to the case?"
+  },
+  {
+    "enWord": "suitable",
+    "heTranslation": "מתאים",
+    "exampleSentence": "This dress is suitable for the wedding."
+  },
+  {
+    "enWord": "appropriate",
+    "heTranslation": "הולם",
+    "exampleSentence": "Please wear appropriate clothing."
+  },
+  {
+    "enWord": "convenient",
+    "heTranslation": "נוח",
+    "exampleSentence": "Let's meet at a convenient time."
+  },
+  {
+    "enWord": "essential",
+    "heTranslation": "חיוני",
+    "exampleSentence": "Water is essential for life."
+  },
+  {
+    "enWord": "mandatory",
+    "heTranslation": "חובה",
+    "exampleSentence": "Attendance at the meeting is mandatory."
+  },
+  {
+    "enWord": "significant",
+    "heTranslation": "משמעותי",
+    "exampleSentence": "There was a significant change in sales."
+  },
+  {
+    "enWord": "enormous",
+    "heTranslation": "עצום",
+    "exampleSentence": "The project requires an enormous budget."
+  },
+  {
+    "enWord": "vast",
+    "heTranslation": "רחב / עצום",
+    "exampleSentence": "She has vast experience in marketing."
+  },
+  {
+    "enWord": "narrow",
+    "heTranslation": "צר",
+    "exampleSentence": "The road is very narrow."
+  },
+  {
+    "enWord": "smooth",
+    "heTranslation": "חלק",
+    "exampleSentence": "The process was very smooth."
+  },
+  {
+    "enWord": "rough",
+    "heTranslation": "מחוספס / קשה",
+    "exampleSentence": "We had a rough start to the year."
+  },
+  {
+    "enWord": "heavy",
+    "heTranslation": "כבד",
+    "exampleSentence": "The box is too heavy to lift."
+  },
+  {
+    "enWord": "light",
+    "heTranslation": "קל",
+    "exampleSentence": "This laptop is very light."
+  },
+  {
+    "enWord": "shiny",
+    "heTranslation": "מבריק",
+    "exampleSentence": "He bought a shiny new car."
+  },
+  {
+    "enWord": "dull",
+    "heTranslation": "עמום / משעמם",
+    "exampleSentence": "The meeting was long and dull."
+  },
+  {
+    "enWord": "crowded",
+    "heTranslation": "צפוף",
+    "exampleSentence": "The bus was very crowded."
+  },
+  {
+    "enWord": "vacant",
+    "heTranslation": "פנוי",
+    "exampleSentence": "Is there a vacant room in the hotel?"
+  },
+  {
+    "enWord": "occupied",
+    "heTranslation": "תפוס",
+    "exampleSentence": "The bathroom is occupied."
+  },
+  {
+    "enWord": "available",
+    "heTranslation": "זמין",
+    "exampleSentence": "I am available after 3 PM."
+  },
+  {
+    "enWord": "affordable",
+    "heTranslation": "בר השגה",
+    "exampleSentence": "We need an affordable solution."
+  },
+  {
+    "enWord": "reasonable",
+    "heTranslation": "סביר",
+    "exampleSentence": "The price is reasonable."
+  },
+  {
+    "enWord": "valuable",
+    "heTranslation": "בעל ערך",
+    "exampleSentence": "This is valuable information."
+  },
+  {
+    "enWord": "precious",
+    "heTranslation": "יקר ערך",
+    "exampleSentence": "Time is our most precious resource."
+  },
+  {
+    "enWord": "rare",
+    "heTranslation": "נדיר",
+    "exampleSentence": "This is a rare opportunity."
+  },
+  {
+    "enWord": "common",
+    "heTranslation": "נפוץ",
+    "exampleSentence": "It is a common mistake."
+  },
+  {
+    "enWord": "strange",
+    "heTranslation": "מוזר",
+    "exampleSentence": "That was a strange noise."
+  },
+  {
+    "enWord": "ordinary",
+    "heTranslation": "רגיל",
+    "exampleSentence": "It was just an ordinary day."
+  },
+  {
+    "enWord": "extraordinary",
+    "heTranslation": "יוצא דופן",
+    "exampleSentence": "She did an extraordinary job."
+  },
+  {
+    "enWord": "unique",
+    "heTranslation": "ייחודי",
+    "exampleSentence": "Every person is unique."
+  },
+  {
+    "enWord": "specific",
+    "heTranslation": "ספציפי",
+    "exampleSentence": "Can you be more specific?"
+  },
+  {
+    "enWord": "general",
+    "heTranslation": "כללי",
+    "exampleSentence": "In general, I agree with you."
+  },
+  {
+    "enWord": "confidential",
+    "heTranslation": "סודי",
+    "exampleSentence": "This document is confidential."
+  },
+  {
+    "enWord": "official",
+    "heTranslation": "רשמי",
+    "exampleSentence": "We received an official letter."
+  },
+  {
+    "enWord": "formal",
+    "heTranslation": "רשמי",
+    "exampleSentence": "It is a formal event."
+  },
+  {
+    "enWord": "polite",
+    "heTranslation": "מנומס",
+    "exampleSentence": "He is always very polite."
+  },
+  {
+    "enWord": "rude",
+    "heTranslation": "גס רוח",
+    "exampleSentence": "It is rude to interrupt."
+  },
+  {
+    "enWord": "hostile",
+    "heTranslation": "עוין",
+    "exampleSentence": "The environment was hostile."
+  },
+  {
+    "enWord": "gentle",
+    "heTranslation": "עדין",
+    "exampleSentence": "Be gentle with the glass."
+  },
+  {
+    "enWord": "careful",
+    "heTranslation": "זהיר",
+    "exampleSentence": "Be careful with that knife."
+  },
+  {
+    "enWord": "careless",
+    "heTranslation": "רשלן",
+    "exampleSentence": "He made a careless mistake."
+  },
+  {
+    "enWord": "safe",
+    "heTranslation": "בטוח",
+    "exampleSentence": "Is it safe to swim here?"
+  },
+  {
+    "enWord": "risky",
+    "heTranslation": "מסוכן",
+    "exampleSentence": "Investing in stocks can be risky."
+  },
+  {
+    "enWord": "secure",
+    "heTranslation": "מאובטח",
+    "exampleSentence": "The website is secure."
+  },
+  {
+    "enWord": "definite",
+    "heTranslation": "מוחלט",
+    "exampleSentence": "We need a definite answer."
+  },
+  {
+    "enWord": "clear",
+    "heTranslation": "ברור",
+    "exampleSentence": "The instructions are clear."
+  },
+  {
+    "enWord": "vague",
+    "heTranslation": "מעורפל",
+    "exampleSentence": "His answer was very vague."
+  },
+  {
+    "enWord": "simple",
+    "heTranslation": "פשוט",
+    "exampleSentence": "The solution is quite simple."
+  },
+  {
+    "enWord": "complex",
+    "heTranslation": "מורכב",
+    "exampleSentence": "The problem is very complex."
+  },
+  {
+    "enWord": "anxious",
+    "heTranslation": "מודאג",
+    "exampleSentence": "She feels anxious about the exam."
+  },
+  {
+    "enWord": "relaxed",
+    "heTranslation": "נינוח",
+    "exampleSentence": "I feel relaxed on vacation."
+  },
+  {
+    "enWord": "stressed",
+    "heTranslation": "לחוץ",
+    "exampleSentence": "He is very stressed at work."
+  },
+  {
+    "enWord": "bored",
+    "heTranslation": "משועמם",
+    "exampleSentence": "I am bored at home."
+  },
+  {
+    "enWord": "interested",
+    "heTranslation": "מעוניין",
+    "exampleSentence": "Are you interested in the job?"
+  },
+  {
+    "enWord": "curious",
+    "heTranslation": "סקרן",
+    "exampleSentence": "She is curious about everything."
+  },
+  {
+    "enWord": "confused",
+    "heTranslation": "מבולבל",
+    "exampleSentence": "I am confused by the instructions."
+  },
+  {
+    "enWord": "shocked",
+    "heTranslation": "המום",
+    "exampleSentence": "Everyone was shocked."
+  },
+  {
+    "enWord": "satisfied",
+    "heTranslation": "מרוצה",
+    "exampleSentence": "Are you satisfied with the service?"
+  },
+  {
+    "enWord": "pleased",
+    "heTranslation": "מרוצה / שמח",
+    "exampleSentence": "I am pleased to meet you."
+  },
+  {
+    "enWord": "delighted",
+    "heTranslation": "משועשע / מאושר",
+    "exampleSentence": "We are delighted with the outcome."
+  },
+  {
+    "enWord": "thrilled",
+    "heTranslation": "נרגש מאוד",
+    "exampleSentence": "She was thrilled about the promotion."
+  },
+  {
+    "enWord": "grateful",
+    "heTranslation": "אסיר תודה",
+    "exampleSentence": "I am grateful for your help."
+  },
+  {
+    "enWord": "thankful",
+    "heTranslation": "אסיר תודה",
+    "exampleSentence": "We are thankful for the support."
+  },
+  {
+    "enWord": "guilty",
+    "heTranslation": "אשם",
+    "exampleSentence": "He feels guilty about lying."
+  },
+  {
+    "enWord": "innocent",
+    "heTranslation": "חף מפשע",
+    "exampleSentence": "He is innocent."
+  },
+  {
+    "enWord": "honest",
+    "heTranslation": "כנה",
+    "exampleSentence": "Be honest with me."
+  },
+  {
+    "enWord": "trustworthy",
+    "heTranslation": "אמין",
+    "exampleSentence": "He is a trustworthy person."
+  },
+  {
+    "enWord": "loyal",
+    "heTranslation": "נאמן",
+    "exampleSentence": "She is a loyal friend."
+  },
+  {
+    "enWord": "faithful",
+    "heTranslation": "נאמן",
+    "exampleSentence": "A faithful companion."
+  },
+  {
+    "enWord": "reliable",
+    "heTranslation": "אמין",
+    "exampleSentence": "This is a reliable car."
+  },
+  {
+    "enWord": "dependable",
+    "heTranslation": "אמין / בר סמך",
+    "exampleSentence": "He is very dependable."
+  },
+  {
+    "enWord": "responsible",
+    "heTranslation": "אחראי",
+    "exampleSentence": "She is responsible for the project."
+  },
+  {
+    "enWord": "irresponsible",
+    "heTranslation": "חסר אחריות",
+    "exampleSentence": "That was irresponsible behavior."
+  },
+  {
+    "enWord": "mature",
+    "heTranslation": "בוגר",
+    "exampleSentence": "He is very mature for his age."
+  },
+  {
+    "enWord": "immature",
+    "heTranslation": "לא בוגר",
+    "exampleSentence": "Stop being immature."
+  },
+  {
+    "enWord": "patient",
+    "heTranslation": "סבלני",
+    "exampleSentence": "Please be patient."
+  },
+  {
+    "enWord": "impatient",
+    "heTranslation": "חסר סבלנות",
+    "exampleSentence": "He is too impatient."
+  },
+  {
+    "enWord": "generous",
+    "heTranslation": "נדיב",
+    "exampleSentence": "She is very generous."
+  },
+  {
+    "enWord": "selfish",
+    "heTranslation": "אנוכי",
+    "exampleSentence": "Don't be selfish."
+  },
+  {
+    "enWord": "greedy",
+    "heTranslation": "חמדן",
+    "exampleSentence": "He is greedy for money."
+  },
+  {
+    "enWord": "modest",
+    "heTranslation": "צנוע",
+    "exampleSentence": "She is very modest."
+  },
+  {
+    "enWord": "arrogant",
+    "heTranslation": "יהיר",
+    "exampleSentence": "He is arrogant and rude."
+  },
+  {
+    "enWord": "humble",
+    "heTranslation": "ענו",
+    "exampleSentence": "Stay humble."
+  },
+  {
+    "enWord": "shy",
+    "heTranslation": "ביישן",
+    "exampleSentence": "He is too shy to speak."
+  },
+  {
+    "enWord": "bold",
+    "heTranslation": "נועז",
+    "exampleSentence": "That was a bold move."
+  },
+  {
+    "enWord": "coward",
+    "heTranslation": "פחדן",
+    "exampleSentence": "Don't be a coward."
+  },
+  {
+    "enWord": "fearless",
+    "heTranslation": "חסר פחד",
+    "exampleSentence": "He is fearless."
+  },
+  {
+    "enWord": "timid",
+    "heTranslation": "ביישן / פחדן",
+    "exampleSentence": "She is timid around strangers."
+  },
+  {
+    "enWord": "outgoing",
+    "heTranslation": "חברותי",
+    "exampleSentence": "He is very outgoing."
+  },
+  {
+    "enWord": "sociable",
+    "heTranslation": "חברותי",
+    "exampleSentence": "She is sociable and friendly."
+  },
+  {
+    "enWord": "friendly",
+    "heTranslation": "ידידותי",
+    "exampleSentence": "Everyone here is friendly."
+  },
+  {
+    "enWord": "unfriendly",
+    "heTranslation": "לא ידידותי",
+    "exampleSentence": "The staff was unfriendly."
+  },
+  {
+    "enWord": "cruel",
+    "heTranslation": "אכזר",
+    "exampleSentence": "That was cruel."
+  },
+  {
+    "enWord": "mean",
+    "heTranslation": "רשע / מרושע",
+    "exampleSentence": "Why are you so mean?"
+  },
+  {
+    "enWord": "pleasant",
+    "heTranslation": "נעים",
+    "exampleSentence": "It was a pleasant evening."
+  },
+  {
+    "enWord": "unpleasant",
+    "heTranslation": "לא נעים",
+    "exampleSentence": "An unpleasant experience."
+  },
+  {
+    "enWord": "cheerful",
+    "heTranslation": "עליז",
+    "exampleSentence": "She is always cheerful."
+  },
+  {
+    "enWord": "gloomy",
+    "heTranslation": "קודר",
+    "exampleSentence": "The weather is gloomy."
+  },
+  {
+    "enWord": "optimistic",
+    "heTranslation": "אופטימי",
+    "exampleSentence": "Stay optimistic."
+  },
+  {
+    "enWord": "pessimistic",
+    "heTranslation": "פסימי",
+    "exampleSentence": "Don't be so pessimistic."
+  },
+  {
+    "enWord": "positive",
+    "heTranslation": "חיובי",
+    "exampleSentence": "Think positive."
+  },
+  {
+    "enWord": "negative",
+    "heTranslation": "שלילי",
+    "exampleSentence": "Avoid negative thoughts."
+  },
+  {
+    "enWord": "active",
+    "heTranslation": "פעיל",
+    "exampleSentence": "He is very active."
+  },
+  {
+    "enWord": "passive",
+    "heTranslation": "פסיבי",
+    "exampleSentence": "Don't be passive."
+  },
+  {
+    "enWord": "energetic",
+    "heTranslation": "אנרגטי",
+    "exampleSentence": "She is so energetic."
+  },
+  {
+    "enWord": "lazy",
+    "heTranslation": "עצלן",
+    "exampleSentence": "He is lazy."
+  },
+  {
+    "enWord": "ambitious",
+    "heTranslation": "שאפתן",
+    "exampleSentence": "She is very ambitious."
+  },
+  {
+    "enWord": "talented",
+    "heTranslation": "מוכשר",
+    "exampleSentence": "He is a talented musician."
+  },
+  {
+    "enWord": "skillful",
+    "heTranslation": "מיומן",
+    "exampleSentence": "She is skillful at her work."
+  },
+  {
+    "enWord": "clever",
+    "heTranslation": "חכם",
+    "exampleSentence": "That was a clever idea."
+  },
+  {
+    "enWord": "wise",
+    "heTranslation": "חכם",
+    "exampleSentence": "He is a wise man."
+  },
+  {
+    "enWord": "foolish",
+    "heTranslation": "טיפש",
+    "exampleSentence": "That was foolish."
+  },
+  {
+    "enWord": "stupid",
+    "heTranslation": "טיפש",
+    "exampleSentence": "Don't do stupid things."
+  },
+  {
+    "enWord": "intelligent",
+    "heTranslation": "אינטליגנטי",
+    "exampleSentence": "She is highly intelligent."
+  },
+  {
+    "enWord": "brilliant",
+    "heTranslation": "מבריק",
+    "exampleSentence": "A brilliant idea."
+  },
+  {
+    "enWord": "smart",
+    "heTranslation": "חכם",
+    "exampleSentence": "He is very smart."
+  },
+  {
+    "enWord": "dumb",
+    "heTranslation": "טיפש",
+    "exampleSentence": "That was a dumb mistake."
+  },
+  {
+    "enWord": "educated",
+    "heTranslation": "משכיל",
+    "exampleSentence": "He is well educated."
+  },
+  {
+    "enWord": "ignorant",
+    "heTranslation": "בור",
+    "exampleSentence": "Don't remain ignorant."
+  },
+  {
+    "enWord": "knowledgeable",
+    "heTranslation": "בעל ידע",
+    "exampleSentence": "She is knowledgeable in history."
+  },
+  {
+    "enWord": "experienced",
+    "heTranslation": "מנוסה",
+    "exampleSentence": "An experienced manager."
+  },
+  {
+    "enWord": "inexperienced",
+    "heTranslation": "חסר ניסיון",
+    "exampleSentence": "He is inexperienced."
+  },
+  {
+    "enWord": "professional",
+    "heTranslation": "מקצועי",
+    "exampleSentence": "Very professional work."
+  },
+  {
+    "enWord": "amateur",
+    "heTranslation": "חובב",
+    "exampleSentence": "He is just an amateur."
+  },
+  {
+    "enWord": "expert",
+    "heTranslation": "מומחה",
+    "exampleSentence": "She is an expert."
+  },
+  {
+    "enWord": "skilled",
+    "heTranslation": "מיומן",
+    "exampleSentence": "Skilled workers are needed."
+  },
+  {
+    "enWord": "unskilled",
+    "heTranslation": "לא מיומן",
+    "exampleSentence": "Unskilled labor."
+  },
+  {
+    "enWord": "creative",
+    "heTranslation": "יצירתי",
+    "exampleSentence": "A creative solution."
+  },
+  {
+    "enWord": "imaginative",
+    "heTranslation": "בעל דמיון",
+    "exampleSentence": "An imaginative story."
+  },
+  {
+    "enWord": "practical",
+    "heTranslation": "מעשי",
+    "exampleSentence": "A practical approach."
+  },
+  {
+    "enWord": "realistic",
+    "heTranslation": "ריאליסטי",
+    "exampleSentence": "Be realistic."
+  },
+  {
+    "enWord": "idealistic",
+    "heTranslation": "אידיאליסטי",
+    "exampleSentence": "An idealistic view."
+  },
+  {
+    "enWord": "logical",
+    "heTranslation": "הגיוני",
+    "exampleSentence": "A logical conclusion."
+  },
+  {
+    "enWord": "illogical",
+    "heTranslation": "לא הגיוני",
+    "exampleSentence": "That is illogical."
+  },
+  {
+    "enWord": "unreasonable",
+    "heTranslation": "לא סביר",
+    "exampleSentence": "An unreasonable demand."
+  },
+  {
+    "enWord": "rational",
+    "heTranslation": "רציונלי",
+    "exampleSentence": "Think rationally."
+  },
+  {
+    "enWord": "irrational",
+    "heTranslation": "לא רציונלי",
+    "exampleSentence": "Irrational fear."
+  },
+  {
+    "enWord": "sensible",
+    "heTranslation": "הגיוני",
+    "exampleSentence": "A sensible decision."
+  },
+  {
+    "enWord": "absurd",
+    "heTranslation": "אבסורדי",
+    "exampleSentence": "That is absurd."
+  },
+  {
+    "enWord": "ridiculous",
+    "heTranslation": "מגוחך",
+    "exampleSentence": "A ridiculous idea."
+  },
+  {
+    "enWord": "humorous",
+    "heTranslation": "הומוריסטי",
+    "exampleSentence": "A humorous speech."
+  },
+  {
+    "enWord": "amusing",
+    "heTranslation": "משעשע",
+    "exampleSentence": "An amusing story."
+  },
+  {
+    "enWord": "entertaining",
+    "heTranslation": "משעשע",
+    "exampleSentence": "An entertaining show."
+  },
+  {
+    "enWord": "boring",
+    "heTranslation": "משעמם",
+    "exampleSentence": "The movie was boring."
+  },
+  {
+    "enWord": "tedious",
+    "heTranslation": "מייגע / משעמם",
+    "exampleSentence": "Tedious work."
+  },
+  {
+    "enWord": "monotonous",
+    "heTranslation": "מונוטוני",
+    "exampleSentence": "A monotonous voice."
+  },
+  {
+    "enWord": "interesting",
+    "heTranslation": "מעניין",
+    "exampleSentence": "An interesting book."
+  },
+  {
+    "enWord": "fascinating",
+    "heTranslation": "מרתק",
+    "exampleSentence": "A fascinating topic."
+  },
+  {
+    "enWord": "intriguing",
+    "heTranslation": "מסקרן",
+    "exampleSentence": "An intriguing mystery."
+  },
+  {
+    "enWord": "captivating",
+    "heTranslation": "שובה לב",
+    "exampleSentence": "A captivating performance."
+  },
+  {
+    "enWord": "compelling",
+    "heTranslation": "כופה / משכנע",
+    "exampleSentence": "A compelling argument."
+  },
+  {
+    "enWord": "convincing",
+    "heTranslation": "משכנע",
+    "exampleSentence": "A convincing explanation."
+  },
+  {
+    "enWord": "persuasive",
+    "heTranslation": "משכנע",
+    "exampleSentence": "A persuasive speaker."
+  },
+  {
+    "enWord": "doubtful",
+    "heTranslation": "מפוקפק",
+    "exampleSentence": "I am doubtful about this."
+  },
+  {
+    "enWord": "skeptical",
+    "heTranslation": "ספקן",
+    "exampleSentence": "He is skeptical."
+  },
+  {
+    "enWord": "suspicious",
+    "heTranslation": "חשדן",
+    "exampleSentence": "She is suspicious of strangers."
+  },
+  {
+    "enWord": "trusting",
+    "heTranslation": "בוטח",
+    "exampleSentence": "A trusting nature."
+  },
+  {
+    "enWord": "cautious",
+    "heTranslation": "זהיר",
+    "exampleSentence": "Be cautious."
+  },
+  {
+    "enWord": "reckless",
+    "heTranslation": "פזיז",
+    "exampleSentence": "Reckless driving."
+  },
+  {
+    "enWord": "impulsive",
+    "heTranslation": "אימפולסיבי",
+    "exampleSentence": "Don't be impulsive."
+  },
+  {
+    "enWord": "deliberate",
+    "heTranslation": "מכוון",
+    "exampleSentence": "A deliberate action."
+  },
+  {
+    "enWord": "intentional",
+    "heTranslation": "מכוון",
+    "exampleSentence": "It was intentional."
+  },
+  {
+    "enWord": "accidental",
+    "heTranslation": "מקרי",
+    "exampleSentence": "It was accidental."
+  },
+  {
+    "enWord": "unintentional",
+    "heTranslation": "לא מכוון",
+    "exampleSentence": "Unintentional error."
+  },
+  {
+    "enWord": "conscious",
+    "heTranslation": "מודע",
+    "exampleSentence": "A conscious decision."
+  },
+  {
+    "enWord": "unconscious",
+    "heTranslation": "מחוסר הכרה",
+    "exampleSentence": "He is unconscious."
+  },
+  {
+    "enWord": "aware",
+    "heTranslation": "מודע",
+    "exampleSentence": "Be aware of the risks."
+  },
+  {
+    "enWord": "unaware",
+    "heTranslation": "לא מודע",
+    "exampleSentence": "He is unaware of the problem."
+  },
+  {
+    "enWord": "alert",
+    "heTranslation": "ערני",
+    "exampleSentence": "Stay alert."
+  },
+  {
+    "enWord": "attentive",
+    "heTranslation": "קשוב",
+    "exampleSentence": "Be attentive in class."
+  },
+  {
+    "enWord": "distracted",
+    "heTranslation": "מוסח דעת",
+    "exampleSentence": "He seems distracted."
+  },
+  {
+    "enWord": "focused",
+    "heTranslation": "ממוקד",
+    "exampleSentence": "Stay focused."
+  },
+  {
+    "enWord": "concentrated",
+    "heTranslation": "מרוכז",
+    "exampleSentence": "Concentrated effort."
+  },
+  {
+    "enWord": "determined",
+    "heTranslation": "נחוש",
+    "exampleSentence": "She is determined to succeed."
+  },
+  {
+    "enWord": "persistent",
+    "heTranslation": "מתמיד",
+    "exampleSentence": "Be persistent."
+  },
+  {
+    "enWord": "stubborn",
+    "heTranslation": "עקשן",
+    "exampleSentence": "He is too stubborn."
+  },
+  {
+    "enWord": "flexible",
+    "heTranslation": "גמיש",
+    "exampleSentence": "Be flexible."
+  },
+  {
+    "enWord": "rigid",
+    "heTranslation": "נוקשה",
+    "exampleSentence": "Rigid rules."
+  },
+  {
+    "enWord": "strict",
+    "heTranslation": "מחמיר",
+    "exampleSentence": "A strict teacher."
+  },
+  {
+    "enWord": "lenient",
+    "heTranslation": "מקל",
+    "exampleSentence": "A lenient punishment."
+  },
+  {
+    "enWord": "harsh",
+    "heTranslation": "קשוח",
+    "exampleSentence": "Harsh criticism."
+  },
+  {
+    "enWord": "mild",
+    "heTranslation": "מתון",
+    "exampleSentence": "Mild weather."
+  },
+  {
+    "enWord": "extreme",
+    "heTranslation": "קיצוני",
+    "exampleSentence": "Extreme conditions."
+  },
+  {
+    "enWord": "moderate",
+    "heTranslation": "מתון",
+    "exampleSentence": "Moderate views."
+  },
+  {
+    "enWord": "radical",
+    "heTranslation": "רדיקלי",
+    "exampleSentence": "Radical changes."
+  },
+  {
+    "enWord": "conservative",
+    "heTranslation": "שמרן",
+    "exampleSentence": "Conservative approach."
+  },
+  {
+    "enWord": "liberal",
+    "heTranslation": "ליברלי",
+    "exampleSentence": "Liberal policies."
+  },
+  {
+    "enWord": "traditional",
+    "heTranslation": "מסורתי",
+    "exampleSentence": "Traditional values."
+  },
+  {
+    "enWord": "modern",
+    "heTranslation": "מודרני",
+    "exampleSentence": "Modern technology."
+  },
+  {
+    "enWord": "contemporary",
+    "heTranslation": "עכשווי",
+    "exampleSentence": "Contemporary art."
+  },
+  {
+    "enWord": "ancient",
+    "heTranslation": "עתיק",
+    "exampleSentence": "Ancient history."
+  },
+  {
+    "enWord": "recent",
+    "heTranslation": "לאחרונה",
+    "exampleSentence": "Recent events."
+  },
+  {
+    "enWord": "current",
+    "heTranslation": "נוכחי",
+    "exampleSentence": "Current situation."
+  },
+  {
+    "enWord": "latest",
+    "heTranslation": "אחרון",
+    "exampleSentence": "The latest news."
+  },
+  {
+    "enWord": "previous",
+    "heTranslation": "קודם",
+    "exampleSentence": "Previous experience."
+  },
+  {
+    "enWord": "former",
+    "heTranslation": "לשעבר",
+    "exampleSentence": "Former president."
+  },
+  {
+    "enWord": "future",
+    "heTranslation": "עתידי",
+    "exampleSentence": "Future plans."
+  }
+]

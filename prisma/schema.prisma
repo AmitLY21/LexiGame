@@ -1,0 +1,123 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String   @id @default(cuid())
+  email         String   @unique
+  passwordHash  String   @map("password_hash")
+  displayName   String?  @map("display_name")
+  createdAt     DateTime @default(now()) @map("created_at")
+  lastLoginAt   DateTime? @map("last_login_at")
+  
+  wordProgress  UserWordProgress[]
+  gameSessions  TriviaGameSession[]
+  dailyActivity UserDailyActivity[]
+  
+  @@map("users")
+}
+
+model Stage {
+  id              Int      @id
+  nameHe          String   @map("name_he")
+  descriptionHe   String?  @map("description_he")
+  difficultyRange String?  @map("difficulty_range")
+  orderIndex      Int      @map("order_index")
+  
+  words           Word[]
+  
+  @@map("stages")
+}
+
+model Word {
+  id                    String   @id @default(cuid())
+  stageId               Int      @map("stage_id")
+  enWord                String   @map("en_word")
+  heTranslationDefault  String   @map("he_translation_default")
+  exampleSentenceEn     String?  @map("example_sentence_en")
+  difficultyLevel       Int      @map("difficulty_level") // 1 = easy, 2 = medium, 3 = hard
+  
+  stage                 Stage    @relation(fields: [stageId], references: [id])
+  userProgress          UserWordProgress[]
+  triviaRounds          TriviaRound[]
+  
+  @@map("words")
+}
+
+model UserWordProgress {
+  id                String    @id @default(cuid())
+  userId            String    @map("user_id")
+  wordId            String    @map("word_id")
+  starRating        Int       @default(1) @map("star_rating") // 1-5
+  notes             String?   @default("")
+  lastSeenAt        DateTime? @map("last_seen_at")
+  correctCount      Int       @default(0) @map("correct_count")
+  incorrectCount    Int       @default(0) @map("incorrect_count")
+  lastAnswerResult  String?   @map("last_answer_result") // "correct" | "incorrect" | "unknown"
+  correctStreakForWord Int    @default(0) @map("correct_streak_for_word")
+  
+  user              User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word              Word      @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  
+  @@unique([userId, wordId])
+  @@map("user_word_progress")
+}
+
+model TriviaGameSession {
+  id                      String        @id @default(cuid())
+  userId                  String        @map("user_id")
+  startedAt               DateTime      @default(now()) @map("started_at")
+  endedAt                 DateTime?     @map("ended_at")
+  score                   Int           @default(0)
+  accuracy                Float?        // percentage
+  livesConfigured         Int           @default(3) @map("lives_configured")
+  livesUsed               Int           @default(0) @map("lives_used")
+  settingsStages          String?       @map("settings_stages") // JSON array of stage IDs
+  settingsDifficultyLevels String?      @map("settings_difficulty_levels") // JSON array
+  settingsStarFilters     String?       @map("settings_star_filters") // JSON array
+  feedbackLanguage        String        @default("he") @map("feedback_language") // "he" | "en"
+  
+  user                    User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  rounds                  TriviaRound[]
+  
+  @@map("trivia_game_sessions")
+}
+
+model TriviaRound {
+  id                    String            @id @default(cuid())
+  gameSessionId         String            @map("game_session_id")
+  wordId                String            @map("word_id")
+  isCorrect             Boolean           @map("is_correct")
+  timeTakenSeconds      Int               @map("time_taken_seconds")
+  selectedOptionIndex   Int               @map("selected_option_index")
+  correctOptionIndex    Int               @map("correct_option_index")
+  roundNumber           Int               @map("round_number")
+  
+  gameSession           TriviaGameSession @relation(fields: [gameSessionId], references: [id], onDelete: Cascade)
+  word                  Word              @relation(fields: [wordId], references: [id])
+  
+  @@map("trivia_rounds")
+}
+
+model UserDailyActivity {
+  id                      String   @id @default(cuid())
+  userId                  String   @map("user_id")
+  date                    DateTime @default(now())
+  isActive                Boolean  @default(false) @map("is_active")
+  wordsInteractedCount    Int      @default(0) @map("words_interacted_count")
+  triviaGamesCount        Int      @default(0) @map("trivia_games_count")
+  
+  user                    User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  @@unique([userId, date])
+  @@map("user_daily_activity")
+}
+

@@ -1,0 +1,1262 @@
+[
+  {
+    "enWord": "hello",
+    "heTranslation": "שלום",
+    "exampleSentence": "Hello, how are you?"
+  },
+  {
+    "enWord": "goodbye",
+    "heTranslation": "להתראות",
+    "exampleSentence": "Goodbye, see you tomorrow."
+  },
+  {
+    "enWord": "thank you",
+    "heTranslation": "תודה",
+    "exampleSentence": "Thank you for your help."
+  },
+  {
+    "enWord": "please",
+    "heTranslation": "בבקשה",
+    "exampleSentence": "Please come in."
+  },
+  {
+    "enWord": "yes",
+    "heTranslation": "כן",
+    "exampleSentence": "Yes, I agree."
+  },
+  {
+    "enWord": "no",
+    "heTranslation": "לא",
+    "exampleSentence": "No, thank you."
+  },
+  {
+    "enWord": "water",
+    "heTranslation": "מים",
+    "exampleSentence": "I need a glass of water."
+  },
+  {
+    "enWord": "food",
+    "heTranslation": "אוכל",
+    "exampleSentence": "The food is delicious."
+  },
+  {
+    "enWord": "house",
+    "heTranslation": "בית",
+    "exampleSentence": "This is my house."
+  },
+  {
+    "enWord": "car",
+    "heTranslation": "מכונית",
+    "exampleSentence": "I drive a car to work."
+  },
+  {
+    "enWord": "book",
+    "heTranslation": "ספר",
+    "exampleSentence": "I love reading books."
+  },
+  {
+    "enWord": "friend",
+    "heTranslation": "חבר",
+    "exampleSentence": "He is my best friend."
+  },
+  {
+    "enWord": "family",
+    "heTranslation": "משפחה",
+    "exampleSentence": "I love my family."
+  },
+  {
+    "enWord": "school",
+    "heTranslation": "בית ספר",
+    "exampleSentence": "I go to school every day."
+  },
+  {
+    "enWord": "work",
+    "heTranslation": "עבודה",
+    "exampleSentence": "I work in an office."
+  },
+  {
+    "enWord": "time",
+    "heTranslation": "זמן",
+    "exampleSentence": "What time is it?"
+  },
+  {
+    "enWord": "day",
+    "heTranslation": "יום",
+    "exampleSentence": "Have a nice day!"
+  },
+  {
+    "enWord": "night",
+    "heTranslation": "לילה",
+    "exampleSentence": "Good night!"
+  },
+  {
+    "enWord": "morning",
+    "heTranslation": "בוקר",
+    "exampleSentence": "Good morning!"
+  },
+  {
+    "enWord": "afternoon",
+    "heTranslation": "אחר הצהריים",
+    "exampleSentence": "See you in the afternoon."
+  },
+  {
+    "enWord": "week",
+    "heTranslation": "שבוע",
+    "exampleSentence": "I work five days a week."
+  },
+  {
+    "enWord": "month",
+    "heTranslation": "חודש",
+    "exampleSentence": "Next month I will travel."
+  },
+  {
+    "enWord": "year",
+    "heTranslation": "שנה",
+    "exampleSentence": "Happy New Year!"
+  },
+  {
+    "enWord": "today",
+    "heTranslation": "היום",
+    "exampleSentence": "What are you doing today?"
+  },
+  {
+    "enWord": "tomorrow",
+    "heTranslation": "מחר",
+    "exampleSentence": "See you tomorrow."
+  },
+  {
+    "enWord": "yesterday",
+    "heTranslation": "אתמול",
+    "exampleSentence": "I saw him yesterday."
+  },
+  {
+    "enWord": "now",
+    "heTranslation": "עכשיו",
+    "exampleSentence": "I am busy now."
+  },
+  {
+    "enWord": "here",
+    "heTranslation": "כאן",
+    "exampleSentence": "Come here, please."
+  },
+  {
+    "enWord": "there",
+    "heTranslation": "שם",
+    "exampleSentence": "The store is over there."
+  },
+  {
+    "enWord": "big",
+    "heTranslation": "גדול",
+    "exampleSentence": "This is a big house."
+  },
+  {
+    "enWord": "small",
+    "heTranslation": "קטן",
+    "exampleSentence": "I have a small car."
+  },
+  {
+    "enWord": "good",
+    "heTranslation": "טוב",
+    "exampleSentence": "This is a good idea."
+  },
+  {
+    "enWord": "bad",
+    "heTranslation": "רע",
+    "exampleSentence": "That was a bad decision."
+  },
+  {
+    "enWord": "new",
+    "heTranslation": "חדש",
+    "exampleSentence": "I bought a new phone."
+  },
+  {
+    "enWord": "old",
+    "heTranslation": "ישן",
+    "exampleSentence": "This is an old building."
+  },
+  {
+    "enWord": "hot",
+    "heTranslation": "חם",
+    "exampleSentence": "It is very hot today."
+  },
+  {
+    "enWord": "cold",
+    "heTranslation": "קר",
+    "exampleSentence": "The water is cold."
+  },
+  {
+    "enWord": "happy",
+    "heTranslation": "שמח",
+    "exampleSentence": "I am very happy."
+  },
+  {
+    "enWord": "sad",
+    "heTranslation": "עצוב",
+    "exampleSentence": "Why are you sad?"
+  },
+  {
+    "enWord": "easy",
+    "heTranslation": "קל",
+    "exampleSentence": "This test is easy."
+  },
+  {
+    "enWord": "difficult",
+    "heTranslation": "קשה",
+    "exampleSentence": "This question is difficult."
+  },
+  {
+    "enWord": "fast",
+    "heTranslation": "מהיר",
+    "exampleSentence": "He runs very fast."
+  },
+  {
+    "enWord": "slow",
+    "heTranslation": "איטי",
+    "exampleSentence": "This computer is slow."
+  },
+  {
+    "enWord": "beautiful",
+    "heTranslation": "יפה",
+    "exampleSentence": "She is very beautiful."
+  },
+  {
+    "enWord": "ugly",
+    "heTranslation": "מכוער",
+    "exampleSentence": "This building is ugly."
+  },
+  {
+    "enWord": "clean",
+    "heTranslation": "נקי",
+    "exampleSentence": "Keep your room clean."
+  },
+  {
+    "enWord": "dirty",
+    "heTranslation": "מלוכלך",
+    "exampleSentence": "The floor is dirty."
+  },
+  {
+    "enWord": "right",
+    "heTranslation": "נכון",
+    "exampleSentence": "You are right."
+  },
+  {
+    "enWord": "wrong",
+    "heTranslation": "שגוי",
+    "exampleSentence": "That answer is wrong."
+  },
+  {
+    "enWord": "open",
+    "heTranslation": "פתוח",
+    "exampleSentence": "The door is open."
+  },
+  {
+    "enWord": "close",
+    "heTranslation": "סגור",
+    "exampleSentence": "Please close the window."
+  },
+  {
+    "enWord": "money",
+    "heTranslation": "כסף",
+    "exampleSentence": "I need some money for lunch."
+  },
+  {
+    "enWord": "job",
+    "heTranslation": "עבודה",
+    "exampleSentence": "He is looking for a new job."
+  },
+  {
+    "enWord": "office",
+    "heTranslation": "משרד",
+    "exampleSentence": "I work in a small office."
+  },
+  {
+    "enWord": "boss",
+    "heTranslation": "בוס",
+    "exampleSentence": "My boss is very friendly."
+  },
+  {
+    "enWord": "company",
+    "heTranslation": "חברה",
+    "exampleSentence": "I work for a big company."
+  },
+  {
+    "enWord": "customer",
+    "heTranslation": "לקוח",
+    "exampleSentence": "The customer is always right."
+  },
+  {
+    "enWord": "client",
+    "heTranslation": "לקוח",
+    "exampleSentence": "The client called this morning."
+  },
+  {
+    "enWord": "shop",
+    "heTranslation": "חנות",
+    "exampleSentence": "I buy food at the shop."
+  },
+  {
+    "enWord": "store",
+    "heTranslation": "חנות",
+    "exampleSentence": "The store opens at nine."
+  },
+  {
+    "enWord": "market",
+    "heTranslation": "שוק",
+    "exampleSentence": "We go to the market on Friday."
+  },
+  {
+    "enWord": "bank",
+    "heTranslation": "בנק",
+    "exampleSentence": "I put my money in the bank."
+  },
+  {
+    "enWord": "card",
+    "heTranslation": "כרטיס",
+    "exampleSentence": "I pay with my card."
+  },
+  {
+    "enWord": "credit card",
+    "heTranslation": "כרטיס אשראי",
+    "exampleSentence": "I paid the bill with a credit card."
+  },
+  {
+    "enWord": "cash",
+    "heTranslation": "מזומן",
+    "exampleSentence": "Do you have cash?"
+  },
+  {
+    "enWord": "price",
+    "heTranslation": "מחיר",
+    "exampleSentence": "The price is too high."
+  },
+  {
+    "enWord": "bill",
+    "heTranslation": "חשבון",
+    "exampleSentence": "Can I get the bill, please?"
+  },
+  {
+    "enWord": "salary",
+    "heTranslation": "משכורת",
+    "exampleSentence": "I get my salary every month."
+  },
+  {
+    "enWord": "meeting",
+    "heTranslation": "פגישה",
+    "exampleSentence": "We have a meeting at ten."
+  },
+  {
+    "enWord": "phone",
+    "heTranslation": "טלפון",
+    "exampleSentence": "I will call you on the phone."
+  },
+  {
+    "enWord": "email",
+    "heTranslation": "אימייל",
+    "exampleSentence": "Send me an email."
+  },
+  {
+    "enWord": "computer",
+    "heTranslation": "מחשב",
+    "exampleSentence": "My computer is new."
+  },
+  {
+    "enWord": "desk",
+    "heTranslation": "שולחן עבודה",
+    "exampleSentence": "My desk is next to the window."
+  },
+  {
+    "enWord": "chair",
+    "heTranslation": "כיסא",
+    "exampleSentence": "There is a chair in the office."
+  },
+  {
+    "enWord": "city",
+    "heTranslation": "עיר",
+    "exampleSentence": "I live in a big city."
+  },
+  {
+    "enWord": "street",
+    "heTranslation": "רחוב",
+    "exampleSentence": "The office is on this street."
+  },
+  {
+    "enWord": "I",
+    "heTranslation": "אני",
+    "exampleSentence": "I am happy."
+  },
+  {
+    "enWord": "you",
+    "heTranslation": "אתה / את / אתם",
+    "exampleSentence": "You are my friend."
+  },
+  {
+    "enWord": "he",
+    "heTranslation": "הוא",
+    "exampleSentence": "He is at work."
+  },
+  {
+    "enWord": "she",
+    "heTranslation": "היא",
+    "exampleSentence": "She is a manager."
+  },
+  {
+    "enWord": "it",
+    "heTranslation": "זה / הוא / היא",
+    "exampleSentence": "It is very easy."
+  },
+  {
+    "enWord": "we",
+    "heTranslation": "אנחנו",
+    "exampleSentence": "We work together."
+  },
+  {
+    "enWord": "they",
+    "heTranslation": "הם / הן",
+    "exampleSentence": "They live in Tel Aviv."
+  },
+  {
+    "enWord": "my",
+    "heTranslation": "שלי",
+    "exampleSentence": "My job is interesting."
+  },
+  {
+    "enWord": "your",
+    "heTranslation": "שלך / שלכם",
+    "exampleSentence": "Is this your phone?"
+  },
+  {
+    "enWord": "his",
+    "heTranslation": "שלו",
+    "exampleSentence": "His car is new."
+  },
+  {
+    "enWord": "her",
+    "heTranslation": "שלה",
+    "exampleSentence": "Her office is small."
+  },
+  {
+    "enWord": "our",
+    "heTranslation": "שלנו",
+    "exampleSentence": "Our company is growing."
+  },
+  {
+    "enWord": "their",
+    "heTranslation": "שלהם",
+    "exampleSentence": "Their meeting starts now."
+  },
+  {
+    "enWord": "a",
+    "heTranslation": "אחד / אחת (לא מוגדר)",
+    "exampleSentence": "I have a meeting today."
+  },
+  {
+    "enWord": "an",
+    "heTranslation": "אחד / אחת (לפני תנועה)",
+    "exampleSentence": "She wrote an email."
+  },
+  {
+    "enWord": "the",
+    "heTranslation": "ה־",
+    "exampleSentence": "The office is on this floor."
+  },
+  {
+    "enWord": "and",
+    "heTranslation": "ו־",
+    "exampleSentence": "I have a pen and a notebook."
+  },
+  {
+    "enWord": "but",
+    "heTranslation": "אבל",
+    "exampleSentence": "The job is hard but interesting."
+  },
+  {
+    "enWord": "or",
+    "heTranslation": "או",
+    "exampleSentence": "Tea or coffee?"
+  },
+  {
+    "enWord": "because",
+    "heTranslation": "כי / בגלל",
+    "exampleSentence": "I am late because of the traffic."
+  },
+  {
+    "enWord": "so",
+    "heTranslation": "אז / לכן",
+    "exampleSentence": "It is late, so I will go home."
+  },
+  {
+    "enWord": "in",
+    "heTranslation": "ב־",
+    "exampleSentence": "I work in Tel Aviv."
+  },
+  {
+    "enWord": "on",
+    "heTranslation": "על / ב־",
+    "exampleSentence": "The report is on the desk."
+  },
+  {
+    "enWord": "at",
+    "heTranslation": "ב־ / אצל",
+    "exampleSentence": "I arrive at eight."
+  },
+  {
+    "enWord": "from",
+    "heTranslation": "מ־",
+    "exampleSentence": "I come from Haifa."
+  },
+  {
+    "enWord": "to",
+    "heTranslation": "אל / ל־",
+    "exampleSentence": "I go to the office."
+  },
+  {
+    "enWord": "with",
+    "heTranslation": "עם",
+    "exampleSentence": "I work with nice people."
+  },
+  {
+    "enWord": "without",
+    "heTranslation": "בלי",
+    "exampleSentence": "I cannot work without a computer."
+  },
+  {
+    "enWord": "for",
+    "heTranslation": "בשביל / במשך",
+    "exampleSentence": "I worked there for two years."
+  },
+  {
+    "enWord": "before",
+    "heTranslation": "לפני",
+    "exampleSentence": "I drink coffee before work."
+  },
+  {
+    "enWord": "after",
+    "heTranslation": "אחרי",
+    "exampleSentence": "We talk after the meeting."
+  },
+  {
+    "enWord": "than",
+    "heTranslation": "מאשר / מ־",
+    "exampleSentence": "This car is faster than that one."
+  },
+  {
+    "enWord": "inside",
+    "heTranslation": "בפנים",
+    "exampleSentence": "The keys are inside the bag."
+  },
+  {
+    "enWord": "outside",
+    "heTranslation": "בחוץ",
+    "exampleSentence": "It is cold outside."
+  },
+  {
+    "enWord": "over",
+    "heTranslation": "מעל / מעבר",
+    "exampleSentence": "The lamp is over the table."
+  },
+  {
+    "enWord": "under",
+    "heTranslation": "מתחת",
+    "exampleSentence": "The cat is under the chair."
+  },
+  {
+    "enWord": "into",
+    "heTranslation": "לתוך",
+    "exampleSentence": "She walked into the room."
+  },
+  {
+    "enWord": "out of",
+    "heTranslation": "מחוץ ל־",
+    "exampleSentence": "He walked out of the office."
+  },
+  {
+    "enWord": "up",
+    "heTranslation": "למעלה",
+    "exampleSentence": "Please go up the stairs."
+  },
+  {
+    "enWord": "down",
+    "heTranslation": "למטה",
+    "exampleSentence": "He went down the stairs."
+  },
+  {
+    "enWord": "always",
+    "heTranslation": "תמיד",
+    "exampleSentence": "She is always on time."
+  },
+  {
+    "enWord": "usually",
+    "heTranslation": "בדרך כלל",
+    "exampleSentence": "I usually start at nine."
+  },
+  {
+    "enWord": "often",
+    "heTranslation": "לעיתים קרובות",
+    "exampleSentence": "We often have calls with clients."
+  },
+  {
+    "enWord": "sometimes",
+    "heTranslation": "לפעמים",
+    "exampleSentence": "Sometimes I work from home."
+  },
+  {
+    "enWord": "rarely",
+    "heTranslation": "לעיתים רחוקות",
+    "exampleSentence": "He rarely takes a vacation."
+  },
+  {
+    "enWord": "never",
+    "heTranslation": "אף פעם לא",
+    "exampleSentence": "I never check email at night."
+  },
+  {
+    "enWord": "early",
+    "heTranslation": "מוקדם",
+    "exampleSentence": "I arrived early today."
+  },
+  {
+    "enWord": "late",
+    "heTranslation": "מאוחר",
+    "exampleSentence": "He is late again."
+  },
+  {
+    "enWord": "soon",
+    "heTranslation": "בקרוב",
+    "exampleSentence": "I will send it soon."
+  },
+  {
+    "enWord": "hi",
+    "heTranslation": "היי",
+    "exampleSentence": "Hi, how are you?"
+  },
+  {
+    "enWord": "bye",
+    "heTranslation": "ביי",
+    "exampleSentence": "Bye, see you later!"
+  },
+  {
+    "enWord": "sorry",
+    "heTranslation": "סליחה",
+    "exampleSentence": "Sorry, I am late."
+  },
+  {
+    "enWord": "excuse me",
+    "heTranslation": "סליחה",
+    "exampleSentence": "Excuse me, where is the bathroom?"
+  },
+  {
+    "enWord": "pardon",
+    "heTranslation": "סליחה",
+    "exampleSentence": "Pardon me, what did you say?"
+  },
+  {
+    "enWord": "thanks",
+    "heTranslation": "תודה",
+    "exampleSentence": "Thanks for your help."
+  },
+  {
+    "enWord": "welcome",
+    "heTranslation": "ברוך הבא",
+    "exampleSentence": "You are welcome."
+  },
+  {
+    "enWord": "congratulations",
+    "heTranslation": "מזל טוב",
+    "exampleSentence": "Congratulations on your promotion!"
+  },
+  {
+    "enWord": "good luck",
+    "heTranslation": "בהצלחה",
+    "exampleSentence": "Good luck with your exam!"
+  },
+  {
+    "enWord": "well done",
+    "heTranslation": "כל הכבוד",
+    "exampleSentence": "Well done on finishing the project!"
+  },
+  {
+    "enWord": "of course",
+    "heTranslation": "כמובן",
+    "exampleSentence": "Of course, I will help you."
+  },
+  {
+    "enWord": "sure",
+    "heTranslation": "בטח",
+    "exampleSentence": "Sure, no problem."
+  },
+  {
+    "enWord": "maybe",
+    "heTranslation": "אולי",
+    "exampleSentence": "Maybe we can meet tomorrow."
+  },
+  {
+    "enWord": "probably",
+    "heTranslation": "כנראה",
+    "exampleSentence": "He will probably arrive soon."
+  },
+  {
+    "enWord": "definitely",
+    "heTranslation": "בהחלט",
+    "exampleSentence": "I will definitely come."
+  },
+  {
+    "enWord": "absolutely",
+    "heTranslation": "בהחלט",
+    "exampleSentence": "Absolutely, I agree."
+  },
+  {
+    "enWord": "exactly",
+    "heTranslation": "בדיוק",
+    "exampleSentence": "That is exactly what I mean."
+  },
+  {
+    "enWord": "really",
+    "heTranslation": "באמת",
+    "exampleSentence": "Really? That is interesting."
+  },
+  {
+    "enWord": "actually",
+    "heTranslation": "למעשה",
+    "exampleSentence": "Actually, I changed my mind."
+  },
+  {
+    "enWord": "obviously",
+    "heTranslation": "ברור",
+    "exampleSentence": "Obviously, we need more time."
+  },
+  {
+    "enWord": "unfortunately",
+    "heTranslation": "למרבה הצער",
+    "exampleSentence": "Unfortunately, I cannot come."
+  },
+  {
+    "enWord": "fortunately",
+    "heTranslation": "למזלנו",
+    "exampleSentence": "Fortunately, the meeting was canceled."
+  },
+  {
+    "enWord": "hopefully",
+    "heTranslation": "אני מקווה",
+    "exampleSentence": "Hopefully, it will work."
+  },
+  {
+    "enWord": "anyway",
+    "heTranslation": "בכל מקרה",
+    "exampleSentence": "Anyway, let us continue."
+  },
+  {
+    "enWord": "besides",
+    "heTranslation": "חוץ מזה",
+    "exampleSentence": "Besides, we have no choice."
+  },
+  {
+    "enWord": "meanwhile",
+    "heTranslation": "בינתיים",
+    "exampleSentence": "Meanwhile, I will prepare the report."
+  },
+  {
+    "enWord": "otherwise",
+    "heTranslation": "אחרת",
+    "exampleSentence": "Otherwise, we will be late."
+  },
+  {
+    "enWord": "instead",
+    "heTranslation": "במקום",
+    "exampleSentence": "Let us take a taxi instead."
+  },
+  {
+    "enWord": "especially",
+    "heTranslation": "במיוחד",
+    "exampleSentence": "I like coffee, especially in the morning."
+  },
+  {
+    "enWord": "particularly",
+    "heTranslation": "במיוחד",
+    "exampleSentence": "This is particularly important."
+  },
+  {
+    "enWord": "generally",
+    "heTranslation": "בדרך כלל",
+    "exampleSentence": "Generally, I arrive on time."
+  },
+  {
+    "enWord": "normally",
+    "heTranslation": "בדרך כלל",
+    "exampleSentence": "Normally, I work from home."
+  },
+  {
+    "enWord": "typically",
+    "heTranslation": "בדרך כלל",
+    "exampleSentence": "Typically, meetings last one hour."
+  },
+  {
+    "enWord": "red",
+    "heTranslation": "אדום",
+    "exampleSentence": "The car is red."
+  },
+  {
+    "enWord": "blue",
+    "heTranslation": "כחול",
+    "exampleSentence": "The sky is blue."
+  },
+  {
+    "enWord": "green",
+    "heTranslation": "ירוק",
+    "exampleSentence": "The grass is green."
+  },
+  {
+    "enWord": "yellow",
+    "heTranslation": "צהוב",
+    "exampleSentence": "The sun looks yellow."
+  },
+  {
+    "enWord": "black",
+    "heTranslation": "שחור",
+    "exampleSentence": "His shoes are black."
+  },
+  {
+    "enWord": "white",
+    "heTranslation": "לבן",
+    "exampleSentence": "The walls are white."
+  },
+  {
+    "enWord": "brown",
+    "heTranslation": "חום",
+    "exampleSentence": "She has brown hair."
+  },
+  {
+    "enWord": "orange",
+    "heTranslation": "כתום",
+    "exampleSentence": "I ate an orange fruit."
+  },
+  {
+    "enWord": "pink",
+    "heTranslation": "ורוד",
+    "exampleSentence": "The flowers are pink."
+  },
+  {
+    "enWord": "gray",
+    "heTranslation": "אפור",
+    "exampleSentence": "The sky is gray today."
+  },
+  {
+    "enWord": "purple",
+    "heTranslation": "סגול",
+    "exampleSentence": "She bought a purple dress."
+  },
+  {
+    "enWord": "one",
+    "heTranslation": "אחד",
+    "exampleSentence": "I have one brother."
+  },
+  {
+    "enWord": "two",
+    "heTranslation": "שניים",
+    "exampleSentence": "She has two phones."
+  },
+  {
+    "enWord": "three",
+    "heTranslation": "שלושה",
+    "exampleSentence": "We have three meetings today."
+  },
+  {
+    "enWord": "four",
+    "heTranslation": "ארבעה",
+    "exampleSentence": "There are four chairs in the room."
+  },
+  {
+    "enWord": "five",
+    "heTranslation": "חמישה",
+    "exampleSentence": "The store closes at five."
+  },
+  {
+    "enWord": "ten",
+    "heTranslation": "עשר",
+    "exampleSentence": "There are ten people here."
+  },
+  {
+    "enWord": "mother",
+    "heTranslation": "אמא",
+    "exampleSentence": "My mother is at home."
+  },
+  {
+    "enWord": "father",
+    "heTranslation": "אבא",
+    "exampleSentence": "My father works in a bank."
+  },
+  {
+    "enWord": "parents",
+    "heTranslation": "הורים",
+    "exampleSentence": "My parents live nearby."
+  },
+  {
+    "enWord": "brother",
+    "heTranslation": "אח",
+    "exampleSentence": "My brother is a student."
+  },
+  {
+    "enWord": "sister",
+    "heTranslation": "אחות",
+    "exampleSentence": "My sister lives abroad."
+  },
+  {
+    "enWord": "son",
+    "heTranslation": "בן",
+    "exampleSentence": "Their son is five years old."
+  },
+  {
+    "enWord": "daughter",
+    "heTranslation": "בת",
+    "exampleSentence": "My daughter is at school."
+  },
+  {
+    "enWord": "child",
+    "heTranslation": "ילד",
+    "exampleSentence": "A child is playing in the park."
+  },
+  {
+    "enWord": "children",
+    "heTranslation": "ילדים",
+    "exampleSentence": "The children are in the garden."
+  },
+  {
+    "enWord": "wife",
+    "heTranslation": "אישה / רעייה",
+    "exampleSentence": "His wife works from home."
+  },
+  {
+    "enWord": "husband",
+    "heTranslation": "בעל",
+    "exampleSentence": "Her husband is a teacher."
+  },
+  {
+    "enWord": "room",
+    "heTranslation": "חדר",
+    "exampleSentence": "My room is small."
+  },
+  {
+    "enWord": "kitchen",
+    "heTranslation": "מטבח",
+    "exampleSentence": "The kitchen is very clean."
+  },
+  {
+    "enWord": "bathroom",
+    "heTranslation": "חדר אמבטיה / שירותים",
+    "exampleSentence": "The bathroom is over there."
+  },
+  {
+    "enWord": "bed",
+    "heTranslation": "מיטה",
+    "exampleSentence": "I am tired; I want my bed."
+  },
+  {
+    "enWord": "table",
+    "heTranslation": "שולחן",
+    "exampleSentence": "The keys are on the table."
+  },
+  {
+    "enWord": "window",
+    "heTranslation": "חלון",
+    "exampleSentence": "Open the window, please."
+  },
+  {
+    "enWord": "door",
+    "heTranslation": "דלת",
+    "exampleSentence": "Close the door quietly."
+  },
+  {
+    "enWord": "floor",
+    "heTranslation": "רצפה / קומה",
+    "exampleSentence": "The floor is dirty."
+  },
+  {
+    "enWord": "ceiling",
+    "heTranslation": "תקרה",
+    "exampleSentence": "The ceiling is high."
+  },
+  {
+    "enWord": "garden",
+    "heTranslation": "גן / גינה",
+    "exampleSentence": "We have a small garden."
+  },
+  {
+    "enWord": "park",
+    "heTranslation": "פארק",
+    "exampleSentence": "Let us go to the park."
+  },
+  {
+    "enWord": "restaurant",
+    "heTranslation": "מסעדה",
+    "exampleSentence": "We had dinner at a restaurant."
+  },
+  {
+    "enWord": "cafe",
+    "heTranslation": "בית קפה",
+    "exampleSentence": "We met at a cafe."
+  },
+  {
+    "enWord": "hospital",
+    "heTranslation": "בית חולים",
+    "exampleSentence": "The hospital is far from here."
+  },
+  {
+    "enWord": "airport",
+    "heTranslation": "שדה תעופה",
+    "exampleSentence": "We arrived at the airport early."
+  },
+  {
+    "enWord": "station",
+    "heTranslation": "תחנה",
+    "exampleSentence": "The bus station is close."
+  },
+  {
+    "enWord": "hotel",
+    "heTranslation": "מלון",
+    "exampleSentence": "We stayed in a small hotel."
+  },
+  {
+    "enWord": "open (verb)",
+    "heTranslation": "לפתוח",
+    "exampleSentence": "Please open the door."
+  },
+  {
+    "enWord": "close (verb)",
+    "heTranslation": "לסגור",
+    "exampleSentence": "Close the window, please."
+  },
+  {
+    "enWord": "come",
+    "heTranslation": "לבוא",
+    "exampleSentence": "Can you come here?"
+  },
+  {
+    "enWord": "go",
+    "heTranslation": "ללכת",
+    "exampleSentence": "I go to work by bus."
+  },
+  {
+    "enWord": "bring",
+    "heTranslation": "להביא",
+    "exampleSentence": "Bring your laptop to the meeting."
+  },
+  {
+    "enWord": "take",
+    "heTranslation": "לקחת",
+    "exampleSentence": "Take an umbrella, it may rain."
+  },
+  {
+    "enWord": "show",
+    "heTranslation": "להראות",
+    "exampleSentence": "Can you show me the file?"
+  },
+  {
+    "enWord": "tell",
+    "heTranslation": "לספר / לומר",
+    "exampleSentence": "Tell me the truth."
+  },
+  {
+    "enWord": "ask",
+    "heTranslation": "לשאול / לבקש",
+    "exampleSentence": "Ask the manager for help."
+  },
+  {
+    "enWord": "answer",
+    "heTranslation": "לענות",
+    "exampleSentence": "Please answer the phone."
+  },
+  {
+    "enWord": "work (verb)",
+    "heTranslation": "לעבוד",
+    "exampleSentence": "I work from home on Monday."
+  },
+  {
+    "enWord": "play",
+    "heTranslation": "לשחק",
+    "exampleSentence": "The kids play in the park."
+  },
+  {
+    "enWord": "watch",
+    "heTranslation": "לצפות",
+    "exampleSentence": "We watch TV in the evening."
+  },
+  {
+    "enWord": "listen",
+    "heTranslation": "להקשיב",
+    "exampleSentence": "Listen carefully, please."
+  },
+  {
+    "enWord": "hear",
+    "heTranslation": "לשמוע",
+    "exampleSentence": "I can hear you well."
+  },
+  {
+    "enWord": "look",
+    "heTranslation": "להסתכל",
+    "exampleSentence": "Look at the screen."
+  },
+  {
+    "enWord": "see",
+    "heTranslation": "לראות",
+    "exampleSentence": "I see the problem now."
+  },
+  {
+    "enWord": "smile",
+    "heTranslation": "לחייך",
+    "exampleSentence": "She likes to smile."
+  },
+  {
+    "enWord": "laugh",
+    "heTranslation": "לצחוק",
+    "exampleSentence": "They laugh a lot together."
+  },
+  {
+    "enWord": "coffee",
+    "heTranslation": "קפה",
+    "exampleSentence": "I drink coffee every morning."
+  },
+  {
+    "enWord": "tea",
+    "heTranslation": "תה",
+    "exampleSentence": "Would you like some tea?"
+  },
+  {
+    "enWord": "milk",
+    "heTranslation": "חלב",
+    "exampleSentence": "I put milk in my coffee."
+  },
+  {
+    "enWord": "bread",
+    "heTranslation": "לחם",
+    "exampleSentence": "We bought fresh bread."
+  },
+  {
+    "enWord": "fruit",
+    "heTranslation": "פרי",
+    "exampleSentence": "I eat fruit for breakfast."
+  },
+  {
+    "enWord": "vegetable",
+    "heTranslation": "ירק",
+    "exampleSentence": "He does not like vegetables."
+  },
+  {
+    "enWord": "rice",
+    "heTranslation": "אורז",
+    "exampleSentence": "We had rice for lunch."
+  },
+  {
+    "enWord": "salad",
+    "heTranslation": "סלט",
+    "exampleSentence": "She made a big salad."
+  },
+  {
+    "enWord": "egg",
+    "heTranslation": "ביצה",
+    "exampleSentence": "I had an egg for breakfast."
+  },
+  {
+    "enWord": "meat",
+    "heTranslation": "בשר",
+    "exampleSentence": "They do not eat meat."
+  },
+  {
+    "enWord": "fish",
+    "heTranslation": "דג",
+    "exampleSentence": "We ordered fish at the restaurant."
+  },
+  {
+    "enWord": "chicken",
+    "heTranslation": "עוף",
+    "exampleSentence": "We had chicken and rice."
+  },
+  {
+    "enWord": "sugar",
+    "heTranslation": "סוכר",
+    "exampleSentence": "I do not put sugar in my coffee."
+  },
+  {
+    "enWord": "salt",
+    "heTranslation": "מלח",
+    "exampleSentence": "Please pass the salt."
+  },
+  {
+    "enWord": "tall",
+    "heTranslation": "גבוה",
+    "exampleSentence": "He is tall and thin."
+  },
+  {
+    "enWord": "short",
+    "heTranslation": "נמוך / קצר",
+    "exampleSentence": "She is short and friendly."
+  },
+  {
+    "enWord": "young",
+    "heTranslation": "צעיר",
+    "exampleSentence": "The team is very young."
+  },
+  {
+    "enWord": "old (person)",
+    "heTranslation": "זקן / מבוגר",
+    "exampleSentence": "My grandfather is old."
+  },
+  {
+    "enWord": "nice",
+    "heTranslation": "נחמד",
+    "exampleSentence": "Your boss is very nice."
+  },
+  {
+    "enWord": "kind",
+    "heTranslation": "אדיב",
+    "exampleSentence": "She is kind to everyone."
+  },
+  {
+    "enWord": "funny",
+    "heTranslation": "מצחיק",
+    "exampleSentence": "He is a funny person."
+  },
+  {
+    "enWord": "serious",
+    "heTranslation": "רציני",
+    "exampleSentence": "This is a serious problem."
+  },
+  {
+    "enWord": "busy",
+    "heTranslation": "עסוק",
+    "exampleSentence": "The office is busy today."
+  },
+  {
+    "enWord": "free (not busy)",
+    "heTranslation": "פנוי",
+    "exampleSentence": "Are you free this evening?"
+  },
+  {
+    "enWord": "weekend",
+    "heTranslation": "סוף שבוע",
+    "exampleSentence": "We rest on the weekend."
+  },
+  {
+    "enWord": "holiday",
+    "heTranslation": "חג / חופשה",
+    "exampleSentence": "We have a holiday next week."
+  },
+  {
+    "enWord": "break",
+    "heTranslation": "הפסקה",
+    "exampleSentence": "Let us take a short break."
+  },
+  {
+    "enWord": "meeting room",
+    "heTranslation": "חדר ישיבות",
+    "exampleSentence": "The meeting room is full."
+  },
+  {
+    "enWord": "dinner",
+    "heTranslation": "ארוחת ערב",
+    "exampleSentence": "We have dinner at home."
+  },
+  {
+    "enWord": "evening",
+    "heTranslation": "ערב",
+    "exampleSentence": "We go for a walk in the evening."
+  }
+]

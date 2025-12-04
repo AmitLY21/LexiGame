@@ -1,0 +1,1117 @@
+[
+  {
+    "enWord": "inflation",
+    "heTranslation": "אינפלציה",
+    "exampleSentence": "Inflation makes prices go up."
+  },
+  {
+    "enWord": "deflation",
+    "heTranslation": "דפלציה",
+    "exampleSentence": "Deflation is a general fall in prices."
+  },
+  {
+    "enWord": "recession",
+    "heTranslation": "מיתון",
+    "exampleSentence": "The economy is in recession."
+  },
+  {
+    "enWord": "crisis",
+    "heTranslation": "משבר",
+    "exampleSentence": "The financial crisis affected many banks."
+  },
+  {
+    "enWord": "GDP (gross domestic product)",
+    "heTranslation": "תמ״ג",
+    "exampleSentence": "GDP is a measure of economic activity."
+  },
+  {
+    "enWord": "interest rate",
+    "heTranslation": "ריבית",
+    "exampleSentence": "The central bank raised the interest rate."
+  },
+  {
+    "enWord": "exchange rate",
+    "heTranslation": "שער חליפין",
+    "exampleSentence": "The exchange rate is very high today."
+  },
+  {
+    "enWord": "import",
+    "heTranslation": "ייבוא",
+    "exampleSentence": "We import products from Europe."
+  },
+  {
+    "enWord": "export",
+    "heTranslation": "ייצוא",
+    "exampleSentence": "The company exports goods to the US."
+  },
+  {
+    "enWord": "trade",
+    "heTranslation": "סחר",
+    "exampleSentence": "International trade is growing."
+  },
+  {
+    "enWord": "demand",
+    "heTranslation": "ביקוש",
+    "exampleSentence": "Demand for the product is high."
+  },
+  {
+    "enWord": "supply",
+    "heTranslation": "היצע",
+    "exampleSentence": "Supply is limited this month."
+  },
+  {
+    "enWord": "competition",
+    "heTranslation": "תחרות",
+    "exampleSentence": "There is strong competition in this market."
+  },
+  {
+    "enWord": "monopoly",
+    "heTranslation": "מונופול",
+    "exampleSentence": "A monopoly controls the market."
+  },
+  {
+    "enWord": "oligopoly",
+    "heTranslation": "אוליגופול",
+    "exampleSentence": "An oligopoly has a few big companies."
+  },
+  {
+    "enWord": "consumer",
+    "heTranslation": "צרכן",
+    "exampleSentence": "Consumers want lower prices."
+  },
+  {
+    "enWord": "producer",
+    "heTranslation": "יצרן",
+    "exampleSentence": "Producers try to reduce costs."
+  },
+  {
+    "enWord": "tariff",
+    "heTranslation": "מכס",
+    "exampleSentence": "A tariff makes imports more expensive."
+  },
+  {
+    "enWord": "regulator",
+    "heTranslation": "רגולטור",
+    "exampleSentence": "The regulator checks the banks."
+  },
+  {
+    "enWord": "macro",
+    "heTranslation": "מאקרו",
+    "exampleSentence": "We look at macro trends."
+  },
+  {
+    "enWord": "micro",
+    "heTranslation": "מיקרו",
+    "exampleSentence": "Microeconomics looks at small decisions."
+  },
+  {
+    "enWord": "boom",
+    "heTranslation": "פריחה כלכלית",
+    "exampleSentence": "The market is in a boom period."
+  },
+  {
+    "enWord": "cycle",
+    "heTranslation": "מחזור",
+    "exampleSentence": "The business cycle repeats over time."
+  },
+  {
+    "enWord": "fiscal policy",
+    "heTranslation": "מדיניות פיסקלית",
+    "exampleSentence": "Fiscal policy affects government spending."
+  },
+  {
+    "enWord": "monetary policy",
+    "heTranslation": "מדיניות מוניטרית",
+    "exampleSentence": "Monetary policy controls interest rates."
+  },
+  {
+    "enWord": "reserve requirement",
+    "heTranslation": "דרישת רזרבה",
+    "exampleSentence": "The reserve requirement affects lending."
+  },
+  {
+    "enWord": "discount rate",
+    "heTranslation": "שיעור היוון",
+    "exampleSentence": "The discount rate influences investment."
+  },
+  {
+    "enWord": "LIBOR",
+    "heTranslation": "ליבור",
+    "exampleSentence": "LIBOR is a benchmark interest rate."
+  },
+  {
+    "enWord": "credit spread",
+    "heTranslation": "פרמיה",
+    "exampleSentence": "Credit spreads indicate risk perception."
+  },
+  {
+    "enWord": "default risk",
+    "heTranslation": "סיכון חדלות פירעון",
+    "exampleSentence": "Default risk affects bond prices."
+  },
+  {
+    "enWord": "credit risk",
+    "heTranslation": "סיכון אשראי",
+    "exampleSentence": "We manage credit risk carefully."
+  },
+  {
+    "enWord": "market risk",
+    "heTranslation": "סיכון שוק",
+    "exampleSentence": "Market risk affects all investments."
+  },
+  {
+    "enWord": "liquidity risk",
+    "heTranslation": "סיכון נזילות",
+    "exampleSentence": "Liquidity risk can cause problems."
+  },
+  {
+    "enWord": "operational risk",
+    "heTranslation": "סיכון תפעולי",
+    "exampleSentence": "Operational risk includes system failures."
+  },
+  {
+    "enWord": "systemic risk",
+    "heTranslation": "סיכון מערכתי",
+    "exampleSentence": "Systemic risk affects the entire market."
+  },
+  {
+    "enWord": "hedging strategy",
+    "heTranslation": "אסטרטגיית גידור",
+    "exampleSentence": "We use hedging strategies."
+  },
+  {
+    "enWord": "derivatives market",
+    "heTranslation": "שוק נגזרים",
+    "exampleSentence": "The derivatives market is complex."
+  },
+  {
+    "enWord": "futures contract",
+    "heTranslation": "חוזה עתידי",
+    "exampleSentence": "Futures contracts lock in prices."
+  },
+  {
+    "enWord": "options contract",
+    "heTranslation": "חוזה אופציות",
+    "exampleSentence": "Options give the right to buy or sell."
+  },
+  {
+    "enWord": "swap",
+    "heTranslation": "החלפה",
+    "exampleSentence": "Interest rate swaps manage risk."
+  },
+  {
+    "enWord": "forward contract",
+    "heTranslation": "חוזה עתידי",
+    "exampleSentence": "Forward contracts are customized."
+  },
+  {
+    "enWord": "commodity",
+    "heTranslation": "סחורה",
+    "exampleSentence": "Oil is a major commodity."
+  },
+  {
+    "enWord": "precious metal",
+    "heTranslation": "מתכת יקרה",
+    "exampleSentence": "Gold is a precious metal."
+  },
+  {
+    "enWord": "currency pair",
+    "heTranslation": "צמד מטבעות",
+    "exampleSentence": "EUR/USD is a currency pair."
+  },
+  {
+    "enWord": "exchange rate risk",
+    "heTranslation": "סיכון שער חליפין",
+    "exampleSentence": "Exchange rate risk affects exports."
+  },
+  {
+    "enWord": "transaction exposure",
+    "heTranslation": "חשיפה לעסקה",
+    "exampleSentence": "Transaction exposure is short-term."
+  },
+  {
+    "enWord": "translation exposure",
+    "heTranslation": "חשיפה לתרגום",
+    "exampleSentence": "Translation exposure affects financial statements."
+  },
+  {
+    "enWord": "economic exposure",
+    "heTranslation": "חשיפה כלכלית",
+    "exampleSentence": "Economic exposure is long-term."
+  },
+  {
+    "enWord": "hedge accounting",
+    "heTranslation": "חשבונאות גידור",
+    "exampleSentence": "Hedge accounting matches gains and losses."
+  },
+  {
+    "enWord": "book value",
+    "heTranslation": "שווי ספרים",
+    "exampleSentence": "Book value is historical cost."
+  },
+  {
+    "enWord": "carrying value",
+    "heTranslation": "שווי נושא",
+    "exampleSentence": "Carrying value is net of depreciation."
+  },
+  {
+    "enWord": "impairment test",
+    "heTranslation": "בדיקת ירידת ערך",
+    "exampleSentence": "We perform annual impairment tests."
+  },
+  {
+    "enWord": "recoverable amount",
+    "heTranslation": "סכום בר-השגה",
+    "exampleSentence": "Recoverable amount is the higher value."
+  },
+  {
+    "enWord": "value in use",
+    "heTranslation": "שווי בשימוש",
+    "exampleSentence": "Value in use considers future cash flows."
+  },
+  {
+    "enWord": "fair value less costs",
+    "heTranslation": "שווי הוגן פחות עלויות",
+    "exampleSentence": "We use fair value less costs."
+  },
+  {
+    "enWord": "revaluation surplus",
+    "heTranslation": "עודף הערכה מחדש",
+    "exampleSentence": "Revaluation surplus goes to equity."
+  },
+  {
+    "enWord": "revaluation reserve",
+    "heTranslation": "עתודה להערכה מחדש",
+    "exampleSentence": "The revaluation reserve is in equity."
+  },
+  {
+    "enWord": "mark-to-market",
+    "heTranslation": "סימון לשוק",
+    "exampleSentence": "We mark investments to market."
+  },
+  {
+    "enWord": "replacement cost",
+    "heTranslation": "עלות החלפה",
+    "exampleSentence": "Replacement cost is current market price."
+  },
+  {
+    "enWord": "net realizable value",
+    "heTranslation": "שווי נקי בר-מימוש",
+    "exampleSentence": "Inventory is at net realizable value."
+  },
+  {
+    "enWord": "specific identification",
+    "heTranslation": "זיהוי ספציפי",
+    "exampleSentence": "Specific identification tracks each item."
+  },
+  {
+    "enWord": "scarcity",
+    "heTranslation": "מחסור",
+    "exampleSentence": "Scarcity of resources."
+  },
+  {
+    "enWord": "resources",
+    "heTranslation": "משאבים",
+    "exampleSentence": "Natural resources."
+  },
+  {
+    "enWord": "allocation",
+    "heTranslation": "הקצאה",
+    "exampleSentence": "Resource allocation."
+  },
+  {
+    "enWord": "opportunity cost",
+    "heTranslation": "עלות אלטרנטיבית",
+    "exampleSentence": "Consider the opportunity cost."
+  },
+  {
+    "enWord": "consumption",
+    "heTranslation": "צריכה",
+    "exampleSentence": "Domestic consumption."
+  },
+  {
+    "enWord": "trade-off",
+    "heTranslation": "תמורה / פשרה",
+    "exampleSentence": "There is always a trade-off."
+  },
+  {
+    "enWord": "market economy",
+    "heTranslation": "כלכלת שוק",
+    "exampleSentence": "Free market economy."
+  },
+  {
+    "enWord": "planned economy",
+    "heTranslation": "כלכלה מתוכננת",
+    "exampleSentence": "Centrally planned economy."
+  },
+  {
+    "enWord": "mixed economy",
+    "heTranslation": "כלכלה מעורבת",
+    "exampleSentence": "Most countries have a mixed economy."
+  },
+  {
+    "enWord": "equilibrium",
+    "heTranslation": "שיווי משקל",
+    "exampleSentence": "Market equilibrium."
+  },
+  {
+    "enWord": "quantity",
+    "heTranslation": "כמות",
+    "exampleSentence": "Quantity demanded."
+  },
+  {
+    "enWord": "shortage",
+    "heTranslation": "מחסור",
+    "exampleSentence": "Food shortage."
+  },
+  {
+    "enWord": "elasticity",
+    "heTranslation": "גמישות",
+    "exampleSentence": "Price elasticity."
+  },
+  {
+    "enWord": "utility",
+    "heTranslation": "תועלת",
+    "exampleSentence": "Marginal utility."
+  },
+  {
+    "enWord": "marginal",
+    "heTranslation": "שולי",
+    "exampleSentence": "Marginal cost."
+  },
+  {
+    "enWord": "total",
+    "heTranslation": "סך הכל",
+    "exampleSentence": "Total revenue."
+  },
+  {
+    "enWord": "average",
+    "heTranslation": "ממוצע",
+    "exampleSentence": "Average cost."
+  },
+  {
+    "enWord": "barrier to entry",
+    "heTranslation": "חסם כניסה",
+    "exampleSentence": "High barriers to entry."
+  },
+  {
+    "enWord": "market failure",
+    "heTranslation": "כשל שוק",
+    "exampleSentence": "Correct market failure."
+  },
+  {
+    "enWord": "externality",
+    "heTranslation": "השפעה חיצונית",
+    "exampleSentence": "Negative externality."
+  },
+  {
+    "enWord": "public good",
+    "heTranslation": "מוצר ציבורי",
+    "exampleSentence": "Defense is a public good."
+  },
+  {
+    "enWord": "asymmetry",
+    "heTranslation": "אסימטריה",
+    "exampleSentence": "Information asymmetry."
+  },
+  {
+    "enWord": "moral hazard",
+    "heTranslation": "סיכון מוסרי",
+    "exampleSentence": "Moral hazard in banking."
+  },
+  {
+    "enWord": "adverse selection",
+    "heTranslation": "בחירה שלילית",
+    "exampleSentence": "Adverse selection in insurance."
+  },
+  {
+    "enWord": "GDP",
+    "heTranslation": "תמ\"ג",
+    "exampleSentence": "Real GDP growth."
+  },
+  {
+    "enWord": "GNP",
+    "heTranslation": "תל\"ג",
+    "exampleSentence": "Gross National Product."
+  },
+  {
+    "enWord": "CPI",
+    "heTranslation": "מדד המחירים לצרכן",
+    "exampleSentence": "CPI measures inflation."
+  },
+  {
+    "enWord": "stagnation",
+    "heTranslation": "קיפאון",
+    "exampleSentence": "Economic stagnation."
+  },
+  {
+    "enWord": "stagflation",
+    "heTranslation": "סטגפלציה",
+    "exampleSentence": "Stagflation is rare."
+  },
+  {
+    "enWord": "depression",
+    "heTranslation": "שפל",
+    "exampleSentence": " The Great Depression."
+  },
+  {
+    "enWord": "employment",
+    "heTranslation": "תעסוקה",
+    "exampleSentence": "Full employment."
+  },
+  {
+    "enWord": "labor force",
+    "heTranslation": "כוח עבודה",
+    "exampleSentence": "Labor force participation."
+  },
+  {
+    "enWord": "job market",
+    "heTranslation": "שוק העבודה",
+    "exampleSentence": "Tight job market."
+  },
+  {
+    "enWord": "wealth inequality",
+    "heTranslation": "אי-שוויון בעושר",
+    "exampleSentence": "Rising wealth inequality."
+  },
+  {
+    "enWord": "poverty",
+    "heTranslation": "עוני",
+    "exampleSentence": "Poverty line."
+  },
+  {
+    "enWord": "standard of living",
+    "heTranslation": "רמת חיים",
+    "exampleSentence": "Improved standard of living."
+  },
+  {
+    "enWord": "economic growth",
+    "heTranslation": "צמיחה כלכלית",
+    "exampleSentence": "Strong economic growth."
+  },
+  {
+    "enWord": "factor of production",
+    "heTranslation": "גורם ייצור",
+    "exampleSentence": "Factors of production."
+  },
+  {
+    "enWord": "labor",
+    "heTranslation": "עבודה",
+    "exampleSentence": "Skilled labor."
+  },
+  {
+    "enWord": "entrepreneurship",
+    "heTranslation": "יזמות",
+    "exampleSentence": "Entrepreneurship skills."
+  },
+  {
+    "enWord": "technology",
+    "heTranslation": "טכנולוגיה",
+    "exampleSentence": "Technological progress."
+  },
+  {
+    "enWord": "research",
+    "heTranslation": "מחקר",
+    "exampleSentence": "Research and development."
+  },
+  {
+    "enWord": "saving",
+    "heTranslation": "חיסכון",
+    "exampleSentence": "National savings rate."
+  },
+  {
+    "enWord": "consumption expenditure",
+    "heTranslation": "הוצאות צריכה",
+    "exampleSentence": "Consumer expenditure."
+  },
+  {
+    "enWord": "aggregate demand",
+    "heTranslation": "ביקוש מצרפי",
+    "exampleSentence": "Aggregate demand curve."
+  },
+  {
+    "enWord": "aggregate supply",
+    "heTranslation": "היצע מצרפי",
+    "exampleSentence": "Aggregate supply shock."
+  },
+  {
+    "enWord": "macroeconomics",
+    "heTranslation": "מקרו-כלכלה",
+    "exampleSentence": "Macroeconomic policy."
+  },
+  {
+    "enWord": "microeconomics",
+    "heTranslation": "מיקרו-כלכלה",
+    "exampleSentence": "Microeconomic analysis."
+  },
+  {
+    "enWord": "money supply",
+    "heTranslation": "היצע כסף",
+    "exampleSentence": "Money supply growth."
+  },
+  {
+    "enWord": "central banking",
+    "heTranslation": "בנקאות מרכזית",
+    "exampleSentence": "Central banking policy."
+  },
+  {
+    "enWord": "open market operations",
+    "heTranslation": "פעולות שוק פתוח",
+    "exampleSentence": "Open market operations."
+  },
+  {
+    "enWord": "quantitative easing",
+    "heTranslation": "הקלה כמותית",
+    "exampleSentence": "Quantitative easing program."
+  },
+  {
+    "enWord": "government spending",
+    "heTranslation": "הוצאות ממשלה",
+    "exampleSentence": "Government spending cuts."
+  },
+  {
+    "enWord": "taxation",
+    "heTranslation": "מיסוי",
+    "exampleSentence": "Progressive taxation."
+  },
+  {
+    "enWord": "government budget",
+    "heTranslation": "תקציב הממשלה",
+    "exampleSentence": "Government budget balance."
+  },
+  {
+    "enWord": "budget deficit",
+    "heTranslation": "גירעון תקציבי",
+    "exampleSentence": "Large budget deficit."
+  },
+  {
+    "enWord": "budget surplus",
+    "heTranslation": "עודף תקציבי",
+    "exampleSentence": "Budget surplus achieved."
+  },
+  {
+    "enWord": "national debt",
+    "heTranslation": "חוב ציבורי",
+    "exampleSentence": "Growing national debt."
+  },
+  {
+    "enWord": "public debt",
+    "heTranslation": "חוב ממשלתי",
+    "exampleSentence": "Public debt burden."
+  },
+  {
+    "enWord": "sovereign debt",
+    "heTranslation": "חוב ריבוני",
+    "exampleSentence": "Sovereign debt crisis."
+  },
+  {
+    "enWord": "austerity",
+    "heTranslation": "צנע",
+    "exampleSentence": "Austerity measures."
+  },
+  {
+    "enWord": "stimulus",
+    "heTranslation": "תמריץ",
+    "exampleSentence": "Economic stimulus package."
+  },
+  {
+    "enWord": "multiplier effect",
+    "heTranslation": "אפקט מכפיל",
+    "exampleSentence": "Fiscal multiplier effect."
+  },
+  {
+    "enWord": "crowding out",
+    "heTranslation": "דחיקה",
+    "exampleSentence": "Crowding out private investment."
+  },
+  {
+    "enWord": "trade balance",
+    "heTranslation": "מאזן סחר",
+    "exampleSentence": "Trade balance deficit."
+  },
+  {
+    "enWord": "trade surplus",
+    "heTranslation": "עודף בסחר",
+    "exampleSentence": "Trade surplus."
+  },
+  {
+    "enWord": "trade deficit",
+    "heTranslation": "גירעון בסחר",
+    "exampleSentence": "Trade deficit."
+  },
+  {
+    "enWord": "balance of payments",
+    "heTranslation": "מאזן תשלומים",
+    "exampleSentence": "Balance of payments."
+  },
+  {
+    "enWord": "capital account",
+    "heTranslation": "חשבון הון",
+    "exampleSentence": "Capital account surplus."
+  },
+  {
+    "enWord": "purchasing power parity",
+    "heTranslation": "שווי כוח קנייה",
+    "exampleSentence": "PPP theory."
+  },
+  {
+    "enWord": "comparative advantage",
+    "heTranslation": "יתרון יחסי",
+    "exampleSentence": "Comparative advantage."
+  },
+  {
+    "enWord": "absolute advantage",
+    "heTranslation": "יתרון מוחלט",
+    "exampleSentence": "Absolute advantage."
+  },
+  {
+    "enWord": "protectionism",
+    "heTranslation": "פרוטקציוניזם",
+    "exampleSentence": "Trade protectionism."
+  },
+  {
+    "enWord": "free trade",
+    "heTranslation": "סחר חופשי",
+    "exampleSentence": "Free trade agreement."
+  },
+  {
+    "enWord": "quota",
+    "heTranslation": "מכסה",
+    "exampleSentence": "Import quota."
+  },
+  {
+    "enWord": "embargo",
+    "heTranslation": "אמברגו",
+    "exampleSentence": "Trade embargo."
+  },
+  {
+    "enWord": "sanction",
+    "heTranslation": "סנקציה",
+    "exampleSentence": "Economic sanctions."
+  },
+  {
+    "enWord": "globalization",
+    "heTranslation": "גלובליזציה",
+    "exampleSentence": "Economic globalization."
+  },
+  {
+    "enWord": "common market",
+    "heTranslation": "שוק משותף",
+    "exampleSentence": "European common market."
+  },
+  {
+    "enWord": "customs union",
+    "heTranslation": "איחוד מכסי",
+    "exampleSentence": "Customs union."
+  },
+  {
+    "enWord": "trade bloc",
+    "heTranslation": "גוש סחר",
+    "exampleSentence": "Regional trade bloc."
+  },
+  {
+    "enWord": "WTO",
+    "heTranslation": "WTO",
+    "exampleSentence": "WTO rules."
+  },
+  {
+    "enWord": "IMF",
+    "heTranslation": "IMF",
+    "exampleSentence": "IMF loan."
+  },
+  {
+    "enWord": "World Bank",
+    "heTranslation": "הבנק העולמי",
+    "exampleSentence": "World Bank funding."
+  },
+  {
+    "enWord": "developed country",
+    "heTranslation": "מדינה מפותחת",
+    "exampleSentence": "Developed economy."
+  },
+  {
+    "enWord": "developing country",
+    "heTranslation": "מדינה מתפתחת",
+    "exampleSentence": "Developing economy."
+  },
+  {
+    "enWord": "emerging market",
+    "heTranslation": "שוק מתעורר",
+    "exampleSentence": "Emerging market growth."
+  },
+  {
+    "enWord": "industrialization",
+    "heTranslation": "תיעוש",
+    "exampleSentence": "Rapid industrialization."
+  },
+  {
+    "enWord": "deindustrialization",
+    "heTranslation": "דה-תיעוש",
+    "exampleSentence": "Deindustrialization trend."
+  },
+  {
+    "enWord": "structural change",
+    "heTranslation": "שינוי מבני",
+    "exampleSentence": "Structural economic change."
+  },
+  {
+    "enWord": "business cycle",
+    "heTranslation": "מחזור עסקים",
+    "exampleSentence": "Business cycle fluctuation."
+  },
+  {
+    "enWord": "bust",
+    "heTranslation": "קריסה",
+    "exampleSentence": "Boom and bust cycle."
+  },
+  {
+    "enWord": "contraction",
+    "heTranslation": "התכווצות",
+    "exampleSentence": "Economic contraction."
+  },
+  {
+    "enWord": "peak",
+    "heTranslation": "שיא",
+    "exampleSentence": "Business cycle peak."
+  },
+  {
+    "enWord": "trough",
+    "heTranslation": "שפל",
+    "exampleSentence": "Business cycle trough."
+  },
+  {
+    "enWord": "recovery",
+    "heTranslation": "התאוששות",
+    "exampleSentence": "Economic recovery."
+  },
+  {
+    "enWord": "slowdown",
+    "heTranslation": "האטה",
+    "exampleSentence": "Economic slowdown."
+  },
+  {
+    "enWord": "overheating",
+    "heTranslation": "התחממות יתר",
+    "exampleSentence": "Economy overheating."
+  },
+  {
+    "enWord": "hyperinflation",
+    "heTranslation": "היפר-אינפלציה",
+    "exampleSentence": "Hyperinflation crisis."
+  },
+  {
+    "enWord": "disinflation",
+    "heTranslation": "דיסאינפלציה",
+    "exampleSentence": "Disinflation trend."
+  },
+  {
+    "enWord": "price level",
+    "heTranslation": "רמת מחירים",
+    "exampleSentence": "General price level."
+  },
+  {
+    "enWord": "price index",
+    "heTranslation": "מדד מחירים",
+    "exampleSentence": "Consumer price index."
+  },
+  {
+    "enWord": "inflation target",
+    "heTranslation": "יעד אינפלציה",
+    "exampleSentence": "Central bank inflation target."
+  },
+  {
+    "enWord": "real GDP",
+    "heTranslation": "תמ\"ג ריאלי",
+    "exampleSentence": "Real GDP growth."
+  },
+  {
+    "enWord": "nominal GDP",
+    "heTranslation": "תמ\"ג נומינלי",
+    "exampleSentence": "Nominal GDP."
+  },
+  {
+    "enWord": "per capita",
+    "heTranslation": "לנפש",
+    "exampleSentence": "GDP per capita."
+  },
+  {
+    "enWord": "living standard",
+    "heTranslation": "רמת חיים",
+    "exampleSentence": "Living standard improvement."
+  },
+  {
+    "enWord": "economic indicator",
+    "heTranslation": "אינדיקטור כלכלי",
+    "exampleSentence": "Leading economic indicator."
+  },
+  {
+    "enWord": "leading indicator",
+    "heTranslation": "אינדיקטור מוביל",
+    "exampleSentence": "Leading indicator."
+  },
+  {
+    "enWord": "lagging indicator",
+    "heTranslation": "אינדיקטור מפגר",
+    "exampleSentence": "Lagging indicator."
+  },
+  {
+    "enWord": "coincident indicator",
+    "heTranslation": "אינדיקטור בו-זמני",
+    "exampleSentence": "Coincident indicator."
+  },
+  {
+    "enWord": "consumer confidence",
+    "heTranslation": "אמון צרכני",
+    "exampleSentence": "Consumer confidence index."
+  },
+  {
+    "enWord": "business confidence",
+    "heTranslation": "אמון עסקי",
+    "exampleSentence": "Business confidence survey."
+  },
+  {
+    "enWord": "sentiment",
+    "heTranslation": "סנטימנט",
+    "exampleSentence": "Market sentiment."
+  },
+  {
+    "enWord": "expectation",
+    "heTranslation": "ציפייה",
+    "exampleSentence": "Inflation expectations."
+  },
+  {
+    "enWord": "forward guidance",
+    "heTranslation": "הנחיה צופה פני עתיד",
+    "exampleSentence": "Central bank forward guidance."
+  },
+  {
+    "enWord": "credibility",
+    "heTranslation": "אמינות",
+    "exampleSentence": "Central bank credibility."
+  },
+  {
+    "enWord": "independence",
+    "heTranslation": "עצמאות",
+    "exampleSentence": "Central bank independence."
+  },
+  {
+    "enWord": "deregulation",
+    "heTranslation": "דה-רגולציה",
+    "exampleSentence": "Banking deregulation."
+  },
+  {
+    "enWord": "liberalization",
+    "heTranslation": "ליברליזציה",
+    "exampleSentence": "Trade liberalization."
+  },
+  {
+    "enWord": "privatization",
+    "heTranslation": "הפרטה",
+    "exampleSentence": "State asset privatization."
+  },
+  {
+    "enWord": "nationalization",
+    "heTranslation": "הלאמה",
+    "exampleSentence": "Industry nationalization."
+  },
+  {
+    "enWord": "public sector",
+    "heTranslation": "מגזר ציבורי",
+    "exampleSentence": "Public sector employment."
+  },
+  {
+    "enWord": "private sector",
+    "heTranslation": "מגזר פרטי",
+    "exampleSentence": "Private sector growth."
+  },
+  {
+    "enWord": "laissez-faire",
+    "heTranslation": "שלטון עצמי",
+    "exampleSentence": "Laissez-faire policy."
+  },
+  {
+    "enWord": "interventionism",
+    "heTranslation": "התערבותיות",
+    "exampleSentence": "State interventionism."
+  },
+  {
+    "enWord": "welfare state",
+    "heTranslation": "מדינת רווחה",
+    "exampleSentence": "Welfare state system."
+  },
+  {
+    "enWord": "social security",
+    "heTranslation": "ביטחון סוציאלי",
+    "exampleSentence": "Social security system."
+  },
+  {
+    "enWord": "universal basic income",
+    "heTranslation": "הכנסה בסיסית אוניברסלית",
+    "exampleSentence": "UBI proposal."
+  },
+  {
+    "enWord": "redistribution",
+    "heTranslation": "חלוקה מחדש",
+    "exampleSentence": "Income redistribution."
+  },
+  {
+    "enWord": "progressive tax",
+    "heTranslation": "מס פרוגרסיבי",
+    "exampleSentence": "Progressive tax system."
+  },
+  {
+    "enWord": "regressive tax",
+    "heTranslation": "מס רגרסיבי",
+    "exampleSentence": "Regressive tax."
+  },
+  {
+    "enWord": "proportional tax",
+    "heTranslation": "מס פרופורציונלי",
+    "exampleSentence": "Proportional tax."
+  },
+  {
+    "enWord": "tax incidence",
+    "heTranslation": "נטל מס",
+    "exampleSentence": "Tax incidence analysis."
+  },
+  {
+    "enWord": "tax burden",
+    "heTranslation": "נטל מיסוי",
+    "exampleSentence": "Heavy tax burden."
+  },
+  {
+    "enWord": "deadweight loss",
+    "heTranslation": "הפסד משקל כבוד",
+    "exampleSentence": "Deadweight loss from tax."
+  },
+  {
+    "enWord": "consumer surplus",
+    "heTranslation": "עודף צרכן",
+    "exampleSentence": "Consumer surplus."
+  },
+  {
+    "enWord": "producer surplus",
+    "heTranslation": "עודף יצרן",
+    "exampleSentence": "Producer surplus."
+  },
+  {
+    "enWord": "total surplus",
+    "heTranslation": "עודף כולל",
+    "exampleSentence": "Total economic surplus."
+  },
+  {
+    "enWord": "economic welfare",
+    "heTranslation": "רווחה כלכלית",
+    "exampleSentence": "Economic welfare maximization."
+  },
+  {
+    "enWord": "pareto efficiency",
+    "heTranslation": "יעילות פארטו",
+    "exampleSentence": "Pareto efficient allocation."
+  },
+  {
+    "enWord": "market power",
+    "heTranslation": "כוח שוק",
+    "exampleSentence": "Market power abuse."
+  },
+  {
+    "enWord": "price maker",
+    "heTranslation": "קובע מחיר",
+    "exampleSentence": "Firm is a price maker."
+  },
+  {
+    "enWord": "price taker",
+    "heTranslation": "לוקח מחיר",
+    "exampleSentence": "Firm is a price taker."
+  },
+  {
+    "enWord": "perfect competition",
+    "heTranslation": "תחרות משוכללת",
+    "exampleSentence": "Perfect competition model."
+  },
+  {
+    "enWord": "monopolistic competition",
+    "heTranslation": "תחרות מונופוליסטית",
+    "exampleSentence": "Monopolistic competition."
+  },
+  {
+    "enWord": "duopoly",
+    "heTranslation": "דואופול",
+    "exampleSentence": "Duopoly market."
+  },
+  {
+    "enWord": "cartel",
+    "heTranslation": "קרטל",
+    "exampleSentence": "Price-fixing cartel."
+  },
+  {
+    "enWord": "collusion",
+    "heTranslation": "קנוניה",
+    "exampleSentence": "Tacit collusion."
+  },
+  {
+    "enWord": "antitrust",
+    "heTranslation": "אנטי-טראסט",
+    "exampleSentence": "Antitrust laws."
+  },
+  {
+    "enWord": "merger control",
+    "heTranslation": "בקרת מיזוגים",
+    "exampleSentence": "Merger control authority."
+  },
+  {
+    "enWord": "market concentration",
+    "heTranslation": "ריכוזיות שוק",
+    "exampleSentence": "High market concentration."
+  },
+  {
+    "enWord": "herfindahl index",
+    "heTranslation": "מדד הרפינדל",
+    "exampleSentence": "Herfindahl index calculation."
+  },
+  {
+    "enWord": "natural resource",
+    "heTranslation": "משאב טבעי",
+    "exampleSentence": "Natural resource depletion."
+  },
+  {
+    "enWord": "renewable resource",
+    "heTranslation": "משאב מתחדש",
+    "exampleSentence": "Renewable resources."
+  },
+  {
+    "enWord": "non-renewable",
+    "heTranslation": "לא-מתחדש",
+    "exampleSentence": "Non-renewable resources."
+  },
+  {
+    "enWord": "externality cost",
+    "heTranslation": "עלות חיצונית",
+    "exampleSentence": "Negative externality cost."
+  },
+  {
+    "enWord": "carbon tax",
+    "heTranslation": "מס פחמן",
+    "exampleSentence": "Carbon tax policy."
+  },
+  {
+    "enWord": "cap and trade",
+    "heTranslation": "תקרה וסחר",
+    "exampleSentence": "Cap and trade system."
+  },
+  {
+    "enWord": "pollution",
+    "heTranslation": "זיהום",
+    "exampleSentence": "Air pollution."
+  },
+  {
+    "enWord": "climate change",
+    "heTranslation": "שינוי אקלים",
+    "exampleSentence": "Climate change economics."
+  },
+  {
+    "enWord": "green economy",
+    "heTranslation": "כלכלה ירוקה",
+    "exampleSentence": "Transition to green economy."
+  }
+]

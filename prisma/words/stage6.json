@@ -1,0 +1,1182 @@
+[
+  {
+    "enWord": "equity",
+    "heTranslation": "הון עצמי",
+    "exampleSentence": "Equity belongs to the owners."
+  },
+  {
+    "enWord": "capital",
+    "heTranslation": "הון",
+    "exampleSentence": "We need more capital to grow."
+  },
+  {
+    "enWord": "inventory",
+    "heTranslation": "מלאי",
+    "exampleSentence": "We keep low inventory to save money."
+  },
+  {
+    "enWord": "stock (inventory)",
+    "heTranslation": "מלאי",
+    "exampleSentence": "We count the stock every month."
+  },
+  {
+    "enWord": "stock (share)",
+    "heTranslation": "מניה",
+    "exampleSentence": "He bought stock in the company."
+  },
+  {
+    "enWord": "bond",
+    "heTranslation": "אג״ח",
+    "exampleSentence": "The company issued a bond."
+  },
+  {
+    "enWord": "margin",
+    "heTranslation": "שוליים / מרווח",
+    "exampleSentence": "Our profit margin is growing."
+  },
+  {
+    "enWord": "gross profit",
+    "heTranslation": "רווח גולמי",
+    "exampleSentence": "Gross profit improved this year."
+  },
+  {
+    "enWord": "net profit",
+    "heTranslation": "רווח נקי",
+    "exampleSentence": "Net profit is after all expenses."
+  },
+  {
+    "enWord": "overhead",
+    "heTranslation": "הוצאות קבועות",
+    "exampleSentence": "Rent is part of overhead costs."
+  },
+  {
+    "enWord": "fixed cost",
+    "heTranslation": "עלות קבועה",
+    "exampleSentence": "Rent is a fixed cost."
+  },
+  {
+    "enWord": "variable cost",
+    "heTranslation": "עלות משתנה",
+    "exampleSentence": "Material is a variable cost."
+  },
+  {
+    "enWord": "break-even point",
+    "heTranslation": "נקודת איזון",
+    "exampleSentence": "We reached the break-even point in June."
+  },
+  {
+    "enWord": "forecast",
+    "heTranslation": "תחזית",
+    "exampleSentence": "The sales forecast looks strong."
+  },
+  {
+    "enWord": "KPI",
+    "heTranslation": "מדד ביצוע (KPI)",
+    "exampleSentence": "Revenue per user is an important KPI."
+  },
+  {
+    "enWord": "variance",
+    "heTranslation": "סטייה / שונות",
+    "exampleSentence": "There is a big variance from the budget."
+  },
+  {
+    "enWord": "risk",
+    "heTranslation": "סיכון",
+    "exampleSentence": "We must manage credit risk."
+  },
+  {
+    "enWord": "leverage",
+    "heTranslation": "מינוף",
+    "exampleSentence": "High leverage increases risk."
+  },
+  {
+    "enWord": "consequently",
+    "heTranslation": "לכן / כתוצאה מכך",
+    "exampleSentence": "Sales dropped; consequently, we reduced costs."
+  },
+  {
+    "enWord": "nevertheless",
+    "heTranslation": "עם זאת / אף על פי כן",
+    "exampleSentence": "The risk is high; nevertheless, we will continue."
+  },
+  {
+    "enWord": "nonetheless",
+    "heTranslation": "אף על פי כן",
+    "exampleSentence": "The profit is small; nonetheless, the trend is positive."
+  },
+  {
+    "enWord": "moreover",
+    "heTranslation": "יתרה מזאת",
+    "exampleSentence": "Costs are low; moreover, demand is strong."
+  },
+  {
+    "enWord": "furthermore",
+    "heTranslation": "בנוסף לכך",
+    "exampleSentence": "Furthermore, we expect higher revenue."
+  },
+  {
+    "enWord": "whereas",
+    "heTranslation": "ואילו / בעוד ש־",
+    "exampleSentence": "Costs fell, whereas revenue stayed the same."
+  },
+  {
+    "enWord": "in contrast",
+    "heTranslation": "בניגוד לכך",
+    "exampleSentence": "In contrast to last year, results are stable."
+  },
+  {
+    "enWord": "current ratio",
+    "heTranslation": "יחס שוטף",
+    "exampleSentence": "The current ratio shows short-term liquidity."
+  },
+  {
+    "enWord": "quick ratio",
+    "heTranslation": "יחס מהיר",
+    "exampleSentence": "The quick ratio excludes inventory."
+  },
+  {
+    "enWord": "debt ratio",
+    "heTranslation": "יחס חוב",
+    "exampleSentence": "Our debt ratio is within acceptable limits."
+  },
+  {
+    "enWord": "equity ratio",
+    "heTranslation": "יחס הון עצמי",
+    "exampleSentence": "The equity ratio indicates financial stability."
+  },
+  {
+    "enWord": "interest coverage",
+    "heTranslation": "כיסוי ריבית",
+    "exampleSentence": "Interest coverage shows ability to pay debt."
+  },
+  {
+    "enWord": "asset turnover",
+    "heTranslation": "מחזור נכסים",
+    "exampleSentence": "Asset turnover measures efficiency."
+  },
+  {
+    "enWord": "inventory turnover",
+    "heTranslation": "מחזור מלאי",
+    "exampleSentence": "Inventory turnover increased this quarter."
+  },
+  {
+    "enWord": "receivables turnover",
+    "heTranslation": "מחזור חייבים",
+    "exampleSentence": "Receivables turnover shows collection speed."
+  },
+  {
+    "enWord": "payables turnover",
+    "heTranslation": "מחזור ספקים",
+    "exampleSentence": "Payables turnover indicates payment terms."
+  },
+  {
+    "enWord": "working capital ratio",
+    "heTranslation": "יחס הון חוזר",
+    "exampleSentence": "The working capital ratio is positive."
+  },
+  {
+    "enWord": "cash ratio",
+    "heTranslation": "יחס מזומנים",
+    "exampleSentence": "The cash ratio is very conservative."
+  },
+  {
+    "enWord": "operating ratio",
+    "heTranslation": "יחס תפעולי",
+    "exampleSentence": "The operating ratio measures efficiency."
+  },
+  {
+    "enWord": "efficiency ratio",
+    "heTranslation": "יחס יעילות",
+    "exampleSentence": "We improved our efficiency ratio."
+  },
+  {
+    "enWord": "utilization",
+    "heTranslation": "ניצול",
+    "exampleSentence": "Capacity utilization is at 85%."
+  },
+  {
+    "enWord": "optimization",
+    "heTranslation": "אופטימיזציה",
+    "exampleSentence": "We focus on process optimization."
+  },
+  {
+    "enWord": "streamline",
+    "heTranslation": "לייעל",
+    "exampleSentence": "We need to streamline our operations."
+  },
+  {
+    "enWord": "automate",
+    "heTranslation": "להפעיל אוטומציה",
+    "exampleSentence": "We plan to automate this process."
+  },
+  {
+    "enWord": "digitize",
+    "heTranslation": "לדגטל",
+    "exampleSentence": "We are digitizing all our records."
+  },
+  {
+    "enWord": "modernize",
+    "heTranslation": "למודרניזציה",
+    "exampleSentence": "We need to modernize our systems."
+  },
+  {
+    "enWord": "upgrade",
+    "heTranslation": "לשדרג",
+    "exampleSentence": "We will upgrade the software next month."
+  },
+  {
+    "enWord": "downgrade",
+    "heTranslation": "להוריד דרגה",
+    "exampleSentence": "We had to downgrade our forecast."
+  },
+  {
+    "enWord": "scale",
+    "heTranslation": "להגדיל",
+    "exampleSentence": "We plan to scale the business."
+  },
+  {
+    "enWord": "downsize",
+    "heTranslation": "לצמצם",
+    "exampleSentence": "The company had to downsize."
+  },
+  {
+    "enWord": "restructure",
+    "heTranslation": "לבנות מחדש",
+    "exampleSentence": "We will restructure the organization."
+  },
+  {
+    "enWord": "reorganize",
+    "heTranslation": "לארגן מחדש",
+    "exampleSentence": "We need to reorganize the department."
+  },
+  {
+    "enWord": "merge",
+    "heTranslation": "למזג",
+    "exampleSentence": "The two teams will merge next quarter."
+  },
+  {
+    "enWord": "split",
+    "heTranslation": "לפצל",
+    "exampleSentence": "We decided to split the division."
+  },
+  {
+    "enWord": "separate",
+    "heTranslation": "להפריד",
+    "exampleSentence": "We will separate the two functions."
+  },
+  {
+    "enWord": "integrate",
+    "heTranslation": "לשלב",
+    "exampleSentence": "We need to integrate the new system."
+  },
+  {
+    "enWord": "consolidate",
+    "heTranslation": "לאחד",
+    "exampleSentence": "We will consolidate our operations."
+  },
+  {
+    "enWord": "centralize",
+    "heTranslation": "לרכז",
+    "exampleSentence": "We plan to centralize the function."
+  },
+  {
+    "enWord": "decentralize",
+    "heTranslation": "לבזר",
+    "exampleSentence": "The company decided to decentralize."
+  },
+  {
+    "enWord": "outsource",
+    "heTranslation": "למיקור חוץ",
+    "exampleSentence": "We will outsource this service."
+  },
+  {
+    "enWord": "insource",
+    "heTranslation": "להביא פנימה",
+    "exampleSentence": "We decided to insource the function."
+  },
+  {
+    "enWord": "onshore",
+    "heTranslation": "להביא פנימה",
+    "exampleSentence": "We brought the work onshore."
+  },
+  {
+    "enWord": "nearshore",
+    "heTranslation": "להעביר קרוב",
+    "exampleSentence": "We nearshore to a nearby country."
+  },
+  {
+    "enWord": "freelancer",
+    "heTranslation": "פרילנסר",
+    "exampleSentence": "We work with several freelancers."
+  },
+  {
+    "enWord": "alliance",
+    "heTranslation": "ברית",
+    "exampleSentence": "We formed an alliance with them."
+  },
+  {
+    "enWord": "joint venture",
+    "heTranslation": "מיזם משותף",
+    "exampleSentence": "We created a joint venture."
+  },
+  {
+    "enWord": "strategic",
+    "heTranslation": "אסטרטגי",
+    "exampleSentence": "This is a strategic decision."
+  },
+  {
+    "enWord": "tactical",
+    "heTranslation": "טקטי",
+    "exampleSentence": "We need a tactical approach."
+  },
+  {
+    "enWord": "vision",
+    "heTranslation": "חזון",
+    "exampleSentence": "The company has a clear vision."
+  },
+  {
+    "enWord": "mission",
+    "heTranslation": "משימה",
+    "exampleSentence": "Our mission is to serve customers."
+  },
+  {
+    "enWord": "values",
+    "heTranslation": "ערכים",
+    "exampleSentence": "We stick to our core values."
+  },
+  {
+    "enWord": "culture",
+    "heTranslation": "תרבות",
+    "exampleSentence": "The corporate culture is open."
+  },
+  {
+    "enWord": "ethics",
+    "heTranslation": "אתיקה",
+    "exampleSentence": "Business ethics are important."
+  },
+  {
+    "enWord": "code of conduct",
+    "heTranslation": "קוד אתי",
+    "exampleSentence": "Read the code of conduct."
+  },
+  {
+    "enWord": "compliance",
+    "heTranslation": "ציות",
+    "exampleSentence": "Compliance with laws is mandatory."
+  },
+  {
+    "enWord": "governance",
+    "heTranslation": "ממשל",
+    "exampleSentence": "Good governance prevents fraud."
+  },
+  {
+    "enWord": "board",
+    "heTranslation": "דירקטוריון",
+    "exampleSentence": "The board meets monthly."
+  },
+  {
+    "enWord": "executive",
+    "heTranslation": "מנהל בכיר",
+    "exampleSentence": "She is a top executive."
+  },
+  {
+    "enWord": "director",
+    "heTranslation": "דירקטור",
+    "exampleSentence": "He was appointed director."
+  },
+  {
+    "enWord": "chairman",
+    "heTranslation": "יו\"ר",
+    "exampleSentence": "The chairman leads the board."
+  },
+  {
+    "enWord": "CEO",
+    "heTranslation": "מנכ\"ל",
+    "exampleSentence": "The CEO announced the results."
+  },
+  {
+    "enWord": "CFO",
+    "heTranslation": "סמנכ\"ל כספים",
+    "exampleSentence": "The CFO manages the finances."
+  },
+  {
+    "enWord": "COO",
+    "heTranslation": "סמנכ\"ל תפעול",
+    "exampleSentence": "The COO oversees operations."
+  },
+  {
+    "enWord": "management",
+    "heTranslation": "הנהלה",
+    "exampleSentence": "Management decided to expand."
+  },
+  {
+    "enWord": "leadership",
+    "heTranslation": "מנהיגות",
+    "exampleSentence": "Strong leadership is needed."
+  },
+  {
+    "enWord": "control",
+    "heTranslation": "בקרה",
+    "exampleSentence": "Keep costs under control."
+  },
+  {
+    "enWord": "coordination",
+    "heTranslation": "תיאום",
+    "exampleSentence": "Good coordination is key."
+  },
+  {
+    "enWord": "planning",
+    "heTranslation": "תכנון",
+    "exampleSentence": "Strategic planning is essential."
+  },
+  {
+    "enWord": "organization",
+    "heTranslation": "ארגון",
+    "exampleSentence": "The organization is growing."
+  },
+  {
+    "enWord": "direction",
+    "heTranslation": "הכוונה",
+    "exampleSentence": "We need clear direction."
+  },
+  {
+    "enWord": "decision making",
+    "heTranslation": "קבלת החלטות",
+    "exampleSentence": "Decision making takes time."
+  },
+  {
+    "enWord": "problem solving",
+    "heTranslation": "פתרון בעיות",
+    "exampleSentence": "She is good at problem solving."
+  },
+  {
+    "enWord": "delegation",
+    "heTranslation": "האצלת סמכויות",
+    "exampleSentence": "Delegation empowers employees."
+  },
+  {
+    "enWord": "authority",
+    "heTranslation": "סמכות",
+    "exampleSentence": "He has the authority to sign."
+  },
+  {
+    "enWord": "power",
+    "heTranslation": "כוח",
+    "exampleSentence": "Knowledge is power."
+  },
+  {
+    "enWord": "influence",
+    "heTranslation": "השפעה",
+    "exampleSentence": "She has a lot of influence."
+  },
+  {
+    "enWord": "motivation",
+    "heTranslation": "מוטיבציה",
+    "exampleSentence": "Motivation improves performance."
+  },
+  {
+    "enWord": "conflict",
+    "heTranslation": "קונפליקט",
+    "exampleSentence": "Resolve the conflict peacefully."
+  },
+  {
+    "enWord": "dispute",
+    "heTranslation": "מחלוקת",
+    "exampleSentence": "There is a legal dispute."
+  },
+  {
+    "enWord": "resolution",
+    "heTranslation": "פתרון",
+    "exampleSentence": "We found a quick resolution."
+  },
+  {
+    "enWord": "teamwork",
+    "heTranslation": "עבודת צוות",
+    "exampleSentence": "Teamwork leads to success."
+  },
+  {
+    "enWord": "collaboration",
+    "heTranslation": "שיתוף פעולה",
+    "exampleSentence": "Collaboration creates value."
+  },
+  {
+    "enWord": "partnership",
+    "heTranslation": "שותפות",
+    "exampleSentence": "We entered a partnership."
+  },
+  {
+    "enWord": "merger",
+    "heTranslation": "מיזוג",
+    "exampleSentence": "The merger was approved."
+  },
+  {
+    "enWord": "acquisition",
+    "heTranslation": "רכישה",
+    "exampleSentence": "The acquisition cost millions."
+  },
+  {
+    "enWord": "takeover",
+    "heTranslation": "השתלטות",
+    "exampleSentence": "It was a hostile takeover."
+  },
+  {
+    "enWord": "integration",
+    "heTranslation": "אינטגרציה",
+    "exampleSentence": "System integration is complete."
+  },
+  {
+    "enWord": "diversification",
+    "heTranslation": "גיוון",
+    "exampleSentence": "Diversification reduces risk."
+  },
+  {
+    "enWord": "expansion",
+    "heTranslation": "התרחבות",
+    "exampleSentence": "Expansion into new markets."
+  },
+  {
+    "enWord": "growth",
+    "heTranslation": "צמיחה",
+    "exampleSentence": "Sustainable growth is our goal."
+  },
+  {
+    "enWord": "innovation",
+    "heTranslation": "חדשנות",
+    "exampleSentence": "Innovation drives us forward."
+  },
+  {
+    "enWord": "strategy",
+    "heTranslation": "אסטרטגיה",
+    "exampleSentence": "Develop a winning strategy."
+  },
+  {
+    "enWord": "tactics",
+    "heTranslation": "טקטיקה",
+    "exampleSentence": "Short-term tactics."
+  },
+  {
+    "enWord": "objective",
+    "heTranslation": "יעד",
+    "exampleSentence": "Set clear objectives."
+  },
+  {
+    "enWord": "milestone",
+    "heTranslation": "אבן דרך",
+    "exampleSentence": "Important milestone."
+  },
+  {
+    "enWord": "benchmark",
+    "heTranslation": "מדד ייחוס",
+    "exampleSentence": "Industry benchmark."
+  },
+  {
+    "enWord": "metric",
+    "heTranslation": "מדד",
+    "exampleSentence": "Performance metrics."
+  },
+  {
+    "enWord": "indicator",
+    "heTranslation": "אינדיקטור",
+    "exampleSentence": "Leading indicator."
+  },
+  {
+    "enWord": "analysis",
+    "heTranslation": "ניתוח",
+    "exampleSentence": "SWOT analysis."
+  },
+  {
+    "enWord": "monitoring",
+    "heTranslation": "מעקב",
+    "exampleSentence": "Progress monitoring."
+  },
+  {
+    "enWord": "tracking",
+    "heTranslation": "מעקב",
+    "exampleSentence": "Performance tracking."
+  },
+  {
+    "enWord": "reporting",
+    "heTranslation": "דיווח",
+    "exampleSentence": "Financial reporting."
+  },
+  {
+    "enWord": "dashboard",
+    "heTranslation": "לוח בקרה",
+    "exampleSentence": "Management dashboard."
+  },
+  {
+    "enWord": "scorecard",
+    "heTranslation": "כרטיס ניקוד",
+    "exampleSentence": "Balanced scorecard."
+  },
+  {
+    "enWord": "framework",
+    "heTranslation": "מסגרת",
+    "exampleSentence": "Strategic framework."
+  },
+  {
+    "enWord": "model",
+    "heTranslation": "מודל",
+    "exampleSentence": "Business model."
+  },
+  {
+    "enWord": "approach",
+    "heTranslation": "גישה",
+    "exampleSentence": "Innovative approach."
+  },
+  {
+    "enWord": "methodology",
+    "heTranslation": "מתודולוגיה",
+    "exampleSentence": "Agile methodology."
+  },
+  {
+    "enWord": "process",
+    "heTranslation": "תהליך",
+    "exampleSentence": "Business process."
+  },
+  {
+    "enWord": "workflow",
+    "heTranslation": "זרימת עבודה",
+    "exampleSentence": "Efficient workflow."
+  },
+  {
+    "enWord": "structure",
+    "heTranslation": "מבנה",
+    "exampleSentence": "Organizational structure."
+  },
+  {
+    "enWord": "hierarchy",
+    "heTranslation": "היררכיה",
+    "exampleSentence": "Flat hierarchy."
+  },
+  {
+    "enWord": "chain of command",
+    "heTranslation": "שרשרת פיקוד",
+    "exampleSentence": "Clear chain of command."
+  },
+  {
+    "enWord": "span of control",
+    "heTranslation": "תחום פיקוח",
+    "exampleSentence": "Narrow span of control."
+  },
+  {
+    "enWord": "centralization",
+    "heTranslation": "ריכוזיות",
+    "exampleSentence": "High centralization."
+  },
+  {
+    "enWord": "decentralization",
+    "heTranslation": "ביזור",
+    "exampleSentence": "Promote decentralization."
+  },
+  {
+    "enWord": "empowerment",
+    "heTranslation": "העצמה",
+    "exampleSentence": "Employee empowerment."
+  },
+  {
+    "enWord": "autonomy",
+    "heTranslation": "אוטונומיה",
+    "exampleSentence": "Team autonomy."
+  },
+  {
+    "enWord": "transparency",
+    "heTranslation": "שקיפות",
+    "exampleSentence": "Financial transparency."
+  },
+  {
+    "enWord": "integrity",
+    "heTranslation": "יושרה",
+    "exampleSentence": "Business integrity."
+  },
+  {
+    "enWord": "sustainability",
+    "heTranslation": "קיימות",
+    "exampleSentence": "Environmental sustainability."
+  },
+  {
+    "enWord": "competitor",
+    "heTranslation": "מתחרה",
+    "exampleSentence": "Competitive advantage."
+  },
+  {
+    "enWord": "industry",
+    "heTranslation": "תעשייה",
+    "exampleSentence": "Industry leader."
+  },
+  {
+    "enWord": "sector",
+    "heTranslation": "מגזר",
+    "exampleSentence": "Public sector."
+  },
+  {
+    "enWord": "segment",
+    "heTranslation": "פלח",
+    "exampleSentence": "Market segment."
+  },
+  {
+    "enWord": "niche",
+    "heTranslation": "נישה",
+    "exampleSentence": "Niche market."
+  },
+  {
+    "enWord": "opportunity",
+    "heTranslation": "הזדמנות",
+    "exampleSentence": "Market opportunity."
+  },
+  {
+    "enWord": "threat",
+    "heTranslation": "איום",
+    "exampleSentence": "Competitive threat."
+  },
+  {
+    "enWord": "strength",
+    "heTranslation": "חוזק",
+    "exampleSentence": "Core strength."
+  },
+  {
+    "enWord": "weakness",
+    "heTranslation": "חולשה",
+    "exampleSentence": "Internal weakness."
+  },
+  {
+    "enWord": "advantage",
+    "heTranslation": "יתרון",
+    "exampleSentence": "Competitive advantage."
+  },
+  {
+    "enWord": "disadvantage",
+    "heTranslation": "חיסרון",
+    "exampleSentence": "Cost disadvantage."
+  },
+  {
+    "enWord": "differentiation",
+    "heTranslation": "בידול",
+    "exampleSentence": "Product differentiation."
+  },
+  {
+    "enWord": "positioning",
+    "heTranslation": "מיצוב",
+    "exampleSentence": "Brand positioning."
+  },
+  {
+    "enWord": "branding",
+    "heTranslation": "מיתוג",
+    "exampleSentence": "Strong branding."
+  },
+  {
+    "enWord": "marketing",
+    "heTranslation": "שיווק",
+    "exampleSentence": "Marketing strategy."
+  },
+  {
+    "enWord": "distribution",
+    "heTranslation": "הפצה",
+    "exampleSentence": "Distribution channel."
+  },
+  {
+    "enWord": "logistics",
+    "heTranslation": "לוגיסטיקה",
+    "exampleSentence": "Supply chain logistics."
+  },
+  {
+    "enWord": "operations",
+    "heTranslation": "תפעול",
+    "exampleSentence": "Daily operations."
+  },
+  {
+    "enWord": "production",
+    "heTranslation": "ייצור",
+    "exampleSentence": "Production capacity."
+  },
+  {
+    "enWord": "manufacturing",
+    "heTranslation": "תעשייה",
+    "exampleSentence": "Manufacturing process."
+  },
+  {
+    "enWord": "service",
+    "heTranslation": "שירות",
+    "exampleSentence": "Customer service."
+  },
+  {
+    "enWord": "delivery",
+    "heTranslation": "אספקה",
+    "exampleSentence": "On-time delivery."
+  },
+  {
+    "enWord": "fulfillment",
+    "heTranslation": "מילוי",
+    "exampleSentence": "Order fulfillment."
+  },
+  {
+    "enWord": "procurement",
+    "heTranslation": "רכש",
+    "exampleSentence": "Procurement process."
+  },
+  {
+    "enWord": "purchasing",
+    "heTranslation": "קניות",
+    "exampleSentence": "Purchasing power."
+  },
+  {
+    "enWord": "sourcing",
+    "heTranslation": "איתור",
+    "exampleSentence": "Strategic sourcing."
+  },
+  {
+    "enWord": "outsourcing",
+    "heTranslation": "מיקור חוץ",
+    "exampleSentence": "IT outsourcing."
+  },
+  {
+    "enWord": "offshoring",
+    "heTranslation": "העברה לחו\"ל",
+    "exampleSentence": "Manufacturing offshoring."
+  },
+  {
+    "enWord": "insourcing",
+    "heTranslation": "מיקור פנימי",
+    "exampleSentence": "Insourcing decision."
+  },
+  {
+    "enWord": "vertical integration",
+    "heTranslation": "אינטגרציה אנכית",
+    "exampleSentence": "Vertical integration strategy."
+  },
+  {
+    "enWord": "horizontal integration",
+    "heTranslation": "אינטגרציה אופקית",
+    "exampleSentence": "Horizontal integration."
+  },
+  {
+    "enWord": "backward integration",
+    "heTranslation": "אינטגרציה אחורה",
+    "exampleSentence": "Backward integration plan."
+  },
+  {
+    "enWord": "forward integration",
+    "heTranslation": "אינטגרציה קדימה",
+    "exampleSentence": "Forward integration."
+  },
+  {
+    "enWord": "economies of scale",
+    "heTranslation": "יתרונות לגודל",
+    "exampleSentence": "Economies of scale benefits."
+  },
+  {
+    "enWord": "economies of scope",
+    "heTranslation": "יתרונות להיקף",
+    "exampleSentence": "Economies of scope."
+  },
+  {
+    "enWord": "synergy",
+    "heTranslation": "סינרגיה",
+    "exampleSentence": "Merger synergy."
+  },
+  {
+    "enWord": "efficiency gain",
+    "heTranslation": "רווח יעילות",
+    "exampleSentence": "Efficiency gains realized."
+  },
+  {
+    "enWord": "cost reduction",
+    "heTranslation": "הפחתת עלויות",
+    "exampleSentence": "Cost reduction initiative."
+  },
+  {
+    "enWord": "cost cutting",
+    "heTranslation": "קיצוץ עלויות",
+    "exampleSentence": "Aggressive cost cutting."
+  },
+  {
+    "enWord": "downsizing",
+    "heTranslation": "צמצום",
+    "exampleSentence": "Company downsizing."
+  },
+  {
+    "enWord": "rightsizing",
+    "heTranslation": "כיול גודל",
+    "exampleSentence": "Rightsizing the workforce."
+  },
+  {
+    "enWord": "reengineering",
+    "heTranslation": "הנדסה מחדש",
+    "exampleSentence": "Business process reengineering."
+  },
+  {
+    "enWord": "transformation",
+    "heTranslation": "טרנספורמציה",
+    "exampleSentence": "Digital transformation."
+  },
+  {
+    "enWord": "change management",
+    "heTranslation": "ניהול שינוי",
+    "exampleSentence": "Effective change management."
+  },
+  {
+    "enWord": "organizational development",
+    "heTranslation": "פיתוח ארגוני",
+    "exampleSentence": "OD intervention."
+  },
+  {
+    "enWord": "capacity building",
+    "heTranslation": "בניית יכולת",
+    "exampleSentence": "Capacity building program."
+  },
+  {
+    "enWord": "knowledge management",
+    "heTranslation": "ניהול ידע",
+    "exampleSentence": "Knowledge management system."
+  },
+  {
+    "enWord": "learning organization",
+    "heTranslation": "ארגון לומד",
+    "exampleSentence": "Become a learning organization."
+  },
+  {
+    "enWord": "continuous improvement",
+    "heTranslation": "שיפור מתמיד",
+    "exampleSentence": "Continuous improvement culture."
+  },
+  {
+    "enWord": "best practice",
+    "heTranslation": "מיטב נהלים",
+    "exampleSentence": "Industry best practices."
+  },
+  {
+    "enWord": "standardization",
+    "heTranslation": "סטנדרטיזציה",
+    "exampleSentence": "Process standardization."
+  },
+  {
+    "enWord": "automation",
+    "heTranslation": "אוטומציה",
+    "exampleSentence": "Process automation."
+  },
+  {
+    "enWord": "digitization",
+    "heTranslation": "דיגיטציה",
+    "exampleSentence": "Business digitization."
+  },
+  {
+    "enWord": "digitalization",
+    "heTranslation": "דיגיטליזציה",
+    "exampleSentence": "Digital transformation."
+  },
+  {
+    "enWord": "agility",
+    "heTranslation": "זריזות",
+    "exampleSentence": "Organizational agility."
+  },
+  {
+    "enWord": "flexibility",
+    "heTranslation": "גמישות",
+    "exampleSentence": "Strategic flexibility."
+  },
+  {
+    "enWord": "adaptability",
+    "heTranslation": "הסתגלות",
+    "exampleSentence": "Market adaptability."
+  },
+  {
+    "enWord": "responsiveness",
+    "heTranslation": "היענות",
+    "exampleSentence": "Customer responsiveness."
+  },
+  {
+    "enWord": "resilience",
+    "heTranslation": "חוסן",
+    "exampleSentence": "Business resilience."
+  },
+  {
+    "enWord": "robustness",
+    "heTranslation": "עמידות",
+    "exampleSentence": "System robustness."
+  },
+  {
+    "enWord": "scalability",
+    "heTranslation": "מדרגיות",
+    "exampleSentence": "Platform scalability."
+  },
+  {
+    "enWord": "viability",
+    "heTranslation": "כדאיות",
+    "exampleSentence": "Financial viability."
+  },
+  {
+    "enWord": "feasibility",
+    "heTranslation": "ביצועיות",
+    "exampleSentence": "Project feasibility."
+  },
+  {
+    "enWord": "profitability",
+    "heTranslation": "רווחיות",
+    "exampleSentence": "Long-term profitability."
+  },
+  {
+    "enWord": "competitiveness",
+    "heTranslation": "תחרותיות",
+    "exampleSentence": "Market competitiveness."
+  },
+  {
+    "enWord": "impact",
+    "heTranslation": "השפעה",
+    "exampleSentence": "Business impact."
+  },
+  {
+    "enWord": "outcome",
+    "heTranslation": "תוצאה",
+    "exampleSentence": "Desired outcomes."
+  },
+  {
+    "enWord": "deliverable",
+    "heTranslation": "תוצר",
+    "exampleSentence": "Project deliverables."
+  },
+  {
+    "enWord": "output",
+    "heTranslation": "תפוקה",
+    "exampleSentence": "Production output."
+  },
+  {
+    "enWord": "input",
+    "heTranslation": "קלט",
+    "exampleSentence": "Resource inputs."
+  },
+  {
+    "enWord": "throughput",
+    "heTranslation": "תפוקה",
+    "exampleSentence": "System throughput."
+  },
+  {
+    "enWord": "turnaround",
+    "heTranslation": "מחזור",
+    "exampleSentence": "Quick turnaround time."
+  },
+  {
+    "enWord": "lead time",
+    "heTranslation": "זמן אספקה",
+    "exampleSentence": "Reduce lead time."
+  },
+  {
+    "enWord": "cycle time",
+    "heTranslation": "זמן מחזור",
+    "exampleSentence": "Shorten cycle time."
+  },
+  {
+    "enWord": "downtime",
+    "heTranslation": "זמן השבתה",
+    "exampleSentence": "Minimize downtime."
+  },
+  {
+    "enWord": "uptime",
+    "heTranslation": "זמן פעילות",
+    "exampleSentence": "Maximize uptime."
+  },
+  {
+    "enWord": "availability",
+    "heTranslation": "זמינות",
+    "exampleSentence": "System availability."
+  },
+  {
+    "enWord": "reliability",
+    "heTranslation": "אמינות",
+    "exampleSentence": "Service reliability."
+  },
+  {
+    "enWord": "consistency",
+    "heTranslation": "עקביות",
+    "exampleSentence": "Brand consistency."
+  },
+  {
+    "enWord": "stability",
+    "heTranslation": "יציבות",
+    "exampleSentence": "Financial stability."
+  },
+  {
+    "enWord": "volatility",
+    "heTranslation": "תנודתיות",
+    "exampleSentence": "Market volatility."
+  },
+  {
+    "enWord": "uncertainty",
+    "heTranslation": "אי-ודאות",
+    "exampleSentence": "Economic uncertainty."
+  },
+  {
+    "enWord": "ambiguity",
+    "heTranslation": "אי-בהירות",
+    "exampleSentence": "Strategic ambiguity."
+  },
+  {
+    "enWord": "complexity",
+    "heTranslation": "מורכבות",
+    "exampleSentence": "System complexity."
+  },
+  {
+    "enWord": "simplicity",
+    "heTranslation": "פשטות",
+    "exampleSentence": "Elegant simplicity."
+  },
+  {
+    "enWord": "clarity",
+    "heTranslation": "בהירות",
+    "exampleSentence": "Strategic clarity."
+  },
+  {
+    "enWord": "focus",
+    "heTranslation": "מיקוד",
+    "exampleSentence": "Customer focus."
+  },
+  {
+    "enWord": "urgency",
+    "heTranslation": "דחיפות",
+    "exampleSentence": "Sense of urgency."
+  },
+  {
+    "enWord": "importance",
+    "heTranslation": "חשיבות",
+    "exampleSentence": "Strategic importance."
+  },
+  {
+    "enWord": "significance",
+    "heTranslation": "משמעות",
+    "exampleSentence": "Historical significance."
+  },
+  {
+    "enWord": "relevance",
+    "heTranslation": "רלוונטיות",
+    "exampleSentence": "Market relevance."
+  },
+  {
+    "enWord": "alignment",
+    "heTranslation": "התאמה",
+    "exampleSentence": "Strategic alignment."
+  },
+  {
+    "enWord": "fit",
+    "heTranslation": "התאמה",
+    "exampleSentence": "Cultural fit."
+  },
+  {
+    "enWord": "match",
+    "heTranslation": "התאמה",
+    "exampleSentence": "Skills match."
+  },
+  {
+    "enWord": "gap",
+    "heTranslation": "פער",
+    "exampleSentence": "Performance gap."
+  },
+  {
+    "enWord": "shortfall",
+    "heTranslation": "מחסור",
+    "exampleSentence": "Budget shortfall."
+  },
+  {
+    "enWord": "excess",
+    "heTranslation": "עודף",
+    "exampleSentence": "Excess capacity."
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "enWord": "department",
+    "heTranslation": "מחלקה",
+    "exampleSentence": "I work in the finance department."
+  },
+  {
+    "enWord": "colleague",
+    "heTranslation": "עמית לעבודה",
+    "exampleSentence": "My colleagues are very helpful."
+  },
+  {
+    "enWord": "employer",
+    "heTranslation": "מעביד",
+    "exampleSentence": "The employer pays our salary."
+  },
+  {
+    "enWord": "employee",
+    "heTranslation": "עובד",
+    "exampleSentence": "Each employee has clear goals."
+  },
+  {
+    "enWord": "human resources",
+    "heTranslation": "משאבי אנוש",
+    "exampleSentence": "Human resources hired a new manager."
+  },
+  {
+    "enWord": "finance",
+    "heTranslation": "כספים",
+    "exampleSentence": "She works in the finance team."
+  },
+  {
+    "enWord": "accounting",
+    "heTranslation": "חשבונאות",
+    "exampleSentence": "Accounting prepares the financial reports."
+  },
+  {
+    "enWord": "administration",
+    "heTranslation": "אדמיניסטרציה",
+    "exampleSentence": "The administration office is on the third floor."
+  },
+  {
+    "enWord": "negotiation",
+    "heTranslation": "משא ומתן",
+    "exampleSentence": "We are in negotiation with a new client."
+  },
+  {
+    "enWord": "presentation",
+    "heTranslation": "מצגת",
+    "exampleSentence": "He gave a presentation about sales results."
+  },
+  {
+    "enWord": "summary",
+    "heTranslation": "סיכום",
+    "exampleSentence": "Please send a short summary after the meeting."
+  },
+  {
+    "enWord": "feedback",
+    "heTranslation": "משוב",
+    "exampleSentence": "The manager gave me good feedback."
+  },
+  {
+    "enWord": "target",
+    "heTranslation": "יעד",
+    "exampleSentence": "Our sales target is very high this quarter."
+  },
+  {
+    "enWord": "goal",
+    "heTranslation": "מטרה",
+    "exampleSentence": "Our main goal is to increase profit."
+  },
+  {
+    "enWord": "performance",
+    "heTranslation": "ביצועים",
+    "exampleSentence": "We review performance every month."
+  },
+  {
+    "enWord": "review",
+    "heTranslation": "סקירה",
+    "exampleSentence": "We will have a performance review next week."
+  },
+  {
+    "enWord": "promotion",
+    "heTranslation": "קידום",
+    "exampleSentence": "He got a promotion and a higher salary."
+  },
+  {
+    "enWord": "career",
+    "heTranslation": "קריירה",
+    "exampleSentence": "She wants a long career in finance."
+  },
+  {
+    "enWord": "full-time",
+    "heTranslation": "משרה מלאה",
+    "exampleSentence": "This is a full-time position."
+  },
+  {
+    "enWord": "part-time",
+    "heTranslation": "משרה חלקית",
+    "exampleSentence": "He works part-time and studies."
+  },
+  {
+    "enWord": "overtime",
+    "heTranslation": "שעות נוספות",
+    "exampleSentence": "We received overtime pay."
+  },
+  {
+    "enWord": "shift",
+    "heTranslation": "משמרת",
+    "exampleSentence": "I work the morning shift."
+  },
+  {
+    "enWord": "policy",
+    "heTranslation": "מדיניות",
+    "exampleSentence": "This is the company travel policy."
+  },
+  {
+    "enWord": "procedure",
+    "heTranslation": "נוהל",
+    "exampleSentence": "Please follow the safety procedure."
+  },
+  {
+    "enWord": "record",
+    "heTranslation": "רישום",
+    "exampleSentence": "We keep a record of all payments."
+  },
+  {
+    "enWord": "internal",
+    "heTranslation": "פנימי",
+    "exampleSentence": "This is an internal report."
+  },
+  {
+    "enWord": "external",
+    "heTranslation": "חיצוני",
+    "exampleSentence": "We sent an external letter to the client."
+  },
+  {
+    "enWord": "responsibility",
+    "heTranslation": "אחריות",
+    "exampleSentence": "Customer support is my responsibility."
+  },
+  {
+    "enWord": "at the same time",
+    "heTranslation": "באותו זמן",
+    "exampleSentence": "We want to cut costs and at the same time keep quality."
+  },
+  {
+    "enWord": "in the meantime",
+    "heTranslation": "בינתיים",
+    "exampleSentence": "The system is down; in the meantime, answer emails."
+  },
+  {
+    "enWord": "as a result",
+    "heTranslation": "כתוצאה מכך",
+    "exampleSentence": "Sales fell; as a result, profit went down."
+  },
+  {
+    "enWord": "for this reason",
+    "heTranslation": "מסיבה זו",
+    "exampleSentence": "For this reason, we changed our plan."
+  },
+  {
+    "enWord": "overall",
+    "heTranslation": "בגדול / בסך הכול",
+    "exampleSentence": "Overall, the results are positive."
+  },
+  {
+    "enWord": "personnel",
+    "heTranslation": "כוח אדם",
+    "exampleSentence": "The personnel department is hiring."
+  },
+  {
+    "enWord": "recruitment",
+    "heTranslation": "גיוס",
+    "exampleSentence": "We started the recruitment process."
+  },
+  {
+    "enWord": "hiring",
+    "heTranslation": "שכירה",
+    "exampleSentence": "They are hiring new staff."
+  },
+  {
+    "enWord": "dismissal",
+    "heTranslation": "פיטורין",
+    "exampleSentence": "Unfair dismissal is illegal."
+  },
+  {
+    "enWord": "resignation",
+    "heTranslation": "התפטרות",
+    "exampleSentence": "He handed in his resignation."
+  },
+  {
+    "enWord": "retirement",
+    "heTranslation": "פרישה",
+    "exampleSentence": "She is planning her retirement."
+  },
+  {
+    "enWord": "resume",
+    "heTranslation": "קורות חיים",
+    "exampleSentence": "Please send your resume."
+  },
+  {
+    "enWord": "interview",
+    "heTranslation": "ראיון",
+    "exampleSentence": "I have a job interview tomorrow."
+  },
+  {
+    "enWord": "candidate",
+    "heTranslation": "מועמד",
+    "exampleSentence": "He is the best candidate for the job."
+  },
+  {
+    "enWord": "applicant",
+    "heTranslation": "מועמד",
+    "exampleSentence": "We have many applicants."
+  },
+  {
+    "enWord": "vacancy",
+    "heTranslation": "משרה פנויה",
+    "exampleSentence": "There is a vacancy in sales."
+  },
+  {
+    "enWord": "position",
+    "heTranslation": "תפקיד",
+    "exampleSentence": "She applied for the manager position."
+  },
+  {
+    "enWord": "job description",
+    "heTranslation": "תיאור תפקיד",
+    "exampleSentence": "Read the job description carefully."
+  },
+  {
+    "enWord": "job offer",
+    "heTranslation": "הצעת עבודה",
+    "exampleSentence": "I received a job offer today."
+  },
+  {
+    "enWord": "probation",
+    "heTranslation": "תקופת ניסיון",
+    "exampleSentence": "The probation period is three months."
+  },
+  {
+    "enWord": "training",
+    "heTranslation": "הכשרה",
+    "exampleSentence": "New employees need training."
+  },
+  {
+    "enWord": "orientation",
+    "heTranslation": "אוריינטציה",
+    "exampleSentence": "Orientation starts on Monday."
+  },
+  {
+    "enWord": "supervision",
+    "heTranslation": "פיקוח",
+    "exampleSentence": "Work requires supervision."
+  },
+  {
+    "enWord": "evaluation",
+    "heTranslation": "הערכה",
+    "exampleSentence": "The annual evaluation is next week."
+  },
+  {
+    "enWord": "transfer",
+    "heTranslation": "העברה",
+    "exampleSentence": "She requested a transfer to London."
+  },
+  {
+    "enWord": "redundancy",
+    "heTranslation": "צמצומים",
+    "exampleSentence": "The company announced redundancies."
+  },
+  {
+    "enWord": "layoff",
+    "heTranslation": "פיטורין",
+    "exampleSentence": "There was a massive layoff."
+  },
+  {
+    "enWord": "unemployment",
+    "heTranslation": "אבטלה",
+    "exampleSentence": "Unemployment rates are high."
+  },
+  {
+    "enWord": "career path",
+    "heTranslation": "מסלול קריירה",
+    "exampleSentence": "Plan your career path carefully."
+  },
+  {
+    "enWord": "skill",
+    "heTranslation": "מיומנות",
+    "exampleSentence": "Communication is a key skill."
+  },
+  {
+    "enWord": "qualification",
+    "heTranslation": "כישור",
+    "exampleSentence": "Do you have the right qualifications?"
+  },
+  {
+    "enWord": "expertise",
+    "heTranslation": "מומחיות",
+    "exampleSentence": "We need your expertise here."
+  },
+  {
+    "enWord": "competence",
+    "heTranslation": "כשירות",
+    "exampleSentence": "He showed great competence."
+  },
+  {
+    "enWord": "capability",
+    "heTranslation": "יכולת",
+    "exampleSentence": "We trust in your capability."
+  },
+  {
+    "enWord": "background",
+    "heTranslation": "רקע",
+    "exampleSentence": "Tell me about your background."
+  },
+  {
+    "enWord": "degree",
+    "heTranslation": "תואר",
+    "exampleSentence": "She has a degree in Law."
+  },
+  {
+    "enWord": "certificate",
+    "heTranslation": "תעודה",
+    "exampleSentence": "You will receive a certificate."
+  },
+  {
+    "enWord": "license",
+    "heTranslation": "רישיון",
+    "exampleSentence": "Do you have a driving license?"
+  },
+  {
+    "enWord": "authorization",
+    "heTranslation": "אישור",
+    "exampleSentence": "You need authorization to enter."
+  },
+  {
+    "enWord": "recommendation",
+    "heTranslation": "המלצה",
+    "exampleSentence": "He gave me a good recommendation."
+  },
+  {
+    "enWord": "payroll",
+    "heTranslation": "שכר",
+    "exampleSentence": "Payroll is processed monthly."
+  },
+  {
+    "enWord": "slip",
+    "heTranslation": "תלוש",
+    "exampleSentence": "Here is your pay slip."
+  },
+  {
+    "enWord": "deduction",
+    "heTranslation": "ניכוי",
+    "exampleSentence": "There are tax deductions."
+  },
+  {
+    "enWord": "gross",
+    "heTranslation": "ברוטו",
+    "exampleSentence": "What is your gross salary?"
+  },
+  {
+    "enWord": "net",
+    "heTranslation": "נטו",
+    "exampleSentence": "My net pay is lower than expected."
+  },
+  {
+    "enWord": "benefit",
+    "heTranslation": "הטבה",
+    "exampleSentence": "Health insurance is a benefit."
+  },
+  {
+    "enWord": "perk",
+    "heTranslation": "הטבה",
+    "exampleSentence": "Free coffee is a nice perk."
+  },
+  {
+    "enWord": "reimbursement",
+    "heTranslation": "החזר הוצאות",
+    "exampleSentence": "Submit receipts for reimbursement."
+  },
+  {
+    "enWord": "compensation",
+    "heTranslation": "פיצוי / שכר",
+    "exampleSentence": "The compensation package is generous."
+  },
+  {
+    "enWord": "incentive",
+    "heTranslation": "תמריץ",
+    "exampleSentence": "Bonuses are a good incentive."
+  },
+  {
+    "enWord": "recognition",
+    "heTranslation": "הוקרה",
+    "exampleSentence": "Employee recognition is important."
+  },
+  {
+    "enWord": "attendance",
+    "heTranslation": "נוכחות",
+    "exampleSentence": "Attendance is mandatory."
+  },
+  {
+    "enWord": "absence",
+    "heTranslation": "היעדרות",
+    "exampleSentence": "His absence was noticed."
+  },
+  {
+    "enWord": "sick leave",
+    "heTranslation": "חופשת מחלה",
+    "exampleSentence": "She is on sick leave today."
+  },
+  {
+    "enWord": "maternity leave",
+    "heTranslation": "חופשת לידה",
+    "exampleSentence": "She is on maternity leave."
+  },
+  {
+    "enWord": "paternity leave",
+    "heTranslation": "חופשת אבהות",
+    "exampleSentence": "He took paternity leave."
+  },
+  {
+    "enWord": "annual leave",
+    "heTranslation": "חופשה שנתית",
+    "exampleSentence": "Book your annual leave."
+  },
+  {
+    "enWord": "permanent",
+    "heTranslation": "קבוע",
+    "exampleSentence": "I have a permanent position."
+  },
+  {
+    "enWord": "temporary",
+    "heTranslation": "זמני",
+    "exampleSentence": "It is a temporary job."
+  },
+  {
+    "enWord": "freelance",
+    "heTranslation": "עצמאי",
+    "exampleSentence": "He works as a freelancer."
+  },
+  {
+    "enWord": "self-employed",
+    "heTranslation": "עצמאי",
+    "exampleSentence": "She is self-employed."
+  },
+  {
+    "enWord": "intern",
+    "heTranslation": "מתמחה",
+    "exampleSentence": "We need an intern."
+  },
+  {
+    "enWord": "apprentice",
+    "heTranslation": "חניך",
+    "exampleSentence": "He is an apprentice."
+  },
+  {
+    "enWord": "trainee",
+    "heTranslation": "מתאמן",
+    "exampleSentence": "The trainees are learning fast."
+  },
+  {
+    "enWord": "mentor",
+    "heTranslation": "מנטור",
+    "exampleSentence": "She is my mentor."
+  },
+  {
+    "enWord": "supervisor",
+    "heTranslation": "ממונה",
+    "exampleSentence": "Talk to your supervisor."
+  },
+  {
+    "enWord": "subordinate",
+    "heTranslation": "כפוף",
+    "exampleSentence": "He is my subordinate."
+  },
+  {
+    "enWord": "coworker",
+    "heTranslation": "חבר לעבודה",
+    "exampleSentence": "My coworker is helpful."
+  },
+  {
+    "enWord": "team member",
+    "heTranslation": "חבר צוות",
+    "exampleSentence": "Every team member matters."
+  },
+  {
+    "enWord": "division",
+    "heTranslation": "אגף",
+    "exampleSentence": "The sales division."
+  },
+  {
+    "enWord": "branch office",
+    "heTranslation": "סניף",
+    "exampleSentence": "Visit the branch office."
+  },
+  {
+    "enWord": "headquarters",
+    "heTranslation": "משרד ראשי",
+    "exampleSentence": "The headquarters is in Tel Aviv."
+  },
+  {
+    "enWord": "workplace",
+    "heTranslation": "מקום עבודה",
+    "exampleSentence": "A safe workplace."
+  },
+  {
+    "enWord": "workspace",
+    "heTranslation": "סביבת עבודה",
+    "exampleSentence": "Keep your workspace clean."
+  },
+  {
+    "enWord": "cubicle",
+    "heTranslation": "תא",
+    "exampleSentence": "I work in a cubicle."
+  },
+  {
+    "enWord": "conference room",
+    "heTranslation": "חדר כנסים",
+    "exampleSentence": "We meet in the conference room."
+  },
+  {
+    "enWord": "break room",
+    "heTranslation": "חדר הפסקות",
+    "exampleSentence": "Coffee is in the break room."
+  },
+  {
+    "enWord": "cafeteria",
+    "heTranslation": "מזנון",
+    "exampleSentence": "Lunch is served in the cafeteria."
+  },
+  {
+    "enWord": "reception",
+    "heTranslation": "קבלה",
+    "exampleSentence": "Wait at reception."
+  },
+  {
+    "enWord": "receptionist",
+    "heTranslation": "פקיד קבלה",
+    "exampleSentence": "The receptionist will help you."
+  },
+  {
+    "enWord": "secretary",
+    "heTranslation": "מזכיר",
+    "exampleSentence": "The secretary scheduled the meeting."
+  },
+  {
+    "enWord": "assistant",
+    "heTranslation": "עוזר",
+    "exampleSentence": "She is the assistant manager."
+  },
+  {
+    "enWord": "administrator",
+    "heTranslation": "מנהל",
+    "exampleSentence": "The system administrator."
+  },
+  {
+    "enWord": "coordinator",
+    "heTranslation": "רכז",
+    "exampleSentence": "The project coordinator."
+  },
+  {
+    "enWord": "specialist",
+    "heTranslation": "מומחה",
+    "exampleSentence": "An HR specialist."
+  },
+  {
+    "enWord": "consultant",
+    "heTranslation": "יועץ",
+    "exampleSentence": "We hired a consultant."
+  },
+  {
+    "enWord": "adviser",
+    "heTranslation": "יועץ",
+    "exampleSentence": "Financial adviser."
+  },
+  {
+    "enWord": "analyst",
+    "heTranslation": "אנליסט",
+    "exampleSentence": "A business analyst."
+  },
+  {
+    "enWord": "representative",
+    "heTranslation": "נציג",
+    "exampleSentence": "Sales representative."
+  },
+  {
+    "enWord": "agent",
+    "heTranslation": "סוכן",
+    "exampleSentence": "Insurance agent."
+  },
+  {
+    "enWord": "clerk",
+    "heTranslation": "פקיד",
+    "exampleSentence": "Office clerk."
+  },
+  {
+    "enWord": "operator",
+    "heTranslation": "מפעיל",
+    "exampleSentence": "Machine operator."
+  },
+  {
+    "enWord": "technician",
+    "heTranslation": "טכנאי",
+    "exampleSentence": "IT technician."
+  },
+  {
+    "enWord": "engineer",
+    "heTranslation": "מהנדס",
+    "exampleSentence": "Software engineer."
+  },
+  {
+    "enWord": "developer",
+    "heTranslation": "מפתח",
+    "exampleSentence": "Web developer."
+  },
+  {
+    "enWord": "designer",
+    "heTranslation": "מעצב",
+    "exampleSentence": "Graphic designer."
+  },
+  {
+    "enWord": "programmer",
+    "heTranslation": "מתכנת",
+    "exampleSentence": "Computer programmer."
+  },
+  {
+    "enWord": "accountant",
+    "heTranslation": "רואה חשבון",
+    "exampleSentence": "Certified public accountant."
+  },
+  {
+    "enWord": "bookkeeper",
+    "heTranslation": "מנהל חשבונות",
+    "exampleSentence": "She is the bookkeeper."
+  },
+  {
+    "enWord": "cashier",
+    "heTranslation": "קופאית",
+    "exampleSentence": "The cashier is busy."
+  },
+  {
+    "enWord": "salesperson",
+    "heTranslation": "איש מכירות",
+    "exampleSentence": "Top salesperson of the month."
+  },
+  {
+    "enWord": "helpdesk",
+    "heTranslation": "דלפק שירות",
+    "exampleSentence": "Submit a helpdesk ticket."
+  },
+  {
+    "enWord": "maintenance",
+    "heTranslation": "תחזוקה",
+    "exampleSentence": "Building maintenance."
+  },
+  {
+    "enWord": "cleaning",
+    "heTranslation": "ניקיון",
+    "exampleSentence": "Cleaning staff."
+  },
+  {
+    "enWord": "security",
+    "heTranslation": "אבטחה",
+    "exampleSentence": "Security personnel."
+  },
+  {
+    "enWord": "guard",
+    "heTranslation": "שומר",
+    "exampleSentence": "Security guard."
+  },
+  {
+    "enWord": "janitor",
+    "heTranslation": "שוער / מנקה",
+    "exampleSentence": "The janitor cleans at night."
+  },
+  {
+    "enWord": "vendor",
+    "heTranslation": "ספק",
+    "exampleSentence": "Vendor management."
+  },
+  {
+    "enWord": "contractor",
+    "heTranslation": "קבלן",
+    "exampleSentence": "Independent contractor."
+  },
+  {
+    "enWord": "subcontractor",
+    "heTranslation": "קבלן משנה",
+    "exampleSentence": "Hire a subcontractor."
+  },
+  {
+    "enWord": "stakeholder",
+    "heTranslation": "בעל עניין",
+    "exampleSentence": "Engage all stakeholders."
+  },
+  {
+    "enWord": "shareholder",
+    "heTranslation": "בעל מניות",
+    "exampleSentence": "Shareholder meeting."
+  },
+  {
+    "enWord": "partner",
+    "heTranslation": "שותף",
+    "exampleSentence": "Business partner."
+  },
+  {
+    "enWord": "owner",
+    "heTranslation": "בעלים",
+    "exampleSentence": "The business owner."
+  },
+  {
+    "enWord": "founder",
+    "heTranslation": "מייסד",
+    "exampleSentence": "Company founder."
+  },
+  {
+    "enWord": "entrepreneur",
+    "heTranslation": "יזם",
+    "exampleSentence": "Serial entrepreneur."
+  },
+  {
+    "enWord": "investor",
+    "heTranslation": "משקיע",
+    "exampleSentence": "Angel investor."
+  },
+  {
+    "enWord": "sponsor",
+    "heTranslation": "ספונסר",
+    "exampleSentence": "Event sponsor."
+  },
+  {
+    "enWord": "patron",
+    "heTranslation": "פטרון",
+    "exampleSentence": "Major patron."
+  },
+  {
+    "enWord": "donor",
+    "heTranslation": "תורם",
+    "exampleSentence": "Generous donor."
+  },
+  {
+    "enWord": "benefactor",
+    "heTranslation": "נדיב",
+    "exampleSentence": "Anonymous benefactor."
+  },
+  {
+    "enWord": "expense",
+    "heTranslation": "הוצאה",
+    "exampleSentence": "Business expense."
+  },
+  {
+    "enWord": "revenue",
+    "heTranslation": "הכנסה",
+    "exampleSentence": "Revenue growth."
+  },
+  {
+    "enWord": "profit",
+    "heTranslation": "רווח",
+    "exampleSentence": "Net profit."
+  },
+  {
+    "enWord": "loss",
+    "heTranslation": "הפסד",
+    "exampleSentence": "Financial loss."
+  },
+  {
+    "enWord": "surplus",
+    "heTranslation": "עודף",
+    "exampleSentence": "Budget surplus."
+  },
+  {
+    "enWord": "deficit",
+    "heTranslation": "גירעון",
+    "exampleSentence": "Budget deficit."
+  },
+  {
+    "enWord": "quotation",
+    "heTranslation": "הצעת מחיר",
+    "exampleSentence": "Request a quotation."
+  },
+  {
+    "enWord": "estimate",
+    "heTranslation": "אומדן",
+    "exampleSentence": "Cost estimate."
+  },
+  {
+    "enWord": "bid",
+    "heTranslation": "הצעה",
+    "exampleSentence": "Submit a bid."
+  },
+  {
+    "enWord": "tender",
+    "heTranslation": "מכרז",
+    "exampleSentence": "Win the tender."
+  },
+  {
+    "enWord": "proposal",
+    "heTranslation": "הצעה",
+    "exampleSentence": "Project proposal."
+  },
+  {
+    "enWord": "terms",
+    "heTranslation": "תנאים",
+    "exampleSentence": "Terms and conditions."
+  },
+  {
+    "enWord": "clause",
+    "heTranslation": "סעיף",
+    "exampleSentence": "Contract clause."
+  },
+  {
+    "enWord": "provision",
+    "heTranslation": "הוראה",
+    "exampleSentence": "Legal provision."
+  },
+  {
+    "enWord": "obligation",
+    "heTranslation": "התחייבות",
+    "exampleSentence": "Contractual obligation."
+  },
+  {
+    "enWord": "liability",
+    "heTranslation": "אחריות",
+    "exampleSentence": "Limited liability."
+  },
+  {
+    "enWord": "warranty",
+    "heTranslation": "אחריות / ערבות",
+    "exampleSentence": "Product warranty."
+  },
+  {
+    "enWord": "guarantee",
+    "heTranslation": "ערובה",
+    "exampleSentence": "Money-back guarantee."
+  },
+  {
+    "enWord": "insurance",
+    "heTranslation": "ביטוח",
+    "exampleSentence": "Health insurance."
+  },
+  {
+    "enWord": "guideline",
+    "heTranslation": "קו מנחה",
+    "exampleSentence": "Follow the guidelines."
+  },
+  {
+    "enWord": "regulation",
+    "heTranslation": "תקנה",
+    "exampleSentence": "Government regulation."
+  },
+  {
+    "enWord": "rule",
+    "heTranslation": "כלל",
+    "exampleSentence": "Office rules."
+  },
+  {
+    "enWord": "law",
+    "heTranslation": "חוק",
+    "exampleSentence": "Labor law."
+  },
+  {
+    "enWord": "statute",
+    "heTranslation": "חוק",
+    "exampleSentence": "Legal statute."
+  },
+  {
+    "enWord": "ordinance",
+    "heTranslation": "תקנה מקומית",
+    "exampleSentence": "Municipal ordinance."
+  },
+  {
+    "enWord": "code",
+    "heTranslation": "קוד",
+    "exampleSentence": "Building code."
+  },
+  {
+    "enWord": "standard",
+    "heTranslation": "תקן",
+    "exampleSentence": "Industry standard."
+  },
+  {
+    "enWord": "norm",
+    "heTranslation": "נורמה",
+    "exampleSentence": "Social norm."
+  },
+  {
+    "enWord": "practice",
+    "heTranslation": "נוהג",
+    "exampleSentence": "Best practice."
+  },
+  {
+    "enWord": "custom",
+    "heTranslation": "מנהג",
+    "exampleSentence": "Business custom."
+  },
+  {
+    "enWord": "tradition",
+    "heTranslation": "מסורת",
+    "exampleSentence": "Company tradition."
+  },
+  {
+    "enWord": "convention",
+    "heTranslation": "קונבנציה",
+    "exampleSentence": "Naming convention."
+  },
+  {
+    "enWord": "protocol",
+    "heTranslation": "פרוטוקול",
+    "exampleSentence": "Safety protocol."
+  },
+  {
+    "enWord": "etiquette",
+    "heTranslation": "נימוסים",
+    "exampleSentence": "Business etiquette."
+  },
+  {
+    "enWord": "manner",
+    "heTranslation": "נימוס",
+    "exampleSentence": "Good manners."
+  },
+  {
+    "enWord": "behavior",
+    "heTranslation": "התנהגות",
+    "exampleSentence": "Professional behavior."
+  },
+  {
+    "enWord": "conduct",
+    "heTranslation": "התנהלות",
+    "exampleSentence": "Code of conduct."
+  },
+  {
+    "enWord": "productivity",
+    "heTranslation": "פרודוקטיביות",
+    "exampleSentence": "Increase productivity."
+  },
+  {
+    "enWord": "efficiency",
+    "heTranslation": "יעילות",
+    "exampleSentence": "Operational efficiency."
+  },
+  {
+    "enWord": "effectiveness",
+    "heTranslation": "אפקטיביות",
+    "exampleSentence": "Cost effectiveness."
+  },
+  {
+    "enWord": "quality",
+    "heTranslation": "איכות",
+    "exampleSentence": "Quality control."
+  },
+  {
+    "enWord": "excellence",
+    "heTranslation": "מצוינות",
+    "exampleSentence": "Strive for excellence."
+  },
+  {
+    "enWord": "improvement",
+    "heTranslation": "שיפור",
+    "exampleSentence": "Continuous improvement."
+  },
+  {
+    "enWord": "development",
+    "heTranslation": "פיתוח",
+    "exampleSentence": "Professional development."
+  },
+  {
+    "enWord": "advancement",
+    "heTranslation": "קידום",
+    "exampleSentence": "Career advancement."
+  },
+  {
+    "enWord": "progress",
+    "heTranslation": "התקדמות",
+    "exampleSentence": "Track progress."
+  },
+  {
+    "enWord": "achievement",
+    "heTranslation": "הישג",
+    "exampleSentence": "Notable achievement."
+  },
+  {
+    "enWord": "accomplishment",
+    "heTranslation": "הישג",
+    "exampleSentence": "Personal accomplishment."
+  },
+  {
+    "enWord": "success",
+    "heTranslation": "הצלחה",
+    "exampleSentence": "Business success."
+  },
+  {
+    "enWord": "failure",
+    "heTranslation": "כישלון",
+    "exampleSentence": "Learn from failure."
+  },
+  {
+    "enWord": "mistake",
+    "heTranslation": "טעות",
+    "exampleSentence": "Admit your mistake."
+  },
+  {
+    "enWord": "error",
+    "heTranslation": "שגיאה",
+    "exampleSentence": "Human error."
+  },
+  {
+    "enWord": "fault",
+    "heTranslation": "אשמה",
+    "exampleSentence": "It's not your fault."
+  },
+  {
+    "enWord": "blame",
+    "heTranslation": "האשמה",
+    "exampleSentence": "Don't blame others."
+  },
+  {
+    "enWord": "accountability",
+    "heTranslation": "אחריותיות",
+    "exampleSentence": "Personal accountability."
+  },
+  {
+    "enWord": "ownership",
+    "heTranslation": "בעלות",
+    "exampleSentence": "Take ownership."
+  },
+  {
+    "enWord": "initiative",
+    "heTranslation": "יוזמה",
+    "exampleSentence": "Show initiative."
+  },
+  {
+    "enWord": "proactive",
+    "heTranslation": "יזום",
+    "exampleSentence": "Be proactive."
+  },
+  {
+    "enWord": "reactive",
+    "heTranslation": "ריאקטיבי",
+    "exampleSentence": "Don't be reactive."
+  },
+  {
+    "enWord": "response",
+    "heTranslation": "תגובה",
+    "exampleSentence": "Quick response."
+  },
+  {
+    "enWord": "reaction",
+    "heTranslation": "תגובה",
+    "exampleSentence": "Positive reaction."
+  },
+  {
+    "enWord": "comment",
+    "heTranslation": "הערה",
+    "exampleSentence": "Leave a comment."
+  },
+  {
+    "enWord": "suggestion",
+    "heTranslation": "הצעה",
+    "exampleSentence": "Helpful suggestion."
+  },
+  {
+    "enWord": "opinion",
+    "heTranslation": "דעה",
+    "exampleSentence": "In my opinion."
+  },
+  {
+    "enWord": "view",
+    "heTranslation": "דעה / השקפה",
+    "exampleSentence": "Different view."
+  },
+  {
+    "enWord": "perspective",
+    "heTranslation": "פרספקטיבה",
+    "exampleSentence": "New perspective."
+  },
+  {
+    "enWord": "insight",
+    "heTranslation": "תובנה",
+    "exampleSentence": "Valuable insight."
+  },
+  {
+    "enWord": "observation",
+    "heTranslation": "תצפית",
+    "exampleSentence": "Interesting observation."
+  },
+  {
+    "enWord": "notice",
+    "heTranslation": "הודעה",
+    "exampleSentence": "Official notice."
+  },
+  {
+    "enWord": "announcement",
+    "heTranslation": "הכרזה",
+    "exampleSentence": "Important announcement."
+  },
+  {
+    "enWord": "notification",
+    "heTranslation": "התראה",
+    "exampleSentence": "Email notification."
+  },
+  {
+    "enWord": "reminder",
+    "heTranslation": "תזכורת",
+    "exampleSentence": "Calendar reminder."
+  },
+  {
+    "enWord": "warning",
+    "heTranslation": "אזהרה",
+    "exampleSentence": "Safety warning."
+  },
+  {
+    "enWord": "caution",
+    "heTranslation": "זהירות",
+    "exampleSentence": "Proceed with caution."
+  },
+  {
+    "enWord": "note",
+    "heTranslation": "הערה",
+    "exampleSentence": "Make a note."
+  },
+  {
+    "enWord": "memo",
+    "heTranslation": "תזכיר",
+    "exampleSentence": "Internal memo."
+  },
+  {
+    "enWord": "memorandum",
+    "heTranslation": "תזכיר",
+    "exampleSentence": "Legal memorandum."
+  },
+  {
+    "enWord": "circular",
+    "heTranslation": "חוזר",
+    "exampleSentence": "Company circular."
+  },
+  {
+    "enWord": "bulletin",
+    "heTranslation": "ידיעון",
+    "exampleSentence": "News bulletin."
+  },
+  {
+    "enWord": "newsletter",
+    "heTranslation": "ניוזלטר",
+    "exampleSentence": "Monthly newsletter."
+  },
+  {
+    "enWord": "file",
+    "heTranslation": "תיק",
+    "exampleSentence": "Personnel file."
+  },
+  {
+    "enWord": "archive",
+    "heTranslation": "ארכיון",
+    "exampleSentence": "Company archive."
+  },
+  {
+    "enWord": "database",
+    "heTranslation": "מסד נתונים",
+    "exampleSentence": "Customer database."
+  },
+  {
+    "enWord": "system",
+    "heTranslation": "מערכת",
+    "exampleSentence": "IT system."
+  },
+  {
+    "enWord": "software",
+    "heTranslation": "תוכנה",
+    "exampleSentence": "Accounting software."
+  },
+  {
+    "enWord": "application",
+    "heTranslation": "אפליקציה",
+    "exampleSentence": "Mobile application."
+  },
+  {
+    "enWord": "program",
+    "heTranslation": "תוכנית",
+    "exampleSentence": "Training program."
+  },
+  {
+    "enWord": "tool",
+    "heTranslation": "כלי",
+    "exampleSentence": "Management tool."
+  },
+  {
+    "enWord": "equipment",
+    "heTranslation": "ציוד",
+    "exampleSentence": "Office equipment."
+  },
+  {
+    "enWord": "device",
+    "heTranslation": "מכשיר",
+    "exampleSentence": "Electronic device."
+  },
+  {
+    "enWord": "machine",
+    "heTranslation": "מכונה",
+    "exampleSentence": "Copy machine."
+  },
+  {
+    "enWord": "printer",
+    "heTranslation": "מדפסת",
+    "exampleSentence": "Network printer."
+  },
+  {
+    "enWord": "scanner",
+    "heTranslation": "סורק",
+    "exampleSentence": "Document scanner."
+  },
+  {
+    "enWord": "copier",
+    "heTranslation": "מכונת צילום",
+    "exampleSentence": "The copier is broken."
+  },
+  {
+    "enWord": "fax",
+    "heTranslation": "פקס",
+    "exampleSentence": "Send by fax."
+  },
+  {
+    "enWord": "telephone",
+    "heTranslation": "טלפון",
+    "exampleSentence": "Office telephone."
+  },
+  {
+    "enWord": "extension",
+    "heTranslation": "שלוחה",
+    "exampleSentence": "What's your extension?"
+  },
+  {
+    "enWord": "voicemail",
+    "heTranslation": "תא קולי",
+    "exampleSentence": "Check your voicemail."
+  },
+  {
+    "enWord": "message",
+    "heTranslation": "הודעה",
+    "exampleSentence": "Text message."
+  },
+  {
+    "enWord": "correspondence",
+    "heTranslation": "התכתבות",
+    "exampleSentence": "Business correspondence."
+  },
+  {
+    "enWord": "communication",
+    "heTranslation": "תקשורת",
+    "exampleSentence": "Effective communication."
+  }
+]

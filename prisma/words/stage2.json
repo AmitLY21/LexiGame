@@ -1,0 +1,1502 @@
+[
+  {
+    "enWord": "understand",
+    "heTranslation": "להבין",
+    "exampleSentence": "I understand the problem."
+  },
+  {
+    "enWord": "learn",
+    "heTranslation": "ללמוד",
+    "exampleSentence": "I want to learn English."
+  },
+  {
+    "enWord": "teach",
+    "heTranslation": "ללמד",
+    "exampleSentence": "She teaches mathematics."
+  },
+  {
+    "enWord": "study",
+    "heTranslation": "ללמוד",
+    "exampleSentence": "I study at the university."
+  },
+  {
+    "enWord": "remember",
+    "heTranslation": "לזכור",
+    "exampleSentence": "I remember that day."
+  },
+  {
+    "enWord": "think",
+    "heTranslation": "לחשוב",
+    "exampleSentence": "I think you are right."
+  },
+  {
+    "enWord": "know",
+    "heTranslation": "לדעת",
+    "exampleSentence": "I know the answer."
+  },
+  {
+    "enWord": "believe",
+    "heTranslation": "להאמין",
+    "exampleSentence": "I believe in you."
+  },
+  {
+    "enWord": "hope",
+    "heTranslation": "לקוות",
+    "exampleSentence": "I hope you feel better."
+  },
+  {
+    "enWord": "want",
+    "heTranslation": "לרצות",
+    "exampleSentence": "I want to go home."
+  },
+  {
+    "enWord": "need",
+    "heTranslation": "צריך",
+    "exampleSentence": "I need your help."
+  },
+  {
+    "enWord": "like",
+    "heTranslation": "לאהוב",
+    "exampleSentence": "I like chocolate."
+  },
+  {
+    "enWord": "love",
+    "heTranslation": "לאהוב",
+    "exampleSentence": "I love my family."
+  },
+  {
+    "enWord": "hate",
+    "heTranslation": "לשנוא",
+    "exampleSentence": "I hate waiting."
+  },
+  {
+    "enWord": "enjoy",
+    "heTranslation": "ליהנות",
+    "exampleSentence": "I enjoy reading."
+  },
+  {
+    "enWord": "prefer",
+    "heTranslation": "להעדיף",
+    "exampleSentence": "I prefer coffee to tea."
+  },
+  {
+    "enWord": "choose",
+    "heTranslation": "לבחור",
+    "exampleSentence": "Choose your favorite color."
+  },
+  {
+    "enWord": "decide",
+    "heTranslation": "להחליט",
+    "exampleSentence": "I decided to stay."
+  },
+  {
+    "enWord": "plan",
+    "heTranslation": "לתכנן",
+    "exampleSentence": "I plan to travel next year."
+  },
+  {
+    "enWord": "try",
+    "heTranslation": "לנסות",
+    "exampleSentence": "Try this cake."
+  },
+  {
+    "enWord": "succeed",
+    "heTranslation": "להצליח",
+    "exampleSentence": "I hope you succeed."
+  },
+  {
+    "enWord": "finish",
+    "heTranslation": "לסיים",
+    "exampleSentence": "I finished my homework."
+  },
+  {
+    "enWord": "continue",
+    "heTranslation": "להמשיך",
+    "exampleSentence": "Please continue."
+  },
+  {
+    "enWord": "stop",
+    "heTranslation": "לעצור",
+    "exampleSentence": "Stop the car!"
+  },
+  {
+    "enWord": "wait",
+    "heTranslation": "לחכות",
+    "exampleSentence": "Please wait here."
+  },
+  {
+    "enWord": "stay",
+    "heTranslation": "להישאר",
+    "exampleSentence": "I will stay at home."
+  },
+  {
+    "enWord": "leave",
+    "heTranslation": "לעזוב",
+    "exampleSentence": "I must leave now."
+  },
+  {
+    "enWord": "arrive",
+    "heTranslation": "להגיע",
+    "exampleSentence": "When will you arrive?"
+  },
+  {
+    "enWord": "depart",
+    "heTranslation": "לעזוב",
+    "exampleSentence": "The train departs at 8."
+  },
+  {
+    "enWord": "travel",
+    "heTranslation": "לנסוע",
+    "exampleSentence": "I love to travel."
+  },
+  {
+    "enWord": "visit",
+    "heTranslation": "לבקר",
+    "exampleSentence": "I will visit my parents."
+  },
+  {
+    "enWord": "return",
+    "heTranslation": "לחזור",
+    "exampleSentence": "I will return tomorrow."
+  },
+  {
+    "enWord": "run",
+    "heTranslation": "לרוץ",
+    "exampleSentence": "I run every morning."
+  },
+  {
+    "enWord": "sit",
+    "heTranslation": "לשבת",
+    "exampleSentence": "Please sit down."
+  },
+  {
+    "enWord": "stand",
+    "heTranslation": "לעמוד",
+    "exampleSentence": "Stand up, please."
+  },
+  {
+    "enWord": "sleep",
+    "heTranslation": "לישון",
+    "exampleSentence": "I sleep eight hours."
+  },
+  {
+    "enWord": "wake",
+    "heTranslation": "להתעורר",
+    "exampleSentence": "I wake up at 7 AM."
+  },
+  {
+    "enWord": "eat",
+    "heTranslation": "לאכול",
+    "exampleSentence": "I eat breakfast every day."
+  },
+  {
+    "enWord": "drink",
+    "heTranslation": "לשתות",
+    "exampleSentence": "I drink water."
+  },
+  {
+    "enWord": "cook",
+    "heTranslation": "לבשל",
+    "exampleSentence": "I cook dinner every evening."
+  },
+  {
+    "enWord": "buy",
+    "heTranslation": "לקנות",
+    "exampleSentence": "I need to buy groceries."
+  },
+  {
+    "enWord": "sell",
+    "heTranslation": "למכור",
+    "exampleSentence": "I want to sell my car."
+  },
+  {
+    "enWord": "pay",
+    "heTranslation": "לשלם",
+    "exampleSentence": "I will pay the bill."
+  },
+  {
+    "enWord": "cost",
+    "heTranslation": "לעלות",
+    "exampleSentence": "How much does it cost?"
+  },
+  {
+    "enWord": "spend",
+    "heTranslation": "להוציא כסף",
+    "exampleSentence": "I spend too much money."
+  },
+  {
+    "enWord": "save",
+    "heTranslation": "לחסוך",
+    "exampleSentence": "I save money every month."
+  },
+  {
+    "enWord": "call",
+    "heTranslation": "להתקשר",
+    "exampleSentence": "I will call the client."
+  },
+  {
+    "enWord": "email (verb)",
+    "heTranslation": "לשלוח אימייל",
+    "exampleSentence": "Please email me the report."
+  },
+  {
+    "enWord": "send",
+    "heTranslation": "לשלוח",
+    "exampleSentence": "Send the invoice today."
+  },
+  {
+    "enWord": "receive",
+    "heTranslation": "לקבל",
+    "exampleSentence": "We received the payment."
+  },
+  {
+    "enWord": "order",
+    "heTranslation": "להזמין",
+    "exampleSentence": "We will order more laptops."
+  },
+  {
+    "enWord": "sign",
+    "heTranslation": "לחתום",
+    "exampleSentence": "Please sign the contract."
+  },
+  {
+    "enWord": "approve",
+    "heTranslation": "לאשר",
+    "exampleSentence": "The manager approved the budget."
+  },
+  {
+    "enWord": "reject",
+    "heTranslation": "לדחות",
+    "exampleSentence": "They rejected our offer."
+  },
+  {
+    "enWord": "hire",
+    "heTranslation": "להעסיק",
+    "exampleSentence": "We plan to hire two people."
+  },
+  {
+    "enWord": "fire",
+    "heTranslation": "לפטר",
+    "exampleSentence": "They fired the accountant."
+  },
+  {
+    "enWord": "help",
+    "heTranslation": "לעזור",
+    "exampleSentence": "Can you help me with this report?"
+  },
+  {
+    "enWord": "check",
+    "heTranslation": "לבדוק",
+    "exampleSentence": "Check the numbers again."
+  },
+  {
+    "enWord": "print",
+    "heTranslation": "להדפיס",
+    "exampleSentence": "Print the document, please."
+  },
+  {
+    "enWord": "join",
+    "heTranslation": "להצטרף",
+    "exampleSentence": "He will join the team next week."
+  },
+  {
+    "enWord": "me",
+    "heTranslation": "אותי / לי",
+    "exampleSentence": "Can you send me the file?"
+  },
+  {
+    "enWord": "him",
+    "heTranslation": "אותו / לו",
+    "exampleSentence": "I called him yesterday."
+  },
+  {
+    "enWord": "us",
+    "heTranslation": "אותנו / לנו",
+    "exampleSentence": "They invited us to the meeting."
+  },
+  {
+    "enWord": "them",
+    "heTranslation": "אותם / להם",
+    "exampleSentence": "Please call them later."
+  },
+  {
+    "enWord": "can",
+    "heTranslation": "יכול",
+    "exampleSentence": "I can finish it today."
+  },
+  {
+    "enWord": "could",
+    "heTranslation": "יכולתי / אולי",
+    "exampleSentence": "Could you help me?"
+  },
+  {
+    "enWord": "must",
+    "heTranslation": "חייב",
+    "exampleSentence": "You must sign here."
+  },
+  {
+    "enWord": "should",
+    "heTranslation": "כדאי / צריך",
+    "exampleSentence": "You should talk to your manager."
+  },
+  {
+    "enWord": "have to",
+    "heTranslation": "חייב",
+    "exampleSentence": "I have to leave at five."
+  },
+  {
+    "enWord": "will",
+    "heTranslation": "עתיד (יעשה)",
+    "exampleSentence": "I will call you later."
+  },
+  {
+    "enWord": "would",
+    "heTranslation": "הייתי / היה",
+    "exampleSentence": "I would like a coffee."
+  },
+  {
+    "enWord": "may",
+    "heTranslation": "עשוי / ייתכן",
+    "exampleSentence": "You may leave early today."
+  },
+  {
+    "enWord": "might",
+    "heTranslation": "אולי / עשוי",
+    "exampleSentence": "It might rain tomorrow."
+  },
+  {
+    "enWord": "first",
+    "heTranslation": "קודם כל",
+    "exampleSentence": "First, open the file."
+  },
+  {
+    "enWord": "then",
+    "heTranslation": "ואז",
+    "exampleSentence": "Finish the report, then send it."
+  },
+  {
+    "enWord": "next",
+    "heTranslation": "הבא / אחר כך",
+    "exampleSentence": "Next, we will review the budget."
+  },
+  {
+    "enWord": "finally",
+    "heTranslation": "לבסוף",
+    "exampleSentence": "Finally, sign the document."
+  },
+  {
+    "enWord": "already",
+    "heTranslation": "כבר",
+    "exampleSentence": "I already sent the email."
+  },
+  {
+    "enWord": "still",
+    "heTranslation": "עדיין",
+    "exampleSentence": "I still need your approval."
+  },
+  {
+    "enWord": "yet",
+    "heTranslation": "עדיין לא",
+    "exampleSentence": "He has not signed yet."
+  },
+  {
+    "enWord": "again",
+    "heTranslation": "שוב",
+    "exampleSentence": "Please check the numbers again."
+  },
+  {
+    "enWord": "during",
+    "heTranslation": "בזמן",
+    "exampleSentence": "We do not talk during the presentation."
+  },
+  {
+    "enWord": "until",
+    "heTranslation": "עד",
+    "exampleSentence": "I will stay until six."
+  },
+  {
+    "enWord": "since",
+    "heTranslation": "מאז",
+    "exampleSentence": "I have worked here since 2020."
+  },
+  {
+    "enWord": "ago",
+    "heTranslation": "לפני (בעבר)",
+    "exampleSentence": "I met him two years ago."
+  },
+  {
+    "enWord": "recently",
+    "heTranslation": "לאחרונה",
+    "exampleSentence": "We recently changed our logo."
+  },
+  {
+    "enWord": "immediately",
+    "heTranslation": "מיד",
+    "exampleSentence": "Please answer immediately."
+  },
+  {
+    "enWord": "that",
+    "heTranslation": "ש־ / זה",
+    "exampleSentence": "I think that you are right."
+  },
+  {
+    "enWord": "which",
+    "heTranslation": "אשר / ש־",
+    "exampleSentence": "The report, which I sent yesterday, is ready."
+  },
+  {
+    "enWord": "who",
+    "heTranslation": "מי / ש־",
+    "exampleSentence": "The person who called is my manager."
+  },
+  {
+    "enWord": "whom",
+    "heTranslation": "את מי",
+    "exampleSentence": "The client whom we met is very nice."
+  },
+  {
+    "enWord": "whose",
+    "heTranslation": "של מי",
+    "exampleSentence": "The employee whose laptop broke needs a new one."
+  },
+  {
+    "enWord": "where",
+    "heTranslation": "איפה / איפה ש־",
+    "exampleSentence": "This is where I work."
+  },
+  {
+    "enWord": "when",
+    "heTranslation": "כש־ / מתי",
+    "exampleSentence": "I remember when we first met."
+  },
+  {
+    "enWord": "why",
+    "heTranslation": "למה / למה ש־",
+    "exampleSentence": "This is why I called you."
+  },
+  {
+    "enWord": "how",
+    "heTranslation": "איך",
+    "exampleSentence": "I do not know how to do this."
+  },
+  {
+    "enWord": "what",
+    "heTranslation": "מה",
+    "exampleSentence": "What time is the meeting?"
+  },
+  {
+    "enWord": "which one",
+    "heTranslation": "איזה",
+    "exampleSentence": "Which one do you prefer?"
+  },
+  {
+    "enWord": "whatever",
+    "heTranslation": "כל מה ש־",
+    "exampleSentence": "Whatever you decide is fine."
+  },
+  {
+    "enWord": "whoever",
+    "heTranslation": "מי ש־",
+    "exampleSentence": "Whoever arrives first can start."
+  },
+  {
+    "enWord": "wherever",
+    "heTranslation": "איפה ש־",
+    "exampleSentence": "Wherever you go, I will follow."
+  },
+  {
+    "enWord": "whenever",
+    "heTranslation": "מתי ש־",
+    "exampleSentence": "Whenever you need help, call me."
+  },
+  {
+    "enWord": "however",
+    "heTranslation": "איך ש־",
+    "exampleSentence": "However you do it, finish by five."
+  },
+  {
+    "enWord": "whichever",
+    "heTranslation": "איזה ש־",
+    "exampleSentence": "Whichever option you choose is good."
+  },
+  {
+    "enWord": "as ... as",
+    "heTranslation": "כמו / באותה מידה",
+    "exampleSentence": "This task is as easy as the last one."
+  },
+  {
+    "enWord": "not as ... as",
+    "heTranslation": "לא כמו / לא באותה מידה",
+    "exampleSentence": "This report is not as long as yesterday’s."
+  },
+  {
+    "enWord": "rather than",
+    "heTranslation": "במקום / במקום ש־",
+    "exampleSentence": "I prefer to call rather than send an email."
+  },
+  {
+    "enWord": "instead of",
+    "heTranslation": "במקום",
+    "exampleSentence": "We will use Zoom instead of Teams."
+  },
+  {
+    "enWord": "despite",
+    "heTranslation": "למרות",
+    "exampleSentence": "Despite the delay, we finished on time."
+  },
+  {
+    "enWord": "in spite of",
+    "heTranslation": "למרות",
+    "exampleSentence": "In spite of the risk, we agreed."
+  },
+  {
+    "enWord": "lately",
+    "heTranslation": "לאחרונה",
+    "exampleSentence": "I have been very busy lately."
+  },
+  {
+    "enWord": "currently",
+    "heTranslation": "כרגע",
+    "exampleSentence": "I am currently working on a project."
+  },
+  {
+    "enWord": "presently",
+    "heTranslation": "כרגע",
+    "exampleSentence": "Presently, we are reviewing the budget."
+  },
+  {
+    "enWord": "previously",
+    "heTranslation": "קודם לכן",
+    "exampleSentence": "Previously, I worked in marketing."
+  },
+  {
+    "enWord": "formerly",
+    "heTranslation": "בעבר",
+    "exampleSentence": "He was formerly the CEO."
+  },
+  {
+    "enWord": "initially",
+    "heTranslation": "בתחילה",
+    "exampleSentence": "Initially, we had different plans."
+  },
+  {
+    "enWord": "originally",
+    "heTranslation": "במקור",
+    "exampleSentence": "Originally, the meeting was scheduled for Monday."
+  },
+  {
+    "enWord": "eventually",
+    "heTranslation": "בסופו של דבר",
+    "exampleSentence": "Eventually, we found a solution."
+  },
+  {
+    "enWord": "ultimately",
+    "heTranslation": "בסופו של דבר",
+    "exampleSentence": "Ultimately, the decision is yours."
+  },
+  {
+    "enWord": "at last",
+    "heTranslation": "סוף סוף",
+    "exampleSentence": "At last, the project is complete."
+  },
+  {
+    "enWord": "in the end",
+    "heTranslation": "בסוף",
+    "exampleSentence": "In the end, everything worked out."
+  },
+  {
+    "enWord": "by the time",
+    "heTranslation": "עד הזמן ש־",
+    "exampleSentence": "By the time you arrive, I will be ready."
+  },
+  {
+    "enWord": "from time to time",
+    "heTranslation": "מדי פעם",
+    "exampleSentence": "I check my email from time to time."
+  },
+  {
+    "enWord": "once in a while",
+    "heTranslation": "מדי פעם",
+    "exampleSentence": "Once in a while, I work from home."
+  },
+  {
+    "enWord": "occasionally",
+    "heTranslation": "לעיתים",
+    "exampleSentence": "I occasionally travel for work."
+  },
+  {
+    "enWord": "frequently",
+    "heTranslation": "לעיתים קרובות",
+    "exampleSentence": "We frequently have team meetings."
+  },
+  {
+    "enWord": "constantly",
+    "heTranslation": "כל הזמן",
+    "exampleSentence": "The system is constantly updating."
+  },
+  {
+    "enWord": "continuously",
+    "heTranslation": "בצורה רציפה",
+    "exampleSentence": "We continuously monitor the process."
+  },
+  {
+    "enWord": "periodically",
+    "heTranslation": "מדי פעם",
+    "exampleSentence": "We review the budget periodically."
+  },
+  {
+    "enWord": "annually",
+    "heTranslation": "מדי שנה",
+    "exampleSentence": "We have an annual meeting."
+  },
+  {
+    "enWord": "monthly",
+    "heTranslation": "מדי חודש",
+    "exampleSentence": "We send monthly reports."
+  },
+  {
+    "enWord": "weekly",
+    "heTranslation": "מדי שבוע",
+    "exampleSentence": "We have weekly team meetings."
+  },
+  {
+    "enWord": "daily",
+    "heTranslation": "יומי",
+    "exampleSentence": "I check my email daily."
+  },
+  {
+    "enWord": "hourly",
+    "heTranslation": "מדי שעה",
+    "exampleSentence": "The system updates hourly."
+  },
+  {
+    "enWord": "momentarily",
+    "heTranslation": "רגעית",
+    "exampleSentence": "I will be with you momentarily."
+  },
+  {
+    "enWord": "instantly",
+    "heTranslation": "מיד",
+    "exampleSentence": "The system responds instantly."
+  },
+  {
+    "enWord": "suddenly",
+    "heTranslation": "פתאום",
+    "exampleSentence": "Suddenly, the power went out."
+  },
+  {
+    "enWord": "gradually",
+    "heTranslation": "בהדרגה",
+    "exampleSentence": "We gradually improved the process."
+  },
+  {
+    "enWord": "slowly",
+    "heTranslation": "לאט",
+    "exampleSentence": "Please speak slowly."
+  },
+  {
+    "enWord": "quickly",
+    "heTranslation": "מהר",
+    "exampleSentence": "I need to finish this quickly."
+  },
+  {
+    "enWord": "rapidly",
+    "heTranslation": "במהירות",
+    "exampleSentence": "Sales are growing rapidly."
+  },
+  {
+    "enWord": "briefly",
+    "heTranslation": "בקצרה",
+    "exampleSentence": "Let me explain briefly."
+  },
+  {
+    "enWord": "temporarily",
+    "heTranslation": "זמנית",
+    "exampleSentence": "I am temporarily working from home."
+  },
+  {
+    "enWord": "permanently",
+    "heTranslation": "לצמיתות",
+    "exampleSentence": "He was permanently hired."
+  },
+  {
+    "enWord": "forever",
+    "heTranslation": "לנצח",
+    "exampleSentence": "I will remember this forever."
+  },
+  {
+    "enWord": "eternally",
+    "heTranslation": "לנצח",
+    "exampleSentence": "The company will exist eternally."
+  },
+  {
+    "enWord": "how are you",
+    "heTranslation": "מה שלומך",
+    "exampleSentence": "How are you today?"
+  },
+  {
+    "enWord": "how is it going",
+    "heTranslation": "איך הולך",
+    "exampleSentence": "How is it going with the project?"
+  },
+  {
+    "enWord": "what is up",
+    "heTranslation": "מה קורה",
+    "exampleSentence": "What is up? Any news?"
+  },
+  {
+    "enWord": "long time no see",
+    "heTranslation": "לא ראינו הרבה זמן",
+    "exampleSentence": "Long time no see! How have you been?"
+  },
+  {
+    "enWord": "nice to meet you",
+    "heTranslation": "נעים להכיר",
+    "exampleSentence": "Nice to meet you!"
+  },
+  {
+    "enWord": "pleased to meet you",
+    "heTranslation": "נעים להכיר",
+    "exampleSentence": "Pleased to meet you."
+  },
+  {
+    "enWord": "see you later",
+    "heTranslation": "נתראה אחר כך",
+    "exampleSentence": "See you later!"
+  },
+  {
+    "enWord": "see you soon",
+    "heTranslation": "נתראה בקרוב",
+    "exampleSentence": "See you soon!"
+  },
+  {
+    "enWord": "take care",
+    "heTranslation": "שמור על עצמך",
+    "exampleSentence": "Take care and see you tomorrow."
+  },
+  {
+    "enWord": "have a good day",
+    "heTranslation": "יום טוב",
+    "exampleSentence": "Have a good day!"
+  },
+  {
+    "enWord": "have a nice weekend",
+    "heTranslation": "סוף שבוע נעים",
+    "exampleSentence": "Have a nice weekend!"
+  },
+  {
+    "enWord": "what do you think",
+    "heTranslation": "מה אתה חושב",
+    "exampleSentence": "What do you think about this idea?"
+  },
+  {
+    "enWord": "what is your opinion",
+    "heTranslation": "מה דעתך",
+    "exampleSentence": "What is your opinion on this?"
+  },
+  {
+    "enWord": "I agree",
+    "heTranslation": "אני מסכים",
+    "exampleSentence": "I agree with you completely."
+  },
+  {
+    "enWord": "I disagree",
+    "heTranslation": "אני לא מסכים",
+    "exampleSentence": "I disagree with that approach."
+  },
+  {
+    "enWord": "I think so",
+    "heTranslation": "אני חושב שכן",
+    "exampleSentence": "I think so, but let me check."
+  },
+  {
+    "enWord": "I do not think so",
+    "heTranslation": "אני לא חושב שכן",
+    "exampleSentence": "I do not think so."
+  },
+  {
+    "enWord": "that is right",
+    "heTranslation": "זה נכון",
+    "exampleSentence": "That is right, exactly."
+  },
+  {
+    "enWord": "that is wrong",
+    "heTranslation": "זה לא נכון",
+    "exampleSentence": "That is wrong, I am afraid."
+  },
+  {
+    "enWord": "I see",
+    "heTranslation": "אני מבין",
+    "exampleSentence": "I see what you mean."
+  },
+  {
+    "enWord": "I understand",
+    "heTranslation": "אני מבין",
+    "exampleSentence": "I understand your concern."
+  },
+  {
+    "enWord": "I do not understand",
+    "heTranslation": "אני לא מבין",
+    "exampleSentence": "I do not understand this part."
+  },
+  {
+    "enWord": "could you repeat",
+    "heTranslation": "תוכל לחזור",
+    "exampleSentence": "Could you repeat that, please?"
+  },
+  {
+    "enWord": "could you explain",
+    "heTranslation": "תוכל להסביר",
+    "exampleSentence": "Could you explain this to me?"
+  },
+  {
+    "enWord": "what does it mean",
+    "heTranslation": "מה זה אומר",
+    "exampleSentence": "What does this word mean?"
+  },
+  {
+    "enWord": "how do you say",
+    "heTranslation": "איך אומרים",
+    "exampleSentence": "How do you say this in English?"
+  },
+  {
+    "enWord": "I am sorry",
+    "heTranslation": "אני מצטער",
+    "exampleSentence": "I am sorry for the delay."
+  },
+  {
+    "enWord": "no problem",
+    "heTranslation": "אין בעיה",
+    "exampleSentence": "No problem, I can wait."
+  },
+  {
+    "enWord": "do not worry",
+    "heTranslation": "אל תדאג",
+    "exampleSentence": "Do not worry, everything is fine."
+  },
+  {
+    "enWord": "it is okay",
+    "heTranslation": "זה בסדר",
+    "exampleSentence": "It is okay, I understand."
+  },
+  {
+    "enWord": "that is fine",
+    "heTranslation": "זה בסדר",
+    "exampleSentence": "That is fine with me."
+  },
+  {
+    "enWord": "sounds good",
+    "heTranslation": "נשמע טוב",
+    "exampleSentence": "Sounds good, let us do that."
+  },
+  {
+    "enWord": "that works",
+    "heTranslation": "זה עובד",
+    "exampleSentence": "That works for me."
+  },
+  {
+    "enWord": "I am fine",
+    "heTranslation": "אני בסדר",
+    "exampleSentence": "I am fine, thank you."
+  },
+  {
+    "enWord": "I am good",
+    "heTranslation": "אני בסדר",
+    "exampleSentence": "I am good, how about you?"
+  },
+  {
+    "enWord": "not bad",
+    "heTranslation": "לא רע",
+    "exampleSentence": "Not bad, could be better."
+  },
+  {
+    "enWord": "pretty good",
+    "heTranslation": "די טוב",
+    "exampleSentence": "Pretty good, thanks for asking."
+  },
+  {
+    "enWord": "so so",
+    "heTranslation": "ככה ככה",
+    "exampleSentence": "So so, nothing special."
+  },
+  {
+    "enWord": "could be better",
+    "heTranslation": "יכול להיות יותר טוב",
+    "exampleSentence": "Could be better, but I cannot complain."
+  },
+  {
+    "enWord": "I am tired",
+    "heTranslation": "אני עייף",
+    "exampleSentence": "I am tired after the long meeting."
+  },
+  {
+    "enWord": "I am busy",
+    "heTranslation": "אני עסוק",
+    "exampleSentence": "I am busy right now, can we talk later?"
+  },
+  {
+    "enWord": "I am free",
+    "heTranslation": "אני פנוי",
+    "exampleSentence": "I am free this afternoon."
+  },
+  {
+    "enWord": "I am available",
+    "heTranslation": "אני זמין",
+    "exampleSentence": "I am available for a call."
+  },
+  {
+    "enWord": "I am not available",
+    "heTranslation": "אני לא זמין",
+    "exampleSentence": "I am not available at that time."
+  },
+  {
+    "enWord": "let me know",
+    "heTranslation": "תודיע לי",
+    "exampleSentence": "Let me know when you are ready."
+  },
+  {
+    "enWord": "keep me posted",
+    "heTranslation": "תעדכן אותי",
+    "exampleSentence": "Keep me posted on the progress."
+  },
+  {
+    "enWord": "I will let you know",
+    "heTranslation": "אני אודיע לך",
+    "exampleSentence": "I will let you know as soon as I can."
+  },
+  {
+    "enWord": "I will keep you posted",
+    "heTranslation": "אני אעדכן אותך",
+    "exampleSentence": "I will keep you posted on any changes."
+  },
+  {
+    "enWord": "thanks anyway",
+    "heTranslation": "תודה בכל מקרה",
+    "exampleSentence": "Thanks anyway for trying."
+  },
+  {
+    "enWord": "no thanks",
+    "heTranslation": "לא תודה",
+    "exampleSentence": "No thanks, I am fine."
+  },
+  {
+    "enWord": "you are welcome",
+    "heTranslation": "על לא דבר",
+    "exampleSentence": "You are welcome, happy to help."
+  },
+  {
+    "enWord": "my pleasure",
+    "heTranslation": "העונג כולו שלי",
+    "exampleSentence": "My pleasure, anytime."
+  },
+  {
+    "enWord": "anytime",
+    "heTranslation": "בכל עת",
+    "exampleSentence": "Anytime, just ask."
+  },
+  {
+    "enWord": "sure thing",
+    "heTranslation": "בטח",
+    "exampleSentence": "Sure thing, I will do it."
+  },
+  {
+    "enWord": "you bet",
+    "heTranslation": "בטח",
+    "exampleSentence": "You bet, I can help with that."
+  },
+  {
+    "enWord": "certainly",
+    "heTranslation": "בהחלט",
+    "exampleSentence": "Certainly, I will take care of it."
+  },
+  {
+    "enWord": "I guess so",
+    "heTranslation": "אני מניח שכן",
+    "exampleSentence": "I guess so, if you say so."
+  },
+  {
+    "enWord": "I suppose",
+    "heTranslation": "אני מניח",
+    "exampleSentence": "I suppose you are right."
+  },
+  {
+    "enWord": "I assume",
+    "heTranslation": "אני מניח",
+    "exampleSentence": "I assume you have read the email."
+  },
+  {
+    "enWord": "I believe",
+    "heTranslation": "אני מאמין",
+    "exampleSentence": "I believe we can finish on time."
+  },
+  {
+    "enWord": "I hope",
+    "heTranslation": "אני מקווה",
+    "exampleSentence": "I hope everything goes well."
+  },
+  {
+    "enWord": "I wish",
+    "heTranslation": "אני מאחל",
+    "exampleSentence": "I wish I could help more."
+  },
+  {
+    "enWord": "I would like",
+    "heTranslation": "אני רוצה",
+    "exampleSentence": "I would like to schedule a meeting."
+  },
+  {
+    "enWord": "I would prefer",
+    "heTranslation": "אני מעדיף",
+    "exampleSentence": "I would prefer to meet in person."
+  },
+  {
+    "enWord": "I would rather",
+    "heTranslation": "אני מעדיף",
+    "exampleSentence": "I would rather do it myself."
+  },
+  {
+    "enWord": "I had better",
+    "heTranslation": "כדאי לי",
+    "exampleSentence": "I had better finish this today."
+  },
+  {
+    "enWord": "I should",
+    "heTranslation": "אני צריך",
+    "exampleSentence": "I should call the client."
+  },
+  {
+    "enWord": "I must",
+    "heTranslation": "אני חייב",
+    "exampleSentence": "I must finish this report."
+  },
+  {
+    "enWord": "I have to",
+    "heTranslation": "אני צריך",
+    "exampleSentence": "I have to leave early today."
+  },
+  {
+    "enWord": "I need to",
+    "heTranslation": "אני צריך",
+    "exampleSentence": "I need to check my email."
+  },
+  {
+    "enWord": "I want to",
+    "heTranslation": "אני רוצה",
+    "exampleSentence": "I want to discuss this with you."
+  },
+  {
+    "enWord": "I would like to",
+    "heTranslation": "אני רוצה",
+    "exampleSentence": "I would like to learn more."
+  },
+  {
+    "enWord": "I am going to",
+    "heTranslation": "אני הולך",
+    "exampleSentence": "I am going to call him now."
+  },
+  {
+    "enWord": "I will",
+    "heTranslation": "אני אעשה",
+    "exampleSentence": "I will send you the file."
+  },
+  {
+    "enWord": "I can",
+    "heTranslation": "אני יכול",
+    "exampleSentence": "I can help you with that."
+  },
+  {
+    "enWord": "I cannot",
+    "heTranslation": "אני לא יכול",
+    "exampleSentence": "I cannot make it to the meeting."
+  },
+  {
+    "enWord": "I could",
+    "heTranslation": "אני יכול",
+    "exampleSentence": "I could help if you need."
+  },
+  {
+    "enWord": "I might",
+    "heTranslation": "אני עשוי",
+    "exampleSentence": "I might be late tomorrow."
+  },
+  {
+    "enWord": "I may",
+    "heTranslation": "אני עשוי",
+    "exampleSentence": "I may need more time."
+  },
+  {
+    "enWord": "I should have",
+    "heTranslation": "הייתי צריך",
+    "exampleSentence": "I should have called earlier."
+  },
+  {
+    "enWord": "I could have",
+    "heTranslation": "יכולתי",
+    "exampleSentence": "I could have finished yesterday."
+  },
+  {
+    "enWord": "I would have",
+    "heTranslation": "הייתי",
+    "exampleSentence": "I would have helped if I knew."
+  },
+  {
+    "enWord": "I might have",
+    "heTranslation": "יכול להיות שהייתי",
+    "exampleSentence": "I might have made a mistake."
+  },
+  {
+    "enWord": "I may have",
+    "heTranslation": "יכול להיות שהייתי",
+    "exampleSentence": "I may have forgotten to send it."
+  },
+  {
+    "enWord": "I must have",
+    "heTranslation": "בטח שהייתי",
+    "exampleSentence": "I must have left it at home."
+  },
+  {
+    "enWord": "I should not have",
+    "heTranslation": "לא הייתי צריך",
+    "exampleSentence": "I should not have said that."
+  },
+  {
+    "enWord": "I could not have",
+    "heTranslation": "לא יכולתי",
+    "exampleSentence": "I could not have known that."
+  },
+  {
+    "enWord": "I would not have",
+    "heTranslation": "לא הייתי",
+    "exampleSentence": "I would not have done that."
+  },
+  {
+    "enWord": "I might not have",
+    "heTranslation": "יכול להיות שלא הייתי",
+    "exampleSentence": "I might not have received it."
+  },
+  {
+    "enWord": "I may not have",
+    "heTranslation": "יכול להיות שלא הייתי",
+    "exampleSentence": "I may not have seen the email."
+  },
+  {
+    "enWord": "I must not have",
+    "heTranslation": "בטח שלא הייתי",
+    "exampleSentence": "I must not have saved it."
+  },
+  {
+    "enWord": "I cannot have",
+    "heTranslation": "לא יכול להיות שהייתי",
+    "exampleSentence": "I cannot have made that mistake."
+  },
+  {
+    "enWord": "repair",
+    "heTranslation": "לתקן",
+    "exampleSentence": "They will repair the printer tomorrow."
+  },
+  {
+    "enWord": "fix",
+    "heTranslation": "לתקן",
+    "exampleSentence": "Can you fix this problem?"
+  },
+  {
+    "enWord": "build",
+    "heTranslation": "לבנות",
+    "exampleSentence": "They plan to build a new office."
+  },
+  {
+    "enWord": "create",
+    "heTranslation": "ליצור",
+    "exampleSentence": "I will create a new document."
+  },
+  {
+    "enWord": "develop",
+    "heTranslation": "לפַתח",
+    "exampleSentence": "We develop software for clients."
+  },
+  {
+    "enWord": "improve",
+    "heTranslation": "לשפר",
+    "exampleSentence": "We must improve our service."
+  },
+  {
+    "enWord": "reduce",
+    "heTranslation": "להפחית",
+    "exampleSentence": "We want to reduce costs."
+  },
+  {
+    "enWord": "increase",
+    "heTranslation": "להגדיל",
+    "exampleSentence": "We plan to increase sales."
+  },
+  {
+    "enWord": "grow",
+    "heTranslation": "לגדול / לצמוח",
+    "exampleSentence": "The company continues to grow."
+  },
+  {
+    "enWord": "change",
+    "heTranslation": "לשנות",
+    "exampleSentence": "We need to change our plan."
+  },
+  {
+    "enWord": "compare",
+    "heTranslation": "להשוות",
+    "exampleSentence": "Compare these two offers."
+  },
+  {
+    "enWord": "measure",
+    "heTranslation": "למדוד",
+    "exampleSentence": "We measure success with clear goals."
+  },
+  {
+    "enWord": "organize",
+    "heTranslation": "לארגן",
+    "exampleSentence": "Please organize the files by date."
+  },
+  {
+    "enWord": "clean (verb)",
+    "heTranslation": "לנקות",
+    "exampleSentence": "The cleaner will clean the office."
+  },
+  {
+    "enWord": "cancel",
+    "heTranslation": "לבטל",
+    "exampleSentence": "They decided to cancel the event."
+  },
+  {
+    "enWord": "accept",
+    "heTranslation": "לקבל / להסכים",
+    "exampleSentence": "We cannot accept this price."
+  },
+  {
+    "enWord": "refuse",
+    "heTranslation": "לסרב",
+    "exampleSentence": "He refused the offer."
+  },
+  {
+    "enWord": "promise",
+    "heTranslation": "להבטיח",
+    "exampleSentence": "I cannot promise anything yet."
+  },
+  {
+    "enWord": "expect",
+    "heTranslation": "לצפות",
+    "exampleSentence": "We expect good results."
+  },
+  {
+    "enWord": "support",
+    "heTranslation": "לתמוך",
+    "exampleSentence": "We support our new employees."
+  },
+  {
+    "enWord": "handle",
+    "heTranslation": "לטפל / להתמודד",
+    "exampleSentence": "I will handle this issue."
+  },
+  {
+    "enWord": "deal with",
+    "heTranslation": "להתמודד עם",
+    "exampleSentence": "She deals with angry customers."
+  },
+  {
+    "enWord": "lead",
+    "heTranslation": "להוביל",
+    "exampleSentence": "He will lead the new project."
+  },
+  {
+    "enWord": "follow",
+    "heTranslation": "לעקוב / לבוא אחרי",
+    "exampleSentence": "Please follow the instructions."
+  },
+  {
+    "enWord": "imagine",
+    "heTranslation": "לדמיין",
+    "exampleSentence": "Imagine a better process."
+  },
+  {
+    "enWord": "attach",
+    "heTranslation": "לצרף",
+    "exampleSentence": "I attached the file to the email."
+  },
+  {
+    "enWord": "reply",
+    "heTranslation": "לענות",
+    "exampleSentence": "Please reply to the message today."
+  },
+  {
+    "enWord": "forward",
+    "heTranslation": "להעביר",
+    "exampleSentence": "Forward this email to the team."
+  },
+  {
+    "enWord": "log in",
+    "heTranslation": "להיכנס (למערכת)",
+    "exampleSentence": "Log in with your password."
+  },
+  {
+    "enWord": "log out",
+    "heTranslation": "להתנתק",
+    "exampleSentence": "Do not forget to log out."
+  },
+  {
+    "enWord": "upload",
+    "heTranslation": "להעלות",
+    "exampleSentence": "Upload the report to the system."
+  },
+  {
+    "enWord": "download",
+    "heTranslation": "להוריד",
+    "exampleSentence": "Download the file from the server."
+  },
+  {
+    "enWord": "share",
+    "heTranslation": "לשתף",
+    "exampleSentence": "Share the link with your manager."
+  },
+  {
+    "enWord": "edit",
+    "heTranslation": "לערוך",
+    "exampleSentence": "You can edit the document online."
+  },
+  {
+    "enWord": "delete",
+    "heTranslation": "למחוק",
+    "exampleSentence": "Do not delete this folder."
+  },
+  {
+    "enWord": "sign in",
+    "heTranslation": "להיכנס",
+    "exampleSentence": "You must sign in again."
+  },
+  {
+    "enWord": "sign out",
+    "heTranslation": "להתנתק",
+    "exampleSentence": "Sign out when you finish."
+  },
+  {
+    "enWord": "approve (digitally)",
+    "heTranslation": "לאשר דיגיטלית",
+    "exampleSentence": "The manager must digitally approve the request."
+  },
+  {
+    "enWord": "analyze",
+    "heTranslation": "לנתח",
+    "exampleSentence": "We need to analyze the data."
+  },
+  {
+    "enWord": "review (verb)",
+    "heTranslation": "לבחון / לסקור",
+    "exampleSentence": "Please review the contract carefully."
+  },
+  {
+    "enWord": "evaluate",
+    "heTranslation": "להעריך",
+    "exampleSentence": "We evaluate each candidate."
+  },
+  {
+    "enWord": "estimate (verb)",
+    "heTranslation": "להעריך",
+    "exampleSentence": "Can you estimate the total time?"
+  },
+  {
+    "enWord": "predict",
+    "heTranslation": "לחזות",
+    "exampleSentence": "It is hard to predict the result."
+  },
+  {
+    "enWord": "discuss",
+    "heTranslation": "לדון",
+    "exampleSentence": "We will discuss this tomorrow."
+  },
+  {
+    "enWord": "convince",
+    "heTranslation": "לשכנע",
+    "exampleSentence": "Try to convince the client."
+  },
+  {
+    "enWord": "complain",
+    "heTranslation": "להתלונן",
+    "exampleSentence": "The customer complained about the service."
+  },
+  {
+    "enWord": "apologize",
+    "heTranslation": "להתנצל",
+    "exampleSentence": "He apologized for the mistake."
+  },
+  {
+    "enWord": "carefully",
+    "heTranslation": "בזהירות",
+    "exampleSentence": "Read the instructions carefully."
+  },
+  {
+    "enWord": "clearly",
+    "heTranslation": "בבירור",
+    "exampleSentence": "Please speak clearly."
+  },
+  {
+    "enWord": "politely",
+    "heTranslation": "בנועם / בנימוס",
+    "exampleSentence": "Answer the customer politely."
+  },
+  {
+    "enWord": "roughly",
+    "heTranslation": "בערך",
+    "exampleSentence": "Roughly twenty people were there."
+  },
+  {
+    "enWord": "possibly",
+    "heTranslation": "אולי / אפשרי",
+    "exampleSentence": "I will possibly join the call."
+  },
+  {
+    "enWord": "urgent",
+    "heTranslation": "דחוף",
+    "exampleSentence": "This task is urgent."
+  },
+  {
+    "enWord": "optional",
+    "heTranslation": "רשות / לא חובה",
+    "exampleSentence": "This training is optional."
+  },
+  {
+    "enWord": "required",
+    "heTranslation": "חובה",
+    "exampleSentence": "This field is required."
+  },
+  {
+    "enWord": "project manager",
+    "heTranslation": "מנהל פרויקט",
+    "exampleSentence": "The project manager opened the meeting."
+  },
+  {
+    "enWord": "team leader",
+    "heTranslation": "ראש צוות",
+    "exampleSentence": "Our team leader is very experienced."
+  },
+  {
+    "enWord": "task list",
+    "heTranslation": "רשימת משימות",
+    "exampleSentence": "I made a task list for today."
+  },
+  {
+    "enWord": "priority",
+    "heTranslation": "עדיפות",
+    "exampleSentence": "What is the highest priority?"
+  },
+  {
+    "enWord": "result",
+    "heTranslation": "תוצאה",
+    "exampleSentence": "The result was better than expected."
+  },
+  {
+    "enWord": "document",
+    "heTranslation": "מסמך",
+    "exampleSentence": "The document is on the server."
+  },
+  {
+    "enWord": "folder",
+    "heTranslation": "תיקייה",
+    "exampleSentence": "Create a new folder for this project."
+  }
+]

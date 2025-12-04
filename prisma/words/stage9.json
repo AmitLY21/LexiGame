@@ -1,0 +1,1097 @@
+[
+  {
+    "enWord": "startup",
+    "heTranslation": "סטארטאפ",
+    "exampleSentence": "He works at a small startup."
+  },
+  {
+    "enWord": "board of directors",
+    "heTranslation": "דירקטוריון",
+    "exampleSentence": "The board of directors approved the plan."
+  },
+  {
+    "enWord": "fundraising",
+    "heTranslation": "גיוס הון",
+    "exampleSentence": "Fundraising took six months."
+  },
+  {
+    "enWord": "investment round",
+    "heTranslation": "סבב השקעה",
+    "exampleSentence": "The startup closed a Series A investment round."
+  },
+  {
+    "enWord": "venture capital",
+    "heTranslation": "הון סיכון",
+    "exampleSentence": "Venture capital funds invested in the company."
+  },
+  {
+    "enWord": "angel investor",
+    "heTranslation": "משקיע מלאך",
+    "exampleSentence": "An angel investor gave the first money."
+  },
+  {
+    "enWord": "ROI (return on investment)",
+    "heTranslation": "תשואה על ההשקעה",
+    "exampleSentence": "The ROI was better than expected."
+  },
+  {
+    "enWord": "breakeven",
+    "heTranslation": "נקודת איזון",
+    "exampleSentence": "We will reach breakeven next year."
+  },
+  {
+    "enWord": "monetization",
+    "heTranslation": "מונטיזציה",
+    "exampleSentence": "We are still working on our monetization model."
+  },
+  {
+    "enWord": "business model",
+    "heTranslation": "מודל עסקי",
+    "exampleSentence": "The business model is subscription-based."
+  },
+  {
+    "enWord": "revenue stream",
+    "heTranslation": "זרם הכנסות",
+    "exampleSentence": "Advertising is an additional revenue stream."
+  },
+  {
+    "enWord": "churn",
+    "heTranslation": "נטישת לקוחות",
+    "exampleSentence": "Churn rate decreased last quarter."
+  },
+  {
+    "enWord": "LTV (lifetime value)",
+    "heTranslation": "שווי חיי לקוח",
+    "exampleSentence": "We want to increase LTV."
+  },
+  {
+    "enWord": "CAC (customer acquisition cost)",
+    "heTranslation": "עלות גיוס לקוח",
+    "exampleSentence": "CAC must be lower than LTV."
+  },
+  {
+    "enWord": "runway",
+    "heTranslation": "אורך ריצה פיננסי",
+    "exampleSentence": "Our runway is 18 months."
+  },
+  {
+    "enWord": "burn rate",
+    "heTranslation": "קצב שריפת מזומנים",
+    "exampleSentence": "The burn rate is too high."
+  },
+  {
+    "enWord": "pivot",
+    "heTranslation": "פיבוט / שינוי כיוון",
+    "exampleSentence": "The startup decided to pivot to B2B."
+  },
+  {
+    "enWord": "MVP (minimum viable product)",
+    "heTranslation": "מוצר מינימלי עובד",
+    "exampleSentence": "We released an MVP to test the idea."
+  },
+  {
+    "enWord": "roadmap",
+    "heTranslation": "מפת דרכים",
+    "exampleSentence": "The product roadmap shows our plans."
+  },
+  {
+    "enWord": "traction",
+    "heTranslation": "תאוצה / התקדמות בשוק",
+    "exampleSentence": "The startup has good traction."
+  },
+  {
+    "enWord": "term sheet",
+    "heTranslation": "מסמך תנאים (טרם שיט)",
+    "exampleSentence": "We signed a term sheet with investors."
+  },
+  {
+    "enWord": "due diligence",
+    "heTranslation": "בדיקת נאותות",
+    "exampleSentence": "We completed due diligence on the target."
+  },
+  {
+    "enWord": "letter of intent",
+    "heTranslation": "מכתב כוונות",
+    "exampleSentence": "We signed a letter of intent."
+  },
+  {
+    "enWord": "memorandum of understanding",
+    "heTranslation": "הסכם הבנות",
+    "exampleSentence": "The MOU outlines basic terms."
+  },
+  {
+    "enWord": "share purchase agreement",
+    "heTranslation": "הסכם רכישת מניות",
+    "exampleSentence": "The SPA details the transaction."
+  },
+  {
+    "enWord": "asset purchase agreement",
+    "heTranslation": "הסכם רכישת נכסים",
+    "exampleSentence": "We chose an asset purchase structure."
+  },
+  {
+    "enWord": "earn-out",
+    "heTranslation": "תשלום מותנה",
+    "exampleSentence": "Part of the price is an earn-out."
+  },
+  {
+    "enWord": "escrow",
+    "heTranslation": "נאמנות",
+    "exampleSentence": "Funds are held in escrow."
+  },
+  {
+    "enWord": "closing conditions",
+    "heTranslation": "תנאי סגירה",
+    "exampleSentence": "We must meet all closing conditions."
+  },
+  {
+    "enWord": "material adverse change",
+    "heTranslation": "שינוי שלילי מהותי",
+    "exampleSentence": "A MAC clause protects the buyer."
+  },
+  {
+    "enWord": "representations and warranties",
+    "heTranslation": "הצהרות והתחייבויות",
+    "exampleSentence": "The R&W section is extensive."
+  },
+  {
+    "enWord": "indemnification",
+    "heTranslation": "פיצוי",
+    "exampleSentence": "The seller provides indemnification."
+  },
+  {
+    "enWord": "holdback",
+    "heTranslation": "עיכוב תשלום",
+    "exampleSentence": "We hold back 10% as security."
+  },
+  {
+    "enWord": "working capital adjustment",
+    "heTranslation": "התאמת הון חוזר",
+    "exampleSentence": "We adjust for working capital."
+  },
+  {
+    "enWord": "net debt",
+    "heTranslation": "חוב נטו",
+    "exampleSentence": "Net debt affects the purchase price."
+  },
+  {
+    "enWord": "equity value",
+    "heTranslation": "שווי הון",
+    "exampleSentence": "Equity value is after debt."
+  },
+  {
+    "enWord": "multiples",
+    "heTranslation": "כפולות",
+    "exampleSentence": "We use EBITDA multiples for valuation."
+  },
+  {
+    "enWord": "comparable companies",
+    "heTranslation": "חברות דומות",
+    "exampleSentence": "We analyzed comparable companies."
+  },
+  {
+    "enWord": "precedent transactions",
+    "heTranslation": "עסקאות קודמות",
+    "exampleSentence": "Precedent transactions guide valuation."
+  },
+  {
+    "enWord": "discounted cash flow",
+    "heTranslation": "תזרים מזומנים מהוון",
+    "exampleSentence": "DCF is a valuation method."
+  },
+  {
+    "enWord": "terminal value",
+    "heTranslation": "שווי סופי",
+    "exampleSentence": "Terminal value is a large component."
+  },
+  {
+    "enWord": "weighted average cost of capital",
+    "heTranslation": "עלות הון ממוצעת משוקללת",
+    "exampleSentence": "WACC is the discount rate."
+  },
+  {
+    "enWord": "beta",
+    "heTranslation": "בטא",
+    "exampleSentence": "Beta measures market risk."
+  },
+  {
+    "enWord": "alpha",
+    "heTranslation": "אלפא",
+    "exampleSentence": "Alpha measures excess return."
+  },
+  {
+    "enWord": "Sharpe ratio",
+    "heTranslation": "יחס שארפ",
+    "exampleSentence": "The Sharpe ratio measures risk-adjusted return."
+  },
+  {
+    "enWord": "Treynor ratio",
+    "heTranslation": "יחס טרינור",
+    "exampleSentence": "The Treynor ratio uses beta."
+  },
+  {
+    "enWord": "information ratio",
+    "heTranslation": "יחס מידע",
+    "exampleSentence": "The information ratio measures active return."
+  },
+  {
+    "enWord": "tracking error",
+    "heTranslation": "שגיאת מעקב",
+    "exampleSentence": "Tracking error measures deviation."
+  },
+  {
+    "enWord": "active management",
+    "heTranslation": "ניהול אקטיבי",
+    "exampleSentence": "Active management seeks to outperform."
+  },
+  {
+    "enWord": "passive management",
+    "heTranslation": "ניהול פסיבי",
+    "exampleSentence": "Passive management tracks an index."
+  },
+  {
+    "enWord": "index fund",
+    "heTranslation": "קרן מדד",
+    "exampleSentence": "Index funds track market indices."
+  },
+  {
+    "enWord": "ETF",
+    "heTranslation": "קרן סל",
+    "exampleSentence": "ETFs trade like stocks."
+  },
+  {
+    "enWord": "mutual fund",
+    "heTranslation": "קרן נאמנות",
+    "exampleSentence": "Mutual funds are actively managed."
+  },
+  {
+    "enWord": "hedge fund",
+    "heTranslation": "קרן גידור",
+    "exampleSentence": "Hedge funds use various strategies."
+  },
+  {
+    "enWord": "private equity fund",
+    "heTranslation": "קרן הון פרטי",
+    "exampleSentence": "Private equity funds buy companies."
+  },
+  {
+    "enWord": "venture capital fund",
+    "heTranslation": "קרן הון סיכון",
+    "exampleSentence": "VC funds invest in startups."
+  },
+  {
+    "enWord": "pension fund",
+    "heTranslation": "קרן פנסיה",
+    "exampleSentence": "Pension funds manage retirement assets."
+  },
+  {
+    "enWord": "sovereign wealth fund",
+    "heTranslation": "קרן עושר ריבונית",
+    "exampleSentence": "SWFs invest national wealth."
+  },
+  {
+    "enWord": "foundation",
+    "heTranslation": "קרן",
+    "exampleSentence": "The foundation supports research."
+  },
+  {
+    "enWord": "custodian",
+    "heTranslation": "נאמן",
+    "exampleSentence": "The bank acts as custodian."
+  },
+  {
+    "enWord": "settlor",
+    "heTranslation": "יוצר נאמנות",
+    "exampleSentence": "The settlor creates the trust."
+  },
+  {
+    "enWord": "fiduciary",
+    "heTranslation": "נאמנות",
+    "exampleSentence": "Fiduciary duty requires care."
+  },
+  {
+    "enWord": "fiduciary responsibility",
+    "heTranslation": "אחריות נאמנות",
+    "exampleSentence": "Fiduciary responsibility is legal."
+  },
+  {
+    "enWord": "prudent investor",
+    "heTranslation": "משקיע זהיר",
+    "exampleSentence": "The prudent investor rule applies."
+  },
+  {
+    "enWord": "pitch",
+    "heTranslation": "פיץ' / הצגה",
+    "exampleSentence": "Give a sales pitch."
+  },
+  {
+    "enWord": "deck",
+    "heTranslation": "מצגת",
+    "exampleSentence": "Send me your pitch deck."
+  },
+  {
+    "enWord": "elevator pitch",
+    "heTranslation": "נאום מעלית",
+    "exampleSentence": "Prepare your elevator pitch."
+  },
+  {
+    "enWord": "demo",
+    "heTranslation": "הדגמה",
+    "exampleSentence": "Show a demo of the product."
+  },
+  {
+    "enWord": "prototype",
+    "heTranslation": "אב טיפוס",
+    "exampleSentence": "Build a prototype."
+  },
+  {
+    "enWord": "MVP",
+    "heTranslation": "מוצר מינימלי",
+    "exampleSentence": "Launch the MVP fast."
+  },
+  {
+    "enWord": "launch",
+    "heTranslation": "השקה",
+    "exampleSentence": "Product launch date."
+  },
+  {
+    "enWord": "user",
+    "heTranslation": "משתמש",
+    "exampleSentence": "User experience."
+  },
+  {
+    "enWord": "early adopter",
+    "heTranslation": "מאמץ מוקדם",
+    "exampleSentence": "Target early adopters."
+  },
+  {
+    "enWord": "iteration",
+    "heTranslation": "איטרציה",
+    "exampleSentence": "Fast iteration cycles."
+  },
+  {
+    "enWord": "growth hacking",
+    "heTranslation": "צמיחה מהירה",
+    "exampleSentence": "Growth hacking strategies."
+  },
+  {
+    "enWord": "viral",
+    "heTranslation": "ויראלי",
+    "exampleSentence": "The video went viral."
+  },
+  {
+    "enWord": "analytics",
+    "heTranslation": "אנליטיקה",
+    "exampleSentence": "Use web analytics."
+  },
+  {
+    "enWord": "data",
+    "heTranslation": "נתונים",
+    "exampleSentence": "Data-driven decision."
+  },
+  {
+    "enWord": "funding",
+    "heTranslation": "מימון",
+    "exampleSentence": "Secure funding."
+  },
+  {
+    "enWord": "bootstrap",
+    "heTranslation": "בוטסטראפ / מימון עצמי",
+    "exampleSentence": "We are bootstrapping."
+  },
+  {
+    "enWord": "seed",
+    "heTranslation": "סיד / התחלתי",
+    "exampleSentence": "Seed round funding."
+  },
+  {
+    "enWord": "Series A",
+    "heTranslation": "סבב א'",
+    "exampleSentence": "Raised Series A."
+  },
+  {
+    "enWord": "angel",
+    "heTranslation": "מלאך",
+    "exampleSentence": "Angel investor."
+  },
+  {
+    "enWord": "incubator",
+    "heTranslation": "חממה",
+    "exampleSentence": "Join a startup incubator."
+  },
+  {
+    "enWord": "accelerator",
+    "heTranslation": "מאיץ",
+    "exampleSentence": "Apply to an accelerator."
+  },
+  {
+    "enWord": "option",
+    "heTranslation": "אופציה",
+    "exampleSentence": "Stock options."
+  },
+  {
+    "enWord": "vesting",
+    "heTranslation": "הבשלה",
+    "exampleSentence": "Vesting period."
+  },
+  {
+    "enWord": "dilution",
+    "heTranslation": "דילול",
+    "exampleSentence": "Share dilution."
+  },
+  {
+    "enWord": "exit",
+    "heTranslation": "אקזיט",
+    "exampleSentence": "Plan an exit strategy."
+  },
+  {
+    "enWord": "IPO",
+    "heTranslation": "הנפקה",
+    "exampleSentence": "Go public via IPO."
+  },
+  {
+    "enWord": "unicorn",
+    "heTranslation": "חד קרן",
+    "exampleSentence": "Become a unicorn."
+  },
+  {
+    "enWord": "disruption",
+    "heTranslation": "שיבוש",
+    "exampleSentence": "Market disruption."
+  },
+  {
+    "enWord": "hardware",
+    "heTranslation": "חומרה",
+    "exampleSentence": "Hardware startup."
+  },
+  {
+    "enWord": "platform",
+    "heTranslation": "פלטפורמה",
+    "exampleSentence": "Build a platform."
+  },
+  {
+    "enWord": "network",
+    "heTranslation": "רשת",
+    "exampleSentence": "Network effect."
+  },
+  {
+    "enWord": "ecosystem",
+    "heTranslation": "אקוסיסטם",
+    "exampleSentence": "Startup ecosystem."
+  },
+  {
+    "enWord": "co-founder",
+    "heTranslation": "מייסד שותף",
+    "exampleSentence": "Find a co-founder."
+  },
+  {
+    "enWord": "founding team",
+    "heTranslation": "צוות מייסדים",
+    "exampleSentence": "Strong founding team."
+  },
+  {
+    "enWord": "business plan",
+    "heTranslation": "תוכנית עסקית",
+    "exampleSentence": "Write a business plan."
+  },
+  {
+    "enWord": "business model canvas",
+    "heTranslation": "קנבס מודל עסקי",
+    "exampleSentence": "Use business model canvas."
+  },
+  {
+    "enWord": "lean startup",
+    "heTranslation": "לין סטארטאפ",
+    "exampleSentence": "Lean startup methodology."
+  },
+  {
+    "enWord": "agile development",
+    "heTranslation": "פיתוח זריז",
+    "exampleSentence": "Agile development process."
+  },
+  {
+    "enWord": "product-market fit",
+    "heTranslation": "התאמת מוצר לשוק",
+    "exampleSentence": "Achieve product-market fit."
+  },
+  {
+    "enWord": "value proposition",
+    "heTranslation": "הצעת ערך",
+    "exampleSentence": "Unique value proposition."
+  },
+  {
+    "enWord": "target market",
+    "heTranslation": "שוק יעד",
+    "exampleSentence": "Define target market."
+  },
+  {
+    "enWord": "market size",
+    "heTranslation": "גודל שוק",
+    "exampleSentence": "Total addressable market size."
+  },
+  {
+    "enWord": "TAM",
+    "heTranslation": "שוק כולל",
+    "exampleSentence": "Total addressable market."
+  },
+  {
+    "enWord": "SAM",
+    "heTranslation": "שוק זמין",
+    "exampleSentence": "Serviceable available market."
+  },
+  {
+    "enWord": "SOM",
+    "heTranslation": "שוק ניתן להשגה",
+    "exampleSentence": "Serviceable obtainable market."
+  },
+  {
+    "enWord": "customer segment",
+    "heTranslation": "פלח לקוחות",
+    "exampleSentence": "Key customer segments."
+  },
+  {
+    "enWord": "persona",
+    "heTranslation": "פרסונה",
+    "exampleSentence": "Create user personas."
+  },
+  {
+    "enWord": "pain point",
+    "heTranslation": "נקודת כאב",
+    "exampleSentence": "Customer pain points."
+  },
+  {
+    "enWord": "problem-solution fit",
+    "heTranslation": "התאמת בעיה לפתרון",
+    "exampleSentence": "Validate problem-solution fit."
+  },
+  {
+    "enWord": "minimum viable product",
+    "heTranslation": "מוצר מינימלי בר-קיימא",
+    "exampleSentence": "Build an MVP."
+  },
+  {
+    "enWord": "proof of concept",
+    "heTranslation": "הוכחת קונספט",
+    "exampleSentence": "Develop proof of concept."
+  },
+  {
+    "enWord": "pilot",
+    "heTranslation": "פיילוט",
+    "exampleSentence": "Run a pilot program."
+  },
+  {
+    "enWord": "alpha version",
+    "heTranslation": "גרסת אלפא",
+    "exampleSentence": "Release alpha version."
+  },
+  {
+    "enWord": "beta testing",
+    "heTranslation": "בדיקת בטא",
+    "exampleSentence": "Launch beta testing."
+  },
+  {
+    "enWord": "user acquisition",
+    "heTranslation": "רכישת משתמשים",
+    "exampleSentence": "User acquisition strategy."
+  },
+  {
+    "enWord": "customer acquisition",
+    "heTranslation": "רכישת לקוחות",
+    "exampleSentence": "Customer acquisition cost."
+  },
+  {
+    "enWord": "CAC",
+    "heTranslation": "עלות רכישת לקוח",
+    "exampleSentence": "Reduce CAC."
+  },
+  {
+    "enWord": "LTV",
+    "heTranslation": "LTV",
+    "exampleSentence": "LTV to CAC ratio."
+  },
+  {
+    "enWord": "funnel",
+    "heTranslation": "משפך",
+    "exampleSentence": "Sales funnel optimization."
+  },
+  {
+    "enWord": "activation",
+    "heTranslation": "הפעלה",
+    "exampleSentence": "User activation rate."
+  },
+  {
+    "enWord": "engagement",
+    "heTranslation": "מעורבות",
+    "exampleSentence": "User engagement metrics."
+  },
+  {
+    "enWord": "retention rate",
+    "heTranslation": "שיעור שימור",
+    "exampleSentence": "Improve retention rate."
+  },
+  {
+    "enWord": "cohort analysis",
+    "heTranslation": "ניתוח קוהורטות",
+    "exampleSentence": "Cohort analysis insights."
+  },
+  {
+    "enWord": "A/B testing",
+    "heTranslation": "בדיקת A/B",
+    "exampleSentence": "Run A/B tests."
+  },
+  {
+    "enWord": "hypothesis",
+    "heTranslation": "השערה",
+    "exampleSentence": "Test the hypothesis."
+  },
+  {
+    "enWord": "assumption",
+    "heTranslation": "הנחה",
+    "exampleSentence": "Validate assumptions."
+  },
+  {
+    "enWord": "validation",
+    "heTranslation": "אימות",
+    "exampleSentence": "Customer validation."
+  },
+  {
+    "enWord": "experimentation",
+    "heTranslation": "ניסוי",
+    "exampleSentence": "Culture of experimentation."
+  },
+  {
+    "enWord": "build-measure-learn",
+    "heTranslation": "בנה-מדוד-למד",
+    "exampleSentence": "Build-measure-learn loop."
+  },
+  {
+    "enWord": "fail fast",
+    "heTranslation": "כישלון מהיר",
+    "exampleSentence": "Fail fast philosophy."
+  },
+  {
+    "enWord": "pivot or persevere",
+    "heTranslation": "פיבוט או התמדה",
+    "exampleSentence": "Pivot or persevere decision."
+  },
+  {
+    "enWord": "course correction",
+    "heTranslation": "תיקון מסלול",
+    "exampleSentence": "Make a course correction."
+  },
+  {
+    "enWord": "cash flow positive",
+    "heTranslation": "תזרים מזומנים חיובי",
+    "exampleSentence": "Become cash flow positive."
+  },
+  {
+    "enWord": "unit economics",
+    "heTranslation": "כלכלה ליחידה",
+    "exampleSentence": "Positive unit economics."
+  },
+  {
+    "enWord": "revenue model",
+    "heTranslation": "מודל הכנסות",
+    "exampleSentence": "Subscription revenue model."
+  },
+  {
+    "enWord": "pricing strategy",
+    "heTranslation": "אסטרטגיית תמחור",
+    "exampleSentence": "Value-based pricing strategy."
+  },
+  {
+    "enWord": "freemium",
+    "heTranslation": "פרימיום",
+    "exampleSentence": "Freemium model."
+  },
+  {
+    "enWord": "subscription",
+    "heTranslation": "מנוי",
+    "exampleSentence": "Monthly subscription fee."
+  },
+  {
+    "enWord": "SaaS",
+    "heTranslation": "SaaS",
+    "exampleSentence": "SaaS business model."
+  },
+  {
+    "enWord": "recurring revenue",
+    "heTranslation": "הכנסה חוזרת",
+    "exampleSentence": "Monthly recurring revenue."
+  },
+  {
+    "enWord": "MRR",
+    "heTranslation": "MRR",
+    "exampleSentence": "Monthly recurring revenue."
+  },
+  {
+    "enWord": "ARR",
+    "heTranslation": "ARR",
+    "exampleSentence": "Annual recurring revenue."
+  },
+  {
+    "enWord": "transaction fee",
+    "heTranslation": "עמלת עסקה",
+    "exampleSentence": "Transaction fee revenue."
+  },
+  {
+    "enWord": "marketplace",
+    "heTranslation": "מרקטפלייס",
+    "exampleSentence": "Two-sided marketplace."
+  },
+  {
+    "enWord": "network effect",
+    "heTranslation": "אפקט רשת",
+    "exampleSentence": "Strong network effects."
+  },
+  {
+    "enWord": "viral loop",
+    "heTranslation": "לולאה ויראלית",
+    "exampleSentence": "Create a viral loop."
+  },
+  {
+    "enWord": "viral coefficient",
+    "heTranslation": "מקדם ויראליות",
+    "exampleSentence": "Viral coefficient above 1."
+  },
+  {
+    "enWord": "referral program",
+    "heTranslation": "תוכנית הפניות",
+    "exampleSentence": "Launch referral program."
+  },
+  {
+    "enWord": "word of mouth",
+    "heTranslation": "מפה לאוזן",
+    "exampleSentence": "Word of mouth marketing."
+  },
+  {
+    "enWord": "growth loop",
+    "heTranslation": "לולאת צמיחה",
+    "exampleSentence": "Sustainable growth loop."
+  },
+  {
+    "enWord": "channel",
+    "heTranslation": "ערוץ",
+    "exampleSentence": "Distribution channels."
+  },
+  {
+    "enWord": "go-to-market",
+    "heTranslation": "כניסה לשוק",
+    "exampleSentence": "Go-to-market strategy."
+  },
+  {
+    "enWord": "sales strategy",
+    "heTranslation": "אסטרטגיית מכירות",
+    "exampleSentence": "Inside sales strategy."
+  },
+  {
+    "enWord": "marketing strategy",
+    "heTranslation": "אסטרטגיית שיווק",
+    "exampleSentence": "Content marketing strategy."
+  },
+  {
+    "enWord": "brand",
+    "heTranslation": "מותג",
+    "exampleSentence": "Build a strong brand."
+  },
+  {
+    "enWord": "competitive advantage",
+    "heTranslation": "יתרון תחרותי",
+    "exampleSentence": "Sustainable competitive advantage."
+  },
+  {
+    "enWord": "moat",
+    "heTranslation": "חפיר",
+    "exampleSentence": "Build a competitive moat."
+  },
+  {
+    "enWord": "first-mover advantage",
+    "heTranslation": "יתרון הראשון לשוק",
+    "exampleSentence": "First-mover advantage."
+  },
+  {
+    "enWord": "fast follower",
+    "heTranslation": "עוקב מהיר",
+    "exampleSentence": "Fast follower strategy."
+  },
+  {
+    "enWord": "blue ocean",
+    "heTranslation": "אוקיינוס כחול",
+    "exampleSentence": "Blue ocean strategy."
+  },
+  {
+    "enWord": "red ocean",
+    "heTranslation": "אוקיינוס אדום",
+    "exampleSentence": "Red ocean competition."
+  },
+  {
+    "enWord": "disruptor",
+    "heTranslation": "משבש",
+    "exampleSentence": "Industry disruptor."
+  },
+  {
+    "enWord": "incumbent",
+    "heTranslation": "שחקן קיים",
+    "exampleSentence": "Compete with incumbents."
+  },
+  {
+    "enWord": "legacy system",
+    "heTranslation": "מערכת ישנה",
+    "exampleSentence": "Replace legacy systems."
+  },
+  {
+    "enWord": "scale-up",
+    "heTranslation": "הגדלה",
+    "exampleSentence": "Scale-up phase."
+  },
+  {
+    "enWord": "hypergrowth",
+    "heTranslation": "צמיחה היפר",
+    "exampleSentence": "Hypergrowth stage."
+  },
+  {
+    "enWord": "localization",
+    "heTranslation": "לוקליזציה",
+    "exampleSentence": "Product localization."
+  },
+  {
+    "enWord": "team building",
+    "heTranslation": "בניית צוות",
+    "exampleSentence": "Focus on team building."
+  },
+  {
+    "enWord": "talent acquisition",
+    "heTranslation": "רכישת כישרונות",
+    "exampleSentence": "Talent acquisition strategy."
+  },
+  {
+    "enWord": "core values",
+    "heTranslation": "ערכי ליבה",
+    "exampleSentence": "Define core values."
+  },
+  {
+    "enWord": "employee equity",
+    "heTranslation": "הון עובדים",
+    "exampleSentence": "Employee equity plan."
+  },
+  {
+    "enWord": "stock options",
+    "heTranslation": "אופציות למניות",
+    "exampleSentence": "Grant stock options."
+  },
+  {
+    "enWord": "vesting schedule",
+    "heTranslation": "לוח הבשלה",
+    "exampleSentence": "Four-year vesting schedule."
+  },
+  {
+    "enWord": "cliff",
+    "heTranslation": "מצוק",
+    "exampleSentence": "One-year cliff."
+  },
+  {
+    "enWord": "advisory board",
+    "heTranslation": "מועצה מייעצת",
+    "exampleSentence": "Form advisory board."
+  },
+  {
+    "enWord": "VC firm",
+    "heTranslation": "חברת הון סיכון",
+    "exampleSentence": "Top-tier VC firm."
+  },
+  {
+    "enWord": "corporate VC",
+    "heTranslation": "הון סיכון תאגידי",
+    "exampleSentence": "Corporate VC investment."
+  },
+  {
+    "enWord": "strategic investor",
+    "heTranslation": "משקיע אסטרטגי",
+    "exampleSentence": "Strategic investor."
+  },
+  {
+    "enWord": "institutional investor",
+    "heTranslation": "משקיע מוסדי",
+    "exampleSentence": "Institutional investors."
+  },
+  {
+    "enWord": "lead investor",
+    "heTranslation": "משקיע מוביל",
+    "exampleSentence": "Lead investor in the round."
+  },
+  {
+    "enWord": "follow-on investment",
+    "heTranslation": "השקעת המשך",
+    "exampleSentence": "Follow-on investment."
+  },
+  {
+    "enWord": "pro-rata rights",
+    "heTranslation": "זכויות פרו-ראטה",
+    "exampleSentence": "Pro-rata rights."
+  },
+  {
+    "enWord": "cap table",
+    "heTranslation": "טבלת שוויון",
+    "exampleSentence": "Clean cap table."
+  },
+  {
+    "enWord": "pre-money valuation",
+    "heTranslation": "שווי לפני כסף",
+    "exampleSentence": "Pre-money valuation."
+  },
+  {
+    "enWord": "post-money valuation",
+    "heTranslation": "שווי אחרי כסף",
+    "exampleSentence": "Post-money valuation."
+  },
+  {
+    "enWord": "down round",
+    "heTranslation": "סבב ירידה",
+    "exampleSentence": "Avoid down round."
+  },
+  {
+    "enWord": "flat round",
+    "heTranslation": "סבב שטוח",
+    "exampleSentence": "Flat round."
+  },
+  {
+    "enWord": "up round",
+    "heTranslation": "סבב עלייה",
+    "exampleSentence": "Raise an up round."
+  },
+  {
+    "enWord": "bridge round",
+    "heTranslation": "סבב גישור",
+    "exampleSentence": "Bridge round financing."
+  },
+  {
+    "enWord": "convertible note",
+    "heTranslation": "שטר המרה",
+    "exampleSentence": "Issue convertible notes."
+  },
+  {
+    "enWord": "valuation cap",
+    "heTranslation": "תקרת שווי",
+    "exampleSentence": "Valuation cap."
+  },
+  {
+    "enWord": "liquidation preference",
+    "heTranslation": "עדיפות פירוק",
+    "exampleSentence": "Liquidation preference terms."
+  },
+  {
+    "enWord": "participating preferred",
+    "heTranslation": "מניות מועדפות משתתפות",
+    "exampleSentence": "Participating preferred stock."
+  },
+  {
+    "enWord": "anti-dilution",
+    "heTranslation": "אנטי-דילול",
+    "exampleSentence": "Anti-dilution protection."
+  },
+  {
+    "enWord": "drag-along",
+    "heTranslation": "גרירה",
+    "exampleSentence": "Drag-along rights."
+  },
+  {
+    "enWord": "tag-along",
+    "heTranslation": "הצטרפות",
+    "exampleSentence": "Tag-along rights."
+  },
+  {
+    "enWord": "voting rights",
+    "heTranslation": "זכויות הצבעה",
+    "exampleSentence": "Voting rights structure."
+  },
+  {
+    "enWord": "board seat",
+    "heTranslation": "מושב דירקטוריון",
+    "exampleSentence": "Investor board seat."
+  },
+  {
+    "enWord": "information rights",
+    "heTranslation": "זכויות מידע",
+    "exampleSentence": "Investor information rights."
+  },
+  {
+    "enWord": "runway extension",
+    "heTranslation": "הארכת מסלול",
+    "exampleSentence": "Runway extension."
+  },
+  {
+    "enWord": "exit strategy",
+    "heTranslation": "אסטרטגיית יציאה",
+    "exampleSentence": "Plan exit strategy."
+  },
+  {
+    "enWord": "acquirer",
+    "heTranslation": "רוכש",
+    "exampleSentence": "Potential acquirer."
+  },
+  {
+    "enWord": "strategic buyer",
+    "heTranslation": "קונה אסטרטגי",
+    "exampleSentence": "Strategic buyer interest."
+  },
+  {
+    "enWord": "financial buyer",
+    "heTranslation": "קונה פיננסי",
+    "exampleSentence": "Financial buyer."
+  },
+  {
+    "enWord": "earnout",
+    "heTranslation": "תשלום מבוסס ביצועים",
+    "exampleSentence": "Earnout structure."
+  },
+  {
+    "enWord": "going public",
+    "heTranslation": "יציאה לציבור",
+    "exampleSentence": "Going public considerations."
+  },
+  {
+    "enWord": "SPAC",
+    "heTranslation": "SPAC",
+    "exampleSentence": "SPAC merger."
+  },
+  {
+    "enWord": "direct listing",
+    "heTranslation": "רישום ישיר",
+    "exampleSentence": "Direct listing option."
+  },
+  {
+    "enWord": "secondary sale",
+    "heTranslation": "מכירה משנית",
+    "exampleSentence": "Secondary sale of shares."
+  },
+  {
+    "enWord": "liquidity event",
+    "heTranslation": "אירוע נזילות",
+    "exampleSentence": "Liquidity event for employees."
+  },
+  {
+    "enWord": "10x return",
+    "heTranslation": "תשואה פי 10",
+    "exampleSentence": "Target 10x return."
+  },
+  {
+    "enWord": "home run",
+    "heTranslation": "הום ראן",
+    "exampleSentence": "Looking for home runs."
+  },
+  {
+    "enWord": "unicorn status",
+    "heTranslation": "סטטוס חד-קרן",
+    "exampleSentence": "Achieve unicorn status."
+  },
+  {
+    "enWord": "decacorn",
+    "heTranslation": "דקהקורן",
+    "exampleSentence": "Decacorn valuation."
+  },
+  {
+    "enWord": "hectocorn",
+    "heTranslation": "הקטוקורן",
+    "exampleSentence": "Hectocorn status."
+  }
+]

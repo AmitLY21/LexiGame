@@ -1,0 +1,1187 @@
+[
+  {
+    "enWord": "hedging",
+    "heTranslation": "גידור",
+    "exampleSentence": "The company uses hedging to reduce risk."
+  },
+  {
+    "enWord": "derivative",
+    "heTranslation": "נגזר פיננסי",
+    "exampleSentence": "Derivatives can be very complex."
+  },
+  {
+    "enWord": "leveraged buyout",
+    "heTranslation": "רכישה ממונפת",
+    "exampleSentence": "They considered a leveraged buyout."
+  },
+  {
+    "enWord": "IPO (initial public offering)",
+    "heTranslation": "הנפקה ראשונית",
+    "exampleSentence": "The company is planning an IPO."
+  },
+  {
+    "enWord": "private equity",
+    "heTranslation": "הון פרטי",
+    "exampleSentence": "Private equity funds bought the business."
+  },
+  {
+    "enWord": "corporate governance",
+    "heTranslation": "ממשל תאגידי",
+    "exampleSentence": "Corporate governance rules are very strict."
+  },
+  {
+    "enWord": "fiduciary duty",
+    "heTranslation": "חובת נאמנות",
+    "exampleSentence": "Directors have a fiduciary duty to shareholders."
+  },
+  {
+    "enWord": "insider trading",
+    "heTranslation": "מסחר במידע פנים",
+    "exampleSentence": "Insider trading is illegal."
+  },
+  {
+    "enWord": "securitization",
+    "heTranslation": "ניכיון / ניירות ערך מגובים",
+    "exampleSentence": "Securitization packages loans into securities."
+  },
+  {
+    "enWord": "arbitrage",
+    "heTranslation": "ארביטראז׳",
+    "exampleSentence": "Traders look for arbitrage opportunities."
+  },
+  {
+    "enWord": "liquidity ratio",
+    "heTranslation": "יחס נזילות",
+    "exampleSentence": "The liquidity ratio is very strong."
+  },
+  {
+    "enWord": "solvency ratio",
+    "heTranslation": "יחס סולבנטיות",
+    "exampleSentence": "The solvency ratio shows long-term strength."
+  },
+  {
+    "enWord": "capital expenditure",
+    "heTranslation": "הוצאה הונית",
+    "exampleSentence": "Capital expenditure is high this year."
+  },
+  {
+    "enWord": "operating margin",
+    "heTranslation": "שולי רווח תפעולי",
+    "exampleSentence": "Operating margin improved by 3%."
+  },
+  {
+    "enWord": "free cash flow",
+    "heTranslation": "תזרים מזומנים חופשי",
+    "exampleSentence": "Free cash flow is positive."
+  },
+  {
+    "enWord": "sensitivity analysis",
+    "heTranslation": "ניתוח רגישות",
+    "exampleSentence": "We did a sensitivity analysis on the forecast."
+  },
+  {
+    "enWord": "scenario planning",
+    "heTranslation": "תכנון תרחישים",
+    "exampleSentence": "Scenario planning helps us prepare for risk."
+  },
+  {
+    "enWord": "contingent liability",
+    "heTranslation": "התחייבות מותנית",
+    "exampleSentence": "A lawsuit can be a contingent liability."
+  },
+  {
+    "enWord": "credit default swap",
+    "heTranslation": "החלפת חדלות פירעון",
+    "exampleSentence": "CDS protects against default risk."
+  },
+  {
+    "enWord": "collateralized debt obligation",
+    "heTranslation": "התחייבות חוב מובטחת",
+    "exampleSentence": "CDOs package various debts."
+  },
+  {
+    "enWord": "mortgage-backed security",
+    "heTranslation": "נייר ערך מגובה משכנתא",
+    "exampleSentence": "MBS are backed by mortgages."
+  },
+  {
+    "enWord": "asset-backed security",
+    "heTranslation": "נייר ערך מגובה נכסים",
+    "exampleSentence": "ABS are backed by assets."
+  },
+  {
+    "enWord": "special purpose vehicle",
+    "heTranslation": "רכב למטרה מיוחדת",
+    "exampleSentence": "SPVs isolate risk."
+  },
+  {
+    "enWord": "off-balance sheet",
+    "heTranslation": "מחוץ למאזן",
+    "exampleSentence": "Some items are off-balance sheet."
+  },
+  {
+    "enWord": "equity method",
+    "heTranslation": "שיטת השווי",
+    "exampleSentence": "We use equity method for associates."
+  },
+  {
+    "enWord": "proportional consolidation",
+    "heTranslation": "איחוד יחסי",
+    "exampleSentence": "Proportional consolidation is used in JVs."
+  },
+  {
+    "enWord": "goodwill impairment",
+    "heTranslation": "ירידת ערך מוניטין",
+    "exampleSentence": "We test goodwill for impairment."
+  },
+  {
+    "enWord": "finite life intangible",
+    "heTranslation": "נכס לא מוחשי מוגבל",
+    "exampleSentence": "Patents have finite lives."
+  },
+  {
+    "enWord": "indefinite life intangible",
+    "heTranslation": "נכס לא מוחשי בלתי מוגבל",
+    "exampleSentence": "Brands have indefinite lives."
+  },
+  {
+    "enWord": "research and development",
+    "heTranslation": "מחקר ופיתוח",
+    "exampleSentence": "R&D costs are expensed."
+  },
+  {
+    "enWord": "development costs",
+    "heTranslation": "עלויות פיתוח",
+    "exampleSentence": "Development costs may be capitalized."
+  },
+  {
+    "enWord": "research costs",
+    "heTranslation": "עלויות מחקר",
+    "exampleSentence": "Research costs are always expensed."
+  },
+  {
+    "enWord": "capitalization",
+    "heTranslation": "היוון",
+    "exampleSentence": "We capitalize development costs."
+  },
+  {
+    "enWord": "expensing",
+    "heTranslation": "הוצאה",
+    "exampleSentence": "We expense research costs immediately."
+  },
+  {
+    "enWord": "amortization period",
+    "heTranslation": "תקופת הפחתה",
+    "exampleSentence": "The amortization period is 10 years."
+  },
+  {
+    "enWord": "residual value",
+    "heTranslation": "שווי שיורי",
+    "exampleSentence": "Residual value is the salvage value."
+  },
+  {
+    "enWord": "disposal value",
+    "heTranslation": "שווי פינוי",
+    "exampleSentence": "Disposal value is the sale price."
+  },
+  {
+    "enWord": "straight-line depreciation",
+    "heTranslation": "פחת קו ישר",
+    "exampleSentence": "We use straight-line depreciation."
+  },
+  {
+    "enWord": "sum of years digits",
+    "heTranslation": "סכום ספרות שנים",
+    "exampleSentence": "Sum of years digits accelerates."
+  },
+  {
+    "enWord": "component depreciation",
+    "heTranslation": "פחת רכיבים",
+    "exampleSentence": "Component depreciation is more accurate."
+  },
+  {
+    "enWord": "revaluation model",
+    "heTranslation": "מודל הערכה מחדש",
+    "exampleSentence": "We use the revaluation model."
+  },
+  {
+    "enWord": "cost model",
+    "heTranslation": "מודל עלות",
+    "exampleSentence": "The cost model is simpler."
+  },
+  {
+    "enWord": "fair value model",
+    "heTranslation": "מודל שווי הוגן",
+    "exampleSentence": "The fair value model uses market prices."
+  },
+  {
+    "enWord": "investment property",
+    "heTranslation": "נכס להשקעה",
+    "exampleSentence": "Investment property earns rental income."
+  },
+  {
+    "enWord": "owner-occupied property",
+    "heTranslation": "נכס בבעלות",
+    "exampleSentence": "Owner-occupied property is for use."
+  },
+  {
+    "enWord": "held for sale",
+    "heTranslation": "מוחזק למכירה",
+    "exampleSentence": "Assets held for sale are separate."
+  },
+  {
+    "enWord": "held to maturity",
+    "heTranslation": "מוחזק לפדיון",
+    "exampleSentence": "HTM securities are at amortized cost."
+  },
+  {
+    "enWord": "available for sale",
+    "heTranslation": "זמין למכירה",
+    "exampleSentence": "AFS securities are at fair value."
+  },
+  {
+    "enWord": "trading securities",
+    "heTranslation": "ניירות ערך לסחר",
+    "exampleSentence": "Trading securities are at fair value."
+  },
+  {
+    "enWord": "fair value through profit",
+    "heTranslation": "שווי הוגן דרך רווח",
+    "exampleSentence": "FVTPL includes all changes."
+  },
+  {
+    "enWord": "fair value through OCI",
+    "heTranslation": "שווי הוגן דרך הון",
+    "exampleSentence": "FVOCI excludes some changes."
+  },
+  {
+    "enWord": "amortized cost",
+    "heTranslation": "עלות מהוונת",
+    "exampleSentence": "Amortized cost uses effective interest."
+  },
+  {
+    "enWord": "effective interest rate",
+    "heTranslation": "ריבית אפקטיבית",
+    "exampleSentence": "Effective interest rate is constant."
+  },
+  {
+    "enWord": "nominal interest rate",
+    "heTranslation": "ריבית נומינלית",
+    "exampleSentence": "Nominal rate is the stated rate."
+  },
+  {
+    "enWord": "market interest rate",
+    "heTranslation": "ריבית שוק",
+    "exampleSentence": "Market rate is the current rate."
+  },
+  {
+    "enWord": "yield to maturity",
+    "heTranslation": "תשואה לפדיון",
+    "exampleSentence": "YTM is the total return."
+  },
+  {
+    "enWord": "duration",
+    "heTranslation": "משך",
+    "exampleSentence": "Duration measures interest rate sensitivity."
+  },
+  {
+    "enWord": "convexity",
+    "heTranslation": "קמירות",
+    "exampleSentence": "Convexity measures curvature."
+  },
+  {
+    "enWord": "basis point",
+    "heTranslation": "נקודת בסיס",
+    "exampleSentence": "One basis point is 0.01%."
+  },
+  {
+    "enWord": "spread",
+    "heTranslation": "פרמיה",
+    "exampleSentence": "The spread is 200 basis points."
+  },
+  {
+    "enWord": "yield curve",
+    "heTranslation": "עקומת תשואה",
+    "exampleSentence": "The yield curve shows rates."
+  },
+  {
+    "enWord": "put",
+    "heTranslation": "פוט / מכר",
+    "exampleSentence": "Buy a put."
+  },
+  {
+    "enWord": "strike price",
+    "heTranslation": "מחיר מימוש",
+    "exampleSentence": "The strike price is 100."
+  },
+  {
+    "enWord": "premium",
+    "heTranslation": "פרמיה",
+    "exampleSentence": "Option premium."
+  },
+  {
+    "enWord": "expiry",
+    "heTranslation": "פקיעה",
+    "exampleSentence": "Date of expiry."
+  },
+  {
+    "enWord": "exercise",
+    "heTranslation": "מימוש",
+    "exampleSentence": "Exercise the option."
+  },
+  {
+    "enWord": "underlying",
+    "heTranslation": "נכס בסיס",
+    "exampleSentence": "Underlying asset."
+  },
+  {
+    "enWord": "hedge",
+    "heTranslation": "גידור",
+    "exampleSentence": "Hedge against risk."
+  },
+  {
+    "enWord": "speculation",
+    "heTranslation": "ספקולציה",
+    "exampleSentence": "Market speculation."
+  },
+  {
+    "enWord": "counterparty",
+    "heTranslation": "צד נגדי",
+    "exampleSentence": "Counterparty risk."
+  },
+  {
+    "enWord": "VaR",
+    "heTranslation": "ערך בסיכון",
+    "exampleSentence": "Calculate Value at Risk."
+  },
+  {
+    "enWord": "stress testing",
+    "heTranslation": "מבחני קיצון",
+    "exampleSentence": "Bank stress testing."
+  },
+  {
+    "enWord": "Basel",
+    "heTranslation": "באזל",
+    "exampleSentence": "Basel III accords."
+  },
+  {
+    "enWord": "capital adequacy",
+    "heTranslation": "הלימות הון",
+    "exampleSentence": "Capital adequacy requirements."
+  },
+  {
+    "enWord": "coupon",
+    "heTranslation": "קופון",
+    "exampleSentence": "Zero coupon bond."
+  },
+  {
+    "enWord": "maturity",
+    "heTranslation": "פדיון",
+    "exampleSentence": "Time to maturity."
+  },
+  {
+    "enWord": "rating",
+    "heTranslation": "דירוג",
+    "exampleSentence": "Credit rating agency."
+  },
+  {
+    "enWord": "tranche",
+    "heTranslation": "שכבה",
+    "exampleSentence": "Senior tranche."
+  },
+  {
+    "enWord": "SPV",
+    "heTranslation": "ישות ייעודית",
+    "exampleSentence": "Special Purpose Vehicle."
+  },
+  {
+    "enWord": "CDO",
+    "heTranslation": "התחייבות חוב מגובה",
+    "exampleSentence": "Collateralized Debt Obligation."
+  },
+  {
+    "enWord": "CDS",
+    "heTranslation": "חוזה החלף לחדלות פירעון",
+    "exampleSentence": "Credit Default Swap."
+  },
+  {
+    "enWord": "repo",
+    "heTranslation": "הסכם רכש חוזר",
+    "exampleSentence": "Repo market."
+  },
+  {
+    "enWord": "interest rate swap",
+    "heTranslation": "החלף ריבית",
+    "exampleSentence": "Interest rate swap agreement."
+  },
+  {
+    "enWord": "equity swap",
+    "heTranslation": "החלף הון",
+    "exampleSentence": "Equity swap contract."
+  },
+  {
+    "enWord": "currency swap",
+    "heTranslation": "החלף מטבע",
+    "exampleSentence": "Cross-currency swap."
+  },
+  {
+    "enWord": "total return swap",
+    "heTranslation": "החלף תשואה כוללת",
+    "exampleSentence": "Total return swap."
+  },
+  {
+    "enWord": "variance swap",
+    "heTranslation": "החלף שונות",
+    "exampleSentence": "Variance swap trading."
+  },
+  {
+    "enWord": "swaption",
+    "heTranslation": "אופציה על החלף",
+    "exampleSentence": "Swaption contract."
+  },
+  {
+    "enWord": "cap",
+    "heTranslation": "תקרה",
+    "exampleSentence": "Interest rate cap."
+  },
+  {
+    "enWord": "collar",
+    "heTranslation": "צווארון",
+    "exampleSentence": "Interest rate collar."
+  },
+  {
+    "enWord": "straddle",
+    "heTranslation": "סטראדל",
+    "exampleSentence": "Long straddle strategy."
+  },
+  {
+    "enWord": "strangle",
+    "heTranslation": "סטראנגל",
+    "exampleSentence": "Strangle option strategy."
+  },
+  {
+    "enWord": "butterfly",
+    "heTranslation": "פרפר",
+    "exampleSentence": "Butterfly spread."
+  },
+  {
+    "enWord": "condor",
+    "heTranslation": "קונדור",
+    "exampleSentence": "Iron condor strategy."
+  },
+  {
+    "enWord": "covered call",
+    "heTranslation": "קול מכוסה",
+    "exampleSentence": "Covered call writing."
+  },
+  {
+    "enWord": "protective put",
+    "heTranslation": "פוט מגן",
+    "exampleSentence": "Protective put strategy."
+  },
+  {
+    "enWord": "bull spread",
+    "heTranslation": "מרווח שורי",
+    "exampleSentence": "Bull call spread."
+  },
+  {
+    "enWord": "bear spread",
+    "heTranslation": "מרווח דובי",
+    "exampleSentence": "Bear put spread."
+  },
+  {
+    "enWord": "calendar spread",
+    "heTranslation": "מרווח לוח",
+    "exampleSentence": "Calendar spread trade."
+  },
+  {
+    "enWord": "diagonal spread",
+    "heTranslation": "מרווח אלכסוני",
+    "exampleSentence": "Diagonal spread strategy."
+  },
+  {
+    "enWord": "iron butterfly",
+    "heTranslation": "פרפר ברזל",
+    "exampleSentence": "Iron butterfly position."
+  },
+  {
+    "enWord": "ratio spread",
+    "heTranslation": "מרווח יחס",
+    "exampleSentence": "Ratio spread."
+  },
+  {
+    "enWord": "backspread",
+    "heTranslation": "מרווח אחורי",
+    "exampleSentence": "Call backspread."
+  },
+  {
+    "enWord": "synthetic position",
+    "heTranslation": "פוזיציה סינתטית",
+    "exampleSentence": "Synthetic long stock."
+  },
+  {
+    "enWord": "reversal",
+    "heTranslation": "הפיכה",
+    "exampleSentence": "Reversal arbitrage."
+  },
+  {
+    "enWord": "box spread",
+    "heTranslation": "מרווח קופסה",
+    "exampleSentence": "Box spread trade."
+  },
+  {
+    "enWord": "delta",
+    "heTranslation": "דלתא",
+    "exampleSentence": "Option delta."
+  },
+  {
+    "enWord": "gamma",
+    "heTranslation": "גמא",
+    "exampleSentence": "Gamma exposure."
+  },
+  {
+    "enWord": "theta",
+    "heTranslation": "תטא",
+    "exampleSentence": "Theta decay."
+  },
+  {
+    "enWord": "vega",
+    "heTranslation": "וגה",
+    "exampleSentence": "Vega risk."
+  },
+  {
+    "enWord": "rho",
+    "heTranslation": "רו",
+    "exampleSentence": "Rho sensitivity."
+  },
+  {
+    "enWord": "implied volatility",
+    "heTranslation": "תנודתיות משתמעת",
+    "exampleSentence": "Implied volatility spike."
+  },
+  {
+    "enWord": "historical volatility",
+    "heTranslation": "תנודתיות היסטורית",
+    "exampleSentence": "Historical volatility analysis."
+  },
+  {
+    "enWord": "volatility smile",
+    "heTranslation": "חיוך תנודתיות",
+    "exampleSentence": "Volatility smile pattern."
+  },
+  {
+    "enWord": "volatility skew",
+    "heTranslation": "הטיה של תנודתיות",
+    "exampleSentence": "Volatility skew observation."
+  },
+  {
+    "enWord": "volatility surface",
+    "heTranslation": "משטח תנודתיות",
+    "exampleSentence": "Volatility surface modeling."
+  },
+  {
+    "enWord": "Black-Scholes",
+    "heTranslation": "בלק-שולס",
+    "exampleSentence": "Black-Scholes model."
+  },
+  {
+    "enWord": "binomial model",
+    "heTranslation": "מודל בינומי",
+    "exampleSentence": "Binomial option pricing."
+  },
+  {
+    "enWord": "Monte Carlo",
+    "heTranslation": "מונטה קרלו",
+    "exampleSentence": "Monte Carlo simulation."
+  },
+  {
+    "enWord": "risk-neutral",
+    "heTranslation": "נייטרלי סיכון",
+    "exampleSentence": "Risk-neutral valuation."
+  },
+  {
+    "enWord": "risk premium",
+    "heTranslation": "פרמיית סיכון",
+    "exampleSentence": "Equity risk premium."
+  },
+  {
+    "enWord": "Sortino ratio",
+    "heTranslation": "יחס סורטינו",
+    "exampleSentence": "Sortino ratio."
+  },
+  {
+    "enWord": "correlation",
+    "heTranslation": "מתאם",
+    "exampleSentence": "Correlation coefficient."
+  },
+  {
+    "enWord": "covariance",
+    "heTranslation": "שונות משותפת",
+    "exampleSentence": "Covariance matrix."
+  },
+  {
+    "enWord": "efficient frontier",
+    "heTranslation": "גבול יעיל",
+    "exampleSentence": "Efficient frontier optimization."
+  },
+  {
+    "enWord": "modern portfolio theory",
+    "heTranslation": "תורת תיק המניות המודרנית",
+    "exampleSentence": "MPT principles."
+  },
+  {
+    "enWord": "capital market line",
+    "heTranslation": "קו שוק ההון",
+    "exampleSentence": "Capital market line."
+  },
+  {
+    "enWord": "security market line",
+    "heTranslation": "קו שוק ניירות ערך",
+    "exampleSentence": "Security market line."
+  },
+  {
+    "enWord": "CAPM",
+    "heTranslation": "CAPM",
+    "exampleSentence": "Capital asset pricing model."
+  },
+  {
+    "enWord": "arbitrage pricing theory",
+    "heTranslation": "תורת תמחור ארביטראז'",
+    "exampleSentence": "APT factors."
+  },
+  {
+    "enWord": "Fama-French",
+    "heTranslation": "פאמה-פרנץ'",
+    "exampleSentence": "Fama-French three-factor model."
+  },
+  {
+    "enWord": "factor investing",
+    "heTranslation": "השקעת גורמים",
+    "exampleSentence": "Factor investing strategy."
+  },
+  {
+    "enWord": "value factor",
+    "heTranslation": "גורם ערך",
+    "exampleSentence": "Value factor exposure."
+  },
+  {
+    "enWord": "momentum factor",
+    "heTranslation": "גורם מומנטום",
+    "exampleSentence": "Momentum factor."
+  },
+  {
+    "enWord": "size factor",
+    "heTranslation": "גורם גודל",
+    "exampleSentence": "Small cap size factor."
+  },
+  {
+    "enWord": "quality factor",
+    "heTranslation": "גורם איכות",
+    "exampleSentence": "Quality factor screening."
+  },
+  {
+    "enWord": "low volatility",
+    "heTranslation": "תנודתיות נמוכה",
+    "exampleSentence": "Low volatility anomaly."
+  },
+  {
+    "enWord": "smart beta",
+    "heTranslation": "בטא חכם",
+    "exampleSentence": "Smart beta ETF."
+  },
+  {
+    "enWord": "risk parity",
+    "heTranslation": "שוויון סיכון",
+    "exampleSentence": "Risk parity portfolio."
+  },
+  {
+    "enWord": "equal weight",
+    "heTranslation": "משקל שווה",
+    "exampleSentence": "Equal weight index."
+  },
+  {
+    "enWord": "market cap weighted",
+    "heTranslation": "משוקלל שווי שוק",
+    "exampleSentence": "Market cap weighted index."
+  },
+  {
+    "enWord": "fundamental indexing",
+    "heTranslation": "אינדקס פונדמנטלי",
+    "exampleSentence": "Fundamental indexing approach."
+  },
+  {
+    "enWord": "passive investing",
+    "heTranslation": "השקעה פסיבית",
+    "exampleSentence": "Passive investing strategy."
+  },
+  {
+    "enWord": "buyout fund",
+    "heTranslation": "קרן רכישה",
+    "exampleSentence": "Leveraged buyout fund."
+  },
+  {
+    "enWord": "growth equity",
+    "heTranslation": "הון צמיחה",
+    "exampleSentence": "Growth equity investment."
+  },
+  {
+    "enWord": "distressed debt",
+    "heTranslation": "חוב במצוקה",
+    "exampleSentence": "Distressed debt investing."
+  },
+  {
+    "enWord": "mezzanine financing",
+    "heTranslation": "מימון ביניים",
+    "exampleSentence": "Mezzanine capital."
+  },
+  {
+    "enWord": "structured finance",
+    "heTranslation": "מימון מובנה",
+    "exampleSentence": "Structured finance products."
+  },
+  {
+    "enWord": "asset-backed securities",
+    "heTranslation": "ניירות ערך מגובי נכסים",
+    "exampleSentence": "ABS issuance."
+  },
+  {
+    "enWord": "mortgage-backed securities",
+    "heTranslation": "ניירות ערך מגובי משכנתאות",
+    "exampleSentence": "MBS trading."
+  },
+  {
+    "enWord": "collateralized loan obligation",
+    "heTranslation": "התחייבות הלוואה מגובה",
+    "exampleSentence": "CLO structure."
+  },
+  {
+    "enWord": "synthetic CDO",
+    "heTranslation": "CDO סינתטי",
+    "exampleSentence": "Synthetic CDO creation."
+  },
+  {
+    "enWord": "credit enhancement",
+    "heTranslation": "שיפור אשראי",
+    "exampleSentence": "Credit enhancement methods."
+  },
+  {
+    "enWord": "overcollateralization",
+    "heTranslation": "בטחונות עודפים",
+    "exampleSentence": "Overcollateralization ratio."
+  },
+  {
+    "enWord": "subordination",
+    "heTranslation": "כפיפות",
+    "exampleSentence": "Subordination structure."
+  },
+  {
+    "enWord": "waterfall",
+    "heTranslation": "מפל",
+    "exampleSentence": "Payment waterfall."
+  },
+  {
+    "enWord": "prepayment risk",
+    "heTranslation": "סיכון פרעון מוקדם",
+    "exampleSentence": "Prepayment risk analysis."
+  },
+  {
+    "enWord": "extension risk",
+    "heTranslation": "סיכון הארכה",
+    "exampleSentence": "Extension risk."
+  },
+  {
+    "enWord": "default probability",
+    "heTranslation": "הסתברות מחדל",
+    "exampleSentence": "Default probability estimation."
+  },
+  {
+    "enWord": "recovery rate",
+    "heTranslation": "שיעור התאוששות",
+    "exampleSentence": "Expected recovery rate."
+  },
+  {
+    "enWord": "loss given default",
+    "heTranslation": "הפסד בשל מחדל",
+    "exampleSentence": "LGD calculation."
+  },
+  {
+    "enWord": "expected loss",
+    "heTranslation": "הפסד צפוי",
+    "exampleSentence": "Expected loss provision."
+  },
+  {
+    "enWord": "unexpected loss",
+    "heTranslation": "הפסד בלתי צפוי",
+    "exampleSentence": "Unexpected loss capital."
+  },
+  {
+    "enWord": "credit rating migration",
+    "heTranslation": "נדידת דירוג אשראי",
+    "exampleSentence": "Credit migration matrix."
+  },
+  {
+    "enWord": "investment grade",
+    "heTranslation": "דירוג השקעה",
+    "exampleSentence": "Investment grade bonds."
+  },
+  {
+    "enWord": "high yield",
+    "heTranslation": "תשואה גבוהה",
+    "exampleSentence": "High yield bonds."
+  },
+  {
+    "enWord": "junk bond",
+    "heTranslation": "אגרת חוב זבל",
+    "exampleSentence": "Junk bond market."
+  },
+  {
+    "enWord": "fallen angel",
+    "heTranslation": "מלאך שנפל",
+    "exampleSentence": "Fallen angel bond."
+  },
+  {
+    "enWord": "rising star",
+    "heTranslation": "כוכב עולה",
+    "exampleSentence": "Rising star upgrade."
+  },
+  {
+    "enWord": "crossover credit",
+    "heTranslation": "אשראי חוצה",
+    "exampleSentence": "Crossover credit."
+  },
+  {
+    "enWord": "credit curve",
+    "heTranslation": "עקומת אשראי",
+    "exampleSentence": "Credit curve analysis."
+  },
+  {
+    "enWord": "Z-spread",
+    "heTranslation": "מרווח Z",
+    "exampleSentence": "Z-spread calculation."
+  },
+  {
+    "enWord": "OAS",
+    "heTranslation": "מרווח מותאם אופציה",
+    "exampleSentence": "Option-adjusted spread."
+  },
+  {
+    "enWord": "DV01",
+    "heTranslation": "DV01",
+    "exampleSentence": "Dollar value of 01."
+  },
+  {
+    "enWord": "modified duration",
+    "heTranslation": "משך שינוי מתואם",
+    "exampleSentence": "Modified duration."
+  },
+  {
+    "enWord": "Macaulay duration",
+    "heTranslation": "משך מקולי",
+    "exampleSentence": "Macaulay duration."
+  },
+  {
+    "enWord": "effective duration",
+    "heTranslation": "משך אפקטיבי",
+    "exampleSentence": "Effective duration."
+  },
+  {
+    "enWord": "key rate duration",
+    "heTranslation": "משך שיעור מפתח",
+    "exampleSentence": "Key rate duration."
+  },
+  {
+    "enWord": "partial DV01",
+    "heTranslation": "DV01 חלקי",
+    "exampleSentence": "Partial DV01."
+  },
+  {
+    "enWord": "PV01",
+    "heTranslation": "PV01",
+    "exampleSentence": "Present value of 01."
+  },
+  {
+    "enWord": "CS01",
+    "heTranslation": "CS01",
+    "exampleSentence": "Credit spread 01."
+  },
+  {
+    "enWord": "IR01",
+    "heTranslation": "IR01",
+    "exampleSentence": "Interest rate 01."
+  },
+  {
+    "enWord": "FX01",
+    "heTranslation": "FX01",
+    "exampleSentence": "FX 01."
+  },
+  {
+    "enWord": "carry",
+    "heTranslation": "קארי",
+    "exampleSentence": "Carry trade strategy."
+  },
+  {
+    "enWord": "roll down",
+    "heTranslation": "גלילה למטה",
+    "exampleSentence": "Roll down return."
+  },
+  {
+    "enWord": "slide",
+    "heTranslation": "החלקה",
+    "exampleSentence": "Yield curve slide."
+  },
+  {
+    "enWord": "steepening",
+    "heTranslation": "תלילות",
+    "exampleSentence": "Curve steepening."
+  },
+  {
+    "enWord": "flattening",
+    "heTranslation": "שטוחות",
+    "exampleSentence": "Curve flattening."
+  },
+  {
+    "enWord": "twist",
+    "heTranslation": "פיתול",
+    "exampleSentence": "Yield curve twist."
+  },
+  {
+    "enWord": "butterfly shift",
+    "heTranslation": "תזוזת פרפר",
+    "exampleSentence": "Butterfly shift."
+  },
+  {
+    "enWord": "parallel shift",
+    "heTranslation": "תזוזה מקבילה",
+    "exampleSentence": "Parallel shift scenario."
+  },
+  {
+    "enWord": "non-parallel shift",
+    "heTranslation": "תזוזה לא-מקבילה",
+    "exampleSentence": "Non-parallel shift."
+  },
+  {
+    "enWord": "inversion",
+    "heTranslation": "היפוך",
+    "exampleSentence": "Yield curve inversion."
+  },
+  {
+    "enWord": "term structure",
+    "heTranslation": "מבנה טווח",
+    "exampleSentence": "Term structure of interest rates."
+  },
+  {
+    "enWord": "spot rate",
+    "heTranslation": "שיעור נקודתי",
+    "exampleSentence": "Spot rate curve."
+  },
+  {
+    "enWord": "forward rate",
+    "heTranslation": "שיעור עתידי",
+    "exampleSentence": "Implied forward rate."
+  },
+  {
+    "enWord": "zero-coupon curve",
+    "heTranslation": "עקומת אפס-קופון",
+    "exampleSentence": "Zero-coupon curve construction."
+  },
+  {
+    "enWord": "bootstrapping",
+    "heTranslation": "בוטסטראפינג",
+    "exampleSentence": "Curve bootstrapping method."
+  },
+  {
+    "enWord": "interpolation",
+    "heTranslation": "אינטרפולציה",
+    "exampleSentence": "Curve interpolation."
+  },
+  {
+    "enWord": "extrapolation",
+    "heTranslation": "אקסטרפולציה",
+    "exampleSentence": "Curve extrapolation."
+  },
+  {
+    "enWord": "Nelson-Siegel",
+    "heTranslation": "נלסון-סיגל",
+    "exampleSentence": "Nelson-Siegel model."
+  },
+  {
+    "enWord": "spline",
+    "heTranslation": "ספליין",
+    "exampleSentence": "Cubic spline interpolation."
+  },
+  {
+    "enWord": "tenor",
+    "heTranslation": "טנור",
+    "exampleSentence": "Bond tenor."
+  },
+  {
+    "enWord": "on-the-run",
+    "heTranslation": "במחזור",
+    "exampleSentence": "On-the-run Treasury."
+  },
+  {
+    "enWord": "off-the-run",
+    "heTranslation": "מחוץ למחזור",
+    "exampleSentence": "Off-the-run securities."
+  },
+  {
+    "enWord": "liquidity premium",
+    "heTranslation": "פרמיית נזילות",
+    "exampleSentence": "Liquidity premium."
+  },
+  {
+    "enWord": "bid-offer",
+    "heTranslation": "הצעה-דרישה",
+    "exampleSentence": "Bid-offer spread."
+  },
+  {
+    "enWord": "market making",
+    "heTranslation": "יצירת שוק",
+    "exampleSentence": "Market making activity."
+  },
+  {
+    "enWord": "flow trading",
+    "heTranslation": "מסחר זרימה",
+    "exampleSentence": "Flow trading desk."
+  },
+  {
+    "enWord": "proprietary trading",
+    "heTranslation": "מסחר קנייני",
+    "exampleSentence": "Proprietary trading."
+  },
+  {
+    "enWord": "principal trading",
+    "heTranslation": "מסחר עיקרי",
+    "exampleSentence": "Principal trading."
+  },
+  {
+    "enWord": "agency trading",
+    "heTranslation": "מסחר סוכנות",
+    "exampleSentence": "Agency trading model."
+  },
+  {
+    "enWord": "clearing",
+    "heTranslation": "סליקה",
+    "exampleSentence": "Clearing house."
+  },
+  {
+    "enWord": "T+2",
+    "heTranslation": "T+2",
+    "exampleSentence": "T+2 settlement cycle."
+  },
+  {
+    "enWord": "DVP",
+    "heTranslation": "DVP",
+    "exampleSentence": "Delivery versus payment."
+  },
+  {
+    "enWord": "netting",
+    "heTranslation": "קיזוז",
+    "exampleSentence": "Bilateral netting."
+  },
+  {
+    "enWord": "novation",
+    "heTranslation": "נובציה",
+    "exampleSentence": "Novation process."
+  },
+  {
+    "enWord": "central counterparty",
+    "heTranslation": "צד נגדי מרכזי",
+    "exampleSentence": "CCP clearing."
+  },
+  {
+    "enWord": "initial margin",
+    "heTranslation": "מרווח ראשוני",
+    "exampleSentence": "Initial margin requirement."
+  },
+  {
+    "enWord": "variation margin",
+    "heTranslation": "מרווח שינוי",
+    "exampleSentence": "Variation margin call."
+  },
+  {
+    "enWord": "fair value adjustment",
+    "heTranslation": "התאמת שווי הוגן",
+    "exampleSentence": "Fair value adjustment."
+  },
+  {
+    "enWord": "valuation adjustment",
+    "heTranslation": "התאמת שווי",
+    "exampleSentence": "CVA calculation."
+  },
+  {
+    "enWord": "CVA",
+    "heTranslation": "CVA",
+    "exampleSentence": "Credit valuation adjustment."
+  },
+  {
+    "enWord": "DVA",
+    "heTranslation": "DVA",
+    "exampleSentence": "Debit valuation adjustment."
+  },
+  {
+    "enWord": "FVA",
+    "heTranslation": "FVA",
+    "exampleSentence": "Funding valuation adjustment."
+  },
+  {
+    "enWord": "KVA",
+    "heTranslation": "KVA",
+    "exampleSentence": "Capital valuation adjustment."
+  },
+  {
+    "enWord": "MVA",
+    "heTranslation": "MVA",
+    "exampleSentence": "Margin valuation adjustment."
+  },
+  {
+    "enWord": "XVA",
+    "heTranslation": "XVA",
+    "exampleSentence": "XVA framework."
+  },
+  {
+    "enWord": "FRTB",
+    "heTranslation": "FRTB",
+    "exampleSentence": "Fundamental review of trading book."
+  },
+  {
+    "enWord": "Basel III",
+    "heTranslation": "באזל III",
+    "exampleSentence": "Basel III requirements."
+  },
+  {
+    "enWord": "regulatory capital",
+    "heTranslation": "הון רגולטורי",
+    "exampleSentence": "Regulatory capital ratio."
+  },
+  {
+    "enWord": "Tier 1 capital",
+    "heTranslation": "הון רובד 1",
+    "exampleSentence": "Tier 1 capital ratio."
+  },
+  {
+    "enWord": "Tier 2 capital",
+    "heTranslation": "הון רובד 2",
+    "exampleSentence": "Tier 2 capital instruments."
+  },
+  {
+    "enWord": "common equity tier 1",
+    "heTranslation": "הון רובד 1 רגיל",
+    "exampleSentence": "CET1 ratio."
+  },
+  {
+    "enWord": "risk-weighted assets",
+    "heTranslation": "נכסים משוקללי סיכון",
+    "exampleSentence": "RWA calculation."
+  },
+  {
+    "enWord": "liquidity coverage ratio",
+    "heTranslation": "יחס כיסוי נזילות",
+    "exampleSentence": "LCR compliance."
+  },
+  {
+    "enWord": "net stable funding ratio",
+    "heTranslation": "יחס מימון יציב נטו",
+    "exampleSentence": "NSFR requirement."
+  }
+]
