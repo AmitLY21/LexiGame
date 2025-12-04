@@ -72,8 +72,7 @@ async function resetPassword() {
     await prisma.user.update({
       where: { email: user.email },
       data: { 
-        passwordHash,
-        updatedAt: new Date()
+        passwordHash
       }
     })
 
