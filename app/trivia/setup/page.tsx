@@ -4,15 +4,12 @@ import { useEffect, useState, Suspense } from 'react'
 import ProtectedRoute from '@/components/ProtectedRoute'
 import { useRouter, useSearchParams } from 'next/navigation'
 
-// Force dynamic rendering for this page
-export const dynamic = 'force-dynamic'
-
 interface Stage {
   id: number
   nameHe: string
 }
 
-export default function TriviaSetupPage() {
+function TriviaSetupContent() {
   const router = useRouter()
   const searchParams = useSearchParams()
   const [stages, setStages] = useState<Stage[]>([])
@@ -310,6 +307,21 @@ export default function TriviaSetupPage() {
         </div>
       </div>
     </ProtectedRoute>
+  )
+}
+
+export default function TriviaSetupPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary mx-auto"></div>
+          <p className="mt-4 text-gray-600">טוען...</p>
+        </div>
+      </div>
+    }>
+      <TriviaSetupContent />
+    </Suspense>
   )
 }
 
